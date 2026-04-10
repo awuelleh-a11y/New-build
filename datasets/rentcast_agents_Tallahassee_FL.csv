@@ -1,0 +1,940 @@
+name,phone,address,city,state,zip_code,email,website,category,license_number,license_type,license_expiry,types_of_work,bbb_rating,google_rating,review_count,bbb_profile_url,source
+Eileen Waller,8507665559,,Tallahassee,FL,32303,eileenwaller@kw.com,http://eileenwaller.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Kyle Footman,8502740605,,Tallahassee,FL,32305,info@kylefootman.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Natalia Sevciuc,8504247557,,Tallahassee,FL,32303,nataly850@yahoo.com,http://www.thestarsrealty.com,Real Estate Agent,,Real Estate Agent,,Stars Realty,,,,,rentcast
+Jamie Boone,7866004465,,Tallahassee,FL,32309,jamieboonerealestate@gmail.com,,Real Estate Agent,,Real Estate Agent,,Jamie L Boone LLC,,,,,rentcast
+Kim Jones,8503251681,,Tallahassee,FL,32303,kimj@naumanngroup.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Cindy Cooper,8505458076,,Tallahassee,FL,32312,cindy@tlhrealtors.com,http://tlhrealtors.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Casie Moran,8504454739,,Tallahassee,FL,32308,casietherealtor@gmail.com,https://www.cbhartung.com/casiemoran,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Katie Searcy,8507661444,,Tallahassee,FL,32301,katie@katiesearcy.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Kelly Chavers,8507928141,,Tallahassee,FL,32311,kelly@humrealestate.com,http://humrealestate.com,Real Estate Agent,,Real Estate Agent,,Hum Real Estate,,,,,rentcast
+Jeff Naylor,8503856685,,Tallahassee,FL,32317,jeff@jeffnaylorrealtor.com,http://jeffnaylor.remax.com,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Danielle Andrews,7274332402,,Tallahassee,FL,32305,danielle@rognextgeneration.com,https://danielleandrews.myrealtyonegroup.com/,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Casey Skelton,8505108029,,Tallahassee,FL,32308,casey@pearsonrealtyflorida.com,,Real Estate Agent,,Real Estate Agent,,Pearson Realty Inc.,,,,,rentcast
+James English,8505096037,,Tallahassee,FL,32303,jimenglish.realtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Hettie Spooner,8505094337,,Tallahassee,FL,32309,hettie@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Amanda Laudadio,8503862001,,Tallahassee,FL,32301,amanda@tonyandamanda.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Bill  Lord,8509336066,,Tallahassee,FL,32308,bill@billlord.com,http://www.billlord.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Brandon Parks,8508793117,,Tallahassee,FL,32312,parks.tlhhomes@gmail.com,http://www.tallahasseehomesrealty.com,Real Estate Agent,,Real Estate Agent,,Tallahassee Homes Realty Llc,,,,,rentcast
+Lisa Montgomery-calvert,8505561226,,Tallahassee,FL,32312,lisamcalvert@outlook.com,https://www.coldwellbanker.com/fl/tallahassee/agents/lisa-montgomerycalvert/aid-p00200000fddrbswlb8ce9bqyxsw0hazbdhq1utv,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Kelly Horan Vinson,8505445455,,Tallahassee,FL,32317,kelly@kellyvinson.com,http://www.kellyvinson.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Lindsay Pearson,8505108029,,Tallahassee,FL,32311,lindsay@pearsonrealtyflorida.com,,Real Estate Agent,,Real Estate Agent,,Pearson Realty Inc.,,,,,rentcast
+Liz Harrison,8508772284,,Tallahassee,FL,32309,liz@kentstraussmanagement.com,http://www.kentstraussmanagement.com,Real Estate Agent,,Real Estate Agent,,Kent Strauss Mgt & Real Estate,,,,,rentcast
+Fay Armstrong,8505561169,,Tallahassee,FL,32312,faysarmstrong@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Zachary R Karimipour,8505449966,,Tallahassee,FL,32312,zkarimip@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Nabors Realty LLC,,,,,rentcast
+Zhongli Wang,8504450033,,Tallahassee,FL,32303,zhongliwang86@gmail.com,,Real Estate Agent,,Real Estate Agent,,Sunflower Real Estate LLC,,,,,rentcast
+Angela 'Hope' Gaines,8503222897,,Tallahassee,FL,32310,hopegaines123@gmail.com,http://hopegainesrealtor.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Lexie Foz,9049669115,,Tallahassee,FL,32311,lexiemaefoz@gmail.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Lindy Yanzer,6083860462,,Tallahassee,FL,32310,lindy@soldbysrg.com,https://www.lindyyanzer.realtor/,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+""" Amanda Drake """,8505700821,,Tallahassee,FL,32312,amandadrakerealtor@gmail.com,http://mydrakerealestate.com,Real Estate Agent,,Real Estate Agent,,Drake Real Estate Inc.,,,,,rentcast
+Jana Barnes,3055957355,,Tallahassee,FL,32303,janabarnes211@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+David Wesolowski,8502242732,,Tallahassee,FL,32303,americanrealestateagency@gmail.com,http://,Real Estate Agent,,Real Estate Agent,,"American Real Estate Agency, I",,,,,rentcast
+Lisa Carey,8502123083,,Tallahassee,FL,32304,lisa@careycottage.com,http://www.lisacareyrealtor.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Victoria Wilde,8505918104,,Tallahassee,FL,32305,victoriawilderealtor@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Andrea Meadows,8505708154,,Tallahassee,FL,32317,andrea@hillspooner.com,http://tallybuilder.com/index.php,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Christie Perkins,8503212393,,Tallahassee,FL,32312,agent@tallyrealestate.com,http://www.tallyrealestate.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Matt Hale,8505915910,,Tallahassee,FL,32303,mattrhale@hotmail.com,,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Zach Hilferding,9415049829,,Tallahassee,FL,32310,zach.newalliance@gmail.com,https://www.facebook.com/zachhasland/,Real Estate Agent,,Real Estate Agent,,New Alliance Group Realty,,,,,rentcast
+Penny Herman,8509800951,,Tallahassee,FL,32301,penny@hermanthehouse.com,https://hermanthehouse.com,Real Estate Agent,,Real Estate Agent,,Penny Herman Realty,,,,,rentcast
+Molly Corder,8505240564,,Tallahassee,FL,32312,molly@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Michael Schilling,8505908893,,Tallahassee,FL,32303,schilling.mike@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Patrick Darden,8504258484,,Tallahassee,FL,32301,pdarden@dardenrealestate.net,,Real Estate Agent,,Real Estate Agent,,TLH Realty Inc.,,,,,rentcast
+Chris Eldridge,8505671117,,Tallahassee,FL,32303,chriseldridge@kw.com,http://www.eldridgehometeam.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Deborah Gerber,8505458164,,Tallahassee,FL,32312,deb@debgerber.com,http://www.debgerber.com,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Loden Falcon,8503221649,,Tallahassee,FL,32303,loden@soldbysrg.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Melissa Mae Cain,8502281534,,Tallahassee,FL,32303,melissacain.bluewater@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+L. Kyle Rojas,8503215012,,Tallahassee,FL,32311,lkylerojas@yahoo.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Venus Desselle,8505565552,,Tallahassee,FL,32305,venus@floridaforgottencoast.com,http://www.floridaforgottencoast.com,Real Estate Agent,,Real Estate Agent,,Realty Hub,,,,,rentcast
+Susan Jones,8505867584,,Tallahassee,FL,32305,susan@bluewaterrealtygroup.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Sunny Long,8503450318,,Tallahassee,FL,32312,sunnyxl2009@yahoo.com,www.brogerrealestateservices.com,Real Estate Agent,,Real Estate Agent,,Gary Bartlett Real Estate,,,,,rentcast
+Dwayne Gavin,8507280815,,Tallahassee,FL,32317,drgavin1@yahoo.com,gavingrouprealty.com,Real Estate Agent,,Real Estate Agent,,The Gavin Group Real Estate Ll,,,,,rentcast
+Jason Picht,8502516643,,Tallahassee,FL,32301,jasonpicht@gmail.com,,Real Estate Agent,,Real Estate Agent,,Picht & Sons Real Estate,,,,,rentcast
+Shayla Platt,8502962461,,Tallahassee,FL,32301,shayladplatt@gmail.com,http://www.thejoyfilledrealtor.com,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+Marie Tran,8503200070,,Tallahassee,FL,32303,marie@armorrealty.com,http://www.realtor.com/realestateagents/66c634804bd5add0e92677bf,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Dana R Caswell,8506882494,,Tallahassee,FL,32310,dana@pearsonrealtyflorida.com,,Real Estate Agent,,Real Estate Agent,,Pearson Realty Inc.,,,,,rentcast
+Scott Kilgore,8502844112,,Tallahassee,FL,32303,scott@soldbysrg.com,http://www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Marvin Goldstein,8503297000,,Tallahassee,FL,32303,marvinagoldstein@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Chip Williams,8507332447,,Tallahassee,FL,32305,listingwithchipwilliams@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Anil Kabani,8502102387,,Tallahassee,FL,32310,anilkabani@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Jason Naumann,8509330328,,Tallahassee,FL,32303,jason@naumanngroup.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+"Jonathan Rigsby, Broker/owner/realtor",8509805734,,Tallahassee,FL,32312,jcr279@comcast.net,https://www.spotlight-re.com,Real Estate Agent,,Real Estate Agent,,Spotlight Real Estate,,,,,rentcast
+Sara Noel Proctor,8505100629,,Tallahassee,FL,32303,saranoel@tlhforsale.com,www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Kelsey Lohman,8505562130,,Tallahassee,FL,32309,lohmankelsey@gmail.com,https://lohmanrealty.com/,Real Estate Agent,,Real Estate Agent,,Lohman Realty LLC,,,,,rentcast
+Jennifer A. Hutton,8508937221,,Tallahassee,FL,32305,jennifermanuele@yahoo.com,,Real Estate Agent,,Real Estate Agent,,1st Choice Real Estate Service,,,,,rentcast
+Kyle Carpenter,6625235988,,Tallahassee,FL,32310,kcarp8303@gmail.com,http://www.mainstreetproperty.com/,Real Estate Agent,,Real Estate Agent,,Better Homes and Gardens Real Estate Main Street Properties,,,,,rentcast
+Jeffrey Baggett,3522571106,,Tallahassee,FL,32303,jefftbaggett@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Tanner Pafford,8509268777,,Tallahassee,FL,32305,tpafford01@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Sarah Hong,8502014663,,Tallahassee,FL,32303,sarahhong@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jason Madsen,8503637294,,Tallahassee,FL,32303,jason.madsen@manausa.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Dennis P St Pierre-charles,8504453189,,Tallahassee,FL,32305,globaladvisors55@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Lindsay H Elliott,8509072051,,Tallahassee,FL,32304,elliottmanagementgrouptlh@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Emily Bohnstengel,8502223674,,Tallahassee,FL,32312,embrace850living@gmail.com,http://embrace850living.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Meagan Rubottom,8502748034,,Tallahassee,FL,32312,meagan.rubottom@exprealty.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Laurie Swearingen,8503866160,,Tallahassee,FL,32308,lhswear@aol.com,http://lhswear.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Josh Kasper,8505281898,,Tallahassee,FL,32304,joshkasper@comcast.net,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Bruce Carpenter,8505457408,,Tallahassee,FL,32301,avenueteam@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Avenue Realty FL, LLC",,,,,rentcast
+Cassandra G. Harbin,8505456661,,Tallahassee,FL,32301,cgharbin1@aol.com,http://www.cassandraharbin.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+"C Glansen, Broker",8775755505,,Tallahassee,FL,32301,help@flatfee.com,http://flatfee.com,Real Estate Agent,,Real Estate Agent,,Flatfee.Com,,,,,rentcast
+Chelsey Hough,8502731237,,Tallahassee,FL,32305,chelseyhough@kw.com,www.chelseyhough.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Georgia Buford,8505093764,,Tallahassee,FL,32308,gbuford12@comcast.net,https://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Kristi Hill,8504597187,,Tallahassee,FL,32303,kristi@khillre.com,http://www.kristihillrealestate.com,Real Estate Agent,,Real Estate Agent,,Kristi Hill Real Estate,,,,,rentcast
+James Alley,8502846706,,Tallahassee,FL,32304,jimmyalley@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Cynergy Real Estate Services,",,,,,rentcast
+Elizabeth Ekk,8505673455,,Tallahassee,FL,32317,elizabethekk@gmail.com,http://www.ehrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Ekk Realty Group,,,,,rentcast
+Malissa Henning,8505244455,,Tallahassee,FL,32312,sales@malissahenningrealty.com,https://malissahenning.exprealty.com/,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+"Reggie Jahn, Agent",8505594959,,Tallahassee,FL,32311,reggiejahn@kw.com,http://www.singlefamilyhomesintallahassee.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Rob Arnold,4073897318,,Tallahassee,FL,32305,rarnold@sdrhouses.com,http://www.sdrhouses.com,Real Estate Agent,,Real Estate Agent,,Sand Dollar Realty Group Inc,,,,,rentcast
+Blair Lapete,8505705579,,Tallahassee,FL,32303,blairlapete@yahoo.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Brenda Moss,8506290950,,Tallahassee,FL,32303,pvtqrts1@aol.com,www.brendamoss.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Keillor Davis,3346274004,,Tallahassee,FL,32305,keillor@tuttland.com,,Real Estate Agent,,Real Estate Agent,,Tutt Land Company,,,,,rentcast
+Todd Bullock,4078736462,,Tallahassee,FL,32312,todd@edenandcompany.com,www.edenandcompany.com,Real Estate Agent,,Real Estate Agent,,Eden & Company,,,,,rentcast
+Gabriela Sacco,8502421816,,Tallahassee,FL,32305,gabbiesacco7@gmail.com,,Real Estate Agent,,Real Estate Agent,,All Realty Services,,,,,rentcast
+Tyler Everett,8503811192,,Tallahassee,FL,32305,tyleresales@gmail.com,http://www.re4me.net,Real Estate Agent,,Real Estate Agent,,Performance Realty,,,,,rentcast
+"Jack, Lillian, L",8509332105,,Tallahassee,FL,32301,ljack02@comcast.net,http://www.jalrealty.com,Real Estate Agent,,Real Estate Agent,,"JAL Realty, LLC",,,,,rentcast
+Gary S. Bartlett,8504435887,,Tallahassee,FL,32312,gary@bartlettreg.com,https://bartlettreg.com/,Real Estate Agent,,Real Estate Agent,,Gary Bartlett Real Estate,,,,,rentcast
+Douglas Addeo,5612186558,,Tallahassee,FL,32312,addeod@comcast.net,http://florida-flat-fee-mls.com,Real Estate Agent,,Real Estate Agent,,Community Realty Associates,,,,,rentcast
+Stacie Spears Dixon,8504455510,,Tallahassee,FL,32308,staciespears@gmail.com,http://www.staciespears.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Jamie Yarbrough,8505918860,,Tallahassee,FL,32312,jamieyar8@gmail.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Justin Peel,8505198621,,Tallahassee,FL,32304,justinpeel@maclayrealty.com,http://www.maclayrealty.com,Real Estate Agent,,Real Estate Agent,,Maclay Realty & Management Llc,,,,,rentcast
+Ron Rice,8505447070,,Tallahassee,FL,32308,info@manausa.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Leslye Matta,9549370937,,Tallahassee,FL,32303,leslye.matta@gmail.com,www.leslyematta.com,Real Estate Agent,,Real Estate Agent,,LoKation,,,,,rentcast
+Madison Avery,8507280086,,Tallahassee,FL,32309,maddieavery@ymail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Cindy  Teem,8507663682,,Tallahassee,FL,32309,cindymcteem@aol.com,http://www.cindyteem.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Joanna Mciver,8505709901,,Tallahassee,FL,32312,joannamciver14@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Cynthia Miller,8505097970,,Tallahassee,FL,32317,sunkissedrealestate@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+The Integrity Team At Keller Williams,8505231523,,Tallahassee,FL,32301,info@realtydoneright.biz,http://www.realtydoneright.biz,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Caroline T Weiss,8502511170,,Tallahassee,FL,32308,caroline.weiss.realtor@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Kevin Davis,8503251681,,Tallahassee,FL,32312,kevin@naumanngroup.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Natalie Rubik,8503856685,,Tallahassee,FL,32305,natalie@talstar.com,http://www.homesintallahassee.com,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+"Doseanu, Mariana, D",8503395671,,Tallahassee,FL,32311,mariana.doseanu@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Cole Davis,8503251681,,Tallahassee,FL,32301,coled@naumanngroup.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Bobby Nahoom,8505670037,,Tallahassee,FL,32311,nahoom1171@yahoo.com,http://www.bobbynahoom.com,Real Estate Agent,,Real Estate Agent,,Amac Real Estate Co.,,,,,rentcast
+Jennifer Patty,8505086777,,Tallahassee,FL,32309,jenniferpatty@comcast.net,http://www.jenniferpatty.com,Real Estate Agent,,Real Estate Agent,,"Bestsellers Realty, Inc.",,,,,rentcast
+Walter Kim Mcallister,8505914340,,Tallahassee,FL,32303,wkm@yourvillage.com,http://www.tallahasseehomes4you.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Allison Mcgriff,8508772070,,Tallahassee,FL,32305,inspire-cascadesvillage@elements-leads.com,,Real Estate Agent,,Real Estate Agent,,Country Roads,,,,,rentcast
+Tonya Bastien,8502014663,,Tallahassee,FL,32308,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Caroline Brewster,8502743162,,Tallahassee,FL,32303,brewster.caroline@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+James T Parker,8505708242,,Tallahassee,FL,32308,jparker229@yahoo.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Jacob O'donnell,8504431960,,Tallahassee,FL,32304,jacobodonnell.realtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Barry W Bevis,8504913600,,Tallahassee,FL,32309,7852,http://www.bevisrealty.com,Real Estate Agent,,Real Estate Agent,,Bevis Realty,,,,,rentcast
+Chris & Renee Chaback,8502104101,,Tallahassee,FL,32303,chris@bsbipartners.com,http://bsbipartners.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Porter Chandler,8505458491,,Tallahassee,FL,32317,pec777@aol.com,tallahasseehomesrealty.com,Real Estate Agent,,Real Estate Agent,,Tallahassee Homes Realty Llc,,,,,rentcast
+Yasmine Khrino,9545882328,,Tallahassee,FL,32312,deamdevelopmentfl@gmail.com,,Real Estate Agent,,Real Estate Agent,,YASMINE KHRINO,,,,,rentcast
+Brooke Yowell,8502285844,,Tallahassee,FL,32311,flrealtorbrooke@gmail.com,https://usrealtyhub.com,Real Estate Agent,,Real Estate Agent,,Realty Hub,,,,,rentcast
+Johnny Petrandis,8506713000,,Tallahassee,FL,32305,veraoffers@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Vera Group, Inc.",,,,,rentcast
+Ursula Hannah,8505563732,,Tallahassee,FL,32311,ursula1strealty@gmail.com,http://ursula1strealty.com,Real Estate Agent,,Real Estate Agent,,1St Realty Appraisal Inc,,,,,rentcast
+Russell L. Cotton,8505458004,,Tallahassee,FL,32312,russell@russellcottonandtammy.com,http://www.russellcottonandtammy.com,Real Estate Agent,,Real Estate Agent,,"Cotton & Company Real Estate,",,,,,rentcast
+Scott Purvis,8503226574,,Tallahassee,FL,32301,spurvis72@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"850 Realty, Llc",,,,,rentcast
+Lisa Braniff,9854457700,,Tallahassee,FL,32303,lisabraniff@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Braniff Realty, LLC",,,,,rentcast
+B. Jonathan Manry,8503210584,,Tallahassee,FL,32310,jonathanmanry@yahoo.com,https://jonathanmanry.theelitegrouptallahassee.com/,Real Estate Agent,,Real Estate Agent,,Kristi Hill Real Estate,,,,,rentcast
+Robyn Yant,8503203050,,Tallahassee,FL,32301,robynyant@kw.com,http://www.robynyantrealty.com,Real Estate Agent,,Real Estate Agent,,"Paul Lizet Realty Group, LLC",,,,,rentcast
+Danielle Galvin,8508937221,,Tallahassee,FL,32317,1stchoice.danielle@gmail.com,http://1stchoicehouses.com,Real Estate Agent,,Real Estate Agent,,1st Choice Real Estate Service,,,,,rentcast
+Chris Cicatello,8505192624,,Tallahassee,FL,32301,ccicatello@embarqmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+"Shelley Duke, Realtor® | Broker/owner",8507669307,,Tallahassee,FL,32309,redbirdre@gmail.com,http://www.redbirdre.com,Real Estate Agent,,Real Estate Agent,,Red Bird Realty Of Greater Tal,,,,,rentcast
+Liz Kuntz,8502123844,,Tallahassee,FL,32317,lizkuntz@kw.com,http://lizkuntz.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Suzanne Mcghee,8505562299,,Tallahassee,FL,32311,smcgheerealtor@gmail.com,http://mattoxrealty.com,Real Estate Agent,,Real Estate Agent,,"Mattox Realty, Inc",,,,,rentcast
+Corinne Johnston,8502947058,,Tallahassee,FL,32312,corinne@curlygirlteam.com,http://curlygirlteam.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Carol Merchant,8505082100,,Tallahassee,FL,32311,carolmerchantrealtor@gmail.com,www.mytallahasseerealestate.com,Real Estate Agent,,Real Estate Agent,,Red Bird Realty Of Greater Tal,,,,,rentcast
+Kimberly Nabors,8506940722,,Tallahassee,FL,32310,kimnabors.fl@gmail.com,http://kimnabors.com,Real Estate Agent,,Real Estate Agent,,Nabors Realty LLC,,,,,rentcast
+Latasha Mcdowell,8502841269,,Tallahassee,FL,32309,latasha.mcdowellre@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Charles “Trey” Cooper,8505596687,,Tallahassee,FL,32303,realtybytrey@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Stephanie Bridges,8502127247,,Tallahassee,FL,32312,stephanietherealtor@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Olesya Chatraw,8505433548,,Tallahassee,FL,32308,ochatraw@drhorton.com,www.drhorton.com,Real Estate Agent,,Real Estate Agent,,DR Horton Realty North West FL,,,,,rentcast
+Kevin L Collins,8505455356,,Tallahassee,FL,32312,kevin@summitgroupre.com,,Real Estate Agent,,Real Estate Agent,,"Summit Group Realty, LLC",,,,,rentcast
+Dustin Cook,3075753300,,Tallahassee,FL,32310,leads@easydwell.io,https://dustincook.keyes.com/,Real Estate Agent,,Real Estate Agent,,Keyes - Port St. Lucie,,,,,rentcast
+Anne Jolley Thomas,8505560953,,Tallahassee,FL,32308,aj@annejolleyrealtor.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Kitty Flynn,8502014663,,Tallahassee,FL,32317,ikittyflynn@aol.com,http://www.kittyflynn.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Megan Scheppske,8502969769,,Tallahassee,FL,32311,mnscheppske@gmail.com,http://www.compass.com,Real Estate Agent,,Real Estate Agent,,COMPASS,,,,,rentcast
+Brian W. Deen,8503221649,,Tallahassee,FL,32310,brian.deen1@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Susan Ice,8505457015,,Tallahassee,FL,32303,susan.pro@hotmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Griffin Broecker,4072670051,,Tallahassee,FL,32309,griffinbroecker@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+George Dusoe,8502223500,,Tallahassee,FL,32301,info@milleniarealty.net,www.milleniarealty.net,Real Estate Agent,,Real Estate Agent,,Millenia Realty of Florida,,,,,rentcast
+Greg Nelson,8502280950,,Tallahassee,FL,32311,gregnelson3@gmail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Leanne Groom,8505594262,,Tallahassee,FL,32312,leanne@naumanngroup.com,http://naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Elizabeth Yon,5853076094,,Tallahassee,FL,32312,lizprzybyla@kw.com,https://lizprzybyla.kw.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Beth Allen,8509806001,,Tallahassee,FL,32304,beth@robertjallen.com,http://www.robertjallen.com,Real Estate Agent,,Real Estate Agent,,Wilson Realty Of Tallahassee,,,,,rentcast
+Caitlin Saunders,8507665372,,Tallahassee,FL,32301,caitlin.saunders@manausa.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Fred Kinch,8502014663,,Tallahassee,FL,32312,fredkinch@kw.com,www.fredkinch.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Tacorra Jenkins,8508159322,,Tallahassee,FL,32303,jenkins_t@outlook.com,http://www.lokationre.com,Real Estate Agent,,Real Estate Agent,,LoKation,,,,,rentcast
+Nancy Foley,8505094792,,Tallahassee,FL,32303,fancyrealtor1@gmail.com,https://xcellencerealty.com/agents/nancy-foley/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Trey Hough,8505109507,,Tallahassee,FL,32309,trey@armorrealty.com,treyhough.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Bonnie Fowler,8505704653,,Tallahassee,FL,32312,bonnie@bonniefowler.com,http://www.bonniefowler.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Tina Coombs,8503399276,,Tallahassee,FL,32311,tallyrealtorgirl@gmail.com,http://www.bigfishflorida.com,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Karen B. Chason,8505107490,,Tallahassee,FL,32304,karenchasonrealtor@gmail.com,https://chasonyourdream.sites.cbmoxi.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Marsia Miller,8508937221,,Tallahassee,FL,32304,marsymiller@earthlink.net,,Real Estate Agent,,Real Estate Agent,,1st Choice Real Estate Service,,,,,rentcast
+Katie Hosford,8505106137,,Tallahassee,FL,32303,khosford@naumanngroup.com,https://www.naumanngroup.com/,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Michelle Manausa,8505081563,,Tallahassee,FL,32303,michelle@hillspooner.com,https://hillspooner.com/agent/michelle-manausa,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Johnny Devine,8505286800,,Tallahassee,FL,32312,johnny@johnnydevine.com,http://www.johnnydevine.com,Real Estate Agent,,Real Estate Agent,,Nabors Realty LLC,,,,,rentcast
+Tamara Carracino,8502014663,,Tallahassee,FL,32317,tamicarracino@kw.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Lindsey Mcclellan,8504452678,,Tallahassee,FL,32312,lindsey@armorrealty.com,https://lindseyskidmorerealtorr.godaddysites.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Lauren Womble,8502742435,,Tallahassee,FL,32312,laurenwomblephoto@gmail.com,http://lauren.hillspoonerelliott.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Velinda Hittinger,8505457219,,Tallahassee,FL,32309,velinda@armorrealty.com,http://www.velindahittinger.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Sarah Granger Henning,8505240305,,Tallahassee,FL,32312,info@tallyrealtors.com,http://www.bestmovehomesales.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Ondrea Maldonado,8507666551,,Tallahassee,FL,32303,ondreamrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+Katie Power,8503251681,,Tallahassee,FL,32308,katie@naumanngroup.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Catherine Beeche,8507904070,,Tallahassee,FL,32312,catherine.beeche@xcellencerealty.com,https://www.manausa.com/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Tom Hutchinson,8507270066,,Tallahassee,FL,32312,tom@tomhutchinson.co,http://tom@tomhutchinson.co,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Louis-marie Vildor,5612491206,,Tallahassee,FL,32304,tsirealty@hotmail.com,,Real Estate Agent,,Real Estate Agent,,Tsi Realty,,,,,rentcast
+Callie Rhoads,8505663727,,Tallahassee,FL,32312,callie@callierealtor.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Sarah Eden,8509339600,,Tallahassee,FL,32317,sarah@saraheden.net,http://www.saraheden.net/,Real Estate Agent,,Real Estate Agent,,Eden & Company,,,,,rentcast
+Chance Shutes,8502283784,,Tallahassee,FL,32309,chanceshutes@kw.com,https://www.realtor.com/realestateagents/629bdeffbc324767c77d40dc,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Natalie Mitchell,8502123048,,Tallahassee,FL,32312,natalie.mitchell@evrealestate.com,,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Jeffrey Doxsee,8505454747,,Tallahassee,FL,32308,nheath@homesbypremier.com,http://newhomesintallahassee.com/,Real Estate Agent,,Real Estate Agent,,Capital Property Consultants,,,,,rentcast
+George Case,8505246750,,Tallahassee,FL,32305,gcaserealtor@gmail.com,http://gcaseproperties.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Othell Broger,8504438976,,Tallahassee,FL,32303,othbrog@gmail.com,www.brogerrealestateservices.com,Real Estate Agent,,Real Estate Agent,,Broger Real Estate Services,,,,,rentcast
+Ashley Hartsfield,8502648811,,Tallahassee,FL,32303,ahartsfield02@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+"Bill Enright, Mpa, Cns, Cfs",8509331066,,Tallahassee,FL,32311,bill.enright@coldwellbanker.com,http://www.billenrightrealtor.net,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Lynnaye Boyd,8509388335,,Tallahassee,FL,32305,lynnayeboyd@gmail.com,,Real Estate Agent,,Real Estate Agent,,Resilience Realty,,,,,rentcast
+Windy Grigsby,8503397639,,Tallahassee,FL,32309,windyg@cloverkeyrealty.com,,Real Estate Agent,,Real Estate Agent,,Clover Key Realty,,,,,rentcast
+Wallisa Cobb,8503211008,,Tallahassee,FL,32308,wallisasellshomes@embarqmail.com,http://www.cobbrealtyhomes.com,Real Estate Agent,,Real Estate Agent,,Cobb Realty & Investment Compa,,,,,rentcast
+Tricia Mcclenahan,8502014663,,Tallahassee,FL,32303,tricia.mcclenahan@gmail.com,www.garybartlettrealestate.com,Real Estate Agent,,Real Estate Agent,,Gary Bartlett Real Estate,,,,,rentcast
+Susan Mcquary,8505091548,,Tallahassee,FL,32301,susanmcquary@gmail.com,http://rybakrealty.com,Real Estate Agent,,Real Estate Agent,,Harbor Point Realty,,,,,rentcast
+Stephen Hachey,8136426030,,Tallahassee,FL,32304,flatfeemlsbrokerage@gmail.com,http://www.flatfeemlsrealty.com,Real Estate Agent,,Real Estate Agent,,Flat Fee MLS Realty,,,,,rentcast
+Jake Dodson,8505087248,,Tallahassee,FL,32309,jake@tallahasseehomesales.com,http://tallahasseehomesales.com/,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Ann Mitchell,8508945500,,Tallahassee,FL,32309,thomasappraisal@comcast.net,http://,Real Estate Agent,,Real Estate Agent,,Thomas Mitchell Realty,,,,,rentcast
+Kianna Roberts,8505592397,,Tallahassee,FL,32312,kianna@robertscorealestate.com,www.elizabethekk.com,Real Estate Agent,,Real Estate Agent,,Ekk Realty Group,,,,,rentcast
+Maggie Kingsley,9042264791,,Tallahassee,FL,32305,kingsleygroupofjax@gmail.com,http://propertyinjax.com,Real Estate Agent,,Real Estate Agent,,United Real Estate Gallery,,,,,rentcast
+Lynn Cole,8505458284,,Tallahassee,FL,32317,lynncole5228@msn.com,http://www.coastwise.homesandland.com,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Steven K.,8046565007,,Tallahassee,FL,32303,realtor@beycome.com,https://www.beycome.com,Real Estate Agent,,Real Estate Agent,,beycome.com,,,,,rentcast
+Dale Adams,8505087114,,Tallahassee,FL,32312,daleadams@kw.com,http://realtordaleadams.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Sonia Brunson,8505567353,,Tallahassee,FL,32309,floridalifestylegroupre@gmail.com,http://liveafloridalifestyle.com/,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Meridee Escalera,8504455129,,Tallahassee,FL,32303,merideej@hotmail.com,http://www.tallahasseedestination.com,Real Estate Agent,,Real Estate Agent,,Destination Real Estate Corp,,,,,rentcast
+Tammy Lee,8503251681,,Tallahassee,FL,32303,tammyleeproperty@gmail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Jason Boone,8505450186,,Tallahassee,FL,32304,jasonbulterboone@yahoo.com,https://jasonboonefl.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Marshall Gibbs,8505562379,,Tallahassee,FL,32303,marshallgibbsrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Wendy Whalen,8505084934,,Tallahassee,FL,32311,wendy@wendywhalenrealty.com,http://www.wendywhalenrealty.com,Real Estate Agent,,Real Estate Agent,,"Whalen Realty, Llc",,,,,rentcast
+Jamarr Zellner,7709375747,,Tallahassee,FL,32304,jamarr.zellner@rhss.com,http://www.gohoming.com/,Real Estate Agent,,Real Estate Agent,,REALHOME SVC & SOLUTIONS INC,,,,,rentcast
+Josephine Ang,8505453363,,Tallahassee,FL,32304,josephineang@msn.com,http://www.josephineang.remax.com,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Erica Lyles,8502649730,,Tallahassee,FL,32303,ericalyles.realtor@gmail.com,https://yfrproperties.com,Real Estate Agent,,Real Estate Agent,,CENTURY 21 First Story Real Estate,,,,,rentcast
+Rafael Galán,6789844182,,Tallahassee,FL,32303,rafael.galan1267@gmail.com,www.friendlyrealestategroup.com,Real Estate Agent,,Real Estate Agent,,Friendly Real Estate Group Llc,,,,,rentcast
+Cristina Garcia,7862950149,,Tallahassee,FL,32303,christina.o.garcia@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Sonya Chapman,8508000100,,Tallahassee,FL,32303,sonyachapman5@gmail.com,http://,Real Estate Agent,,Real Estate Agent,,850 Real Estate Group Llc,,,,,rentcast
+Brittany Bevis,8503216311,,Tallahassee,FL,32303,brittany@tlhforsale.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Kayla Meadows,8146445455,,Tallahassee,FL,32303,kaylameadowsrealtor@gmail.com,http://kaylameadows.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Caroline Blakeney,8503866160,,Tallahassee,FL,32309,info@cbhnmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Stacy Harnett,8505106017,,Tallahassee,FL,32312,stacyharnett10@gmail.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Robert Daly,3525164013,,Tallahassee,FL,32317,dalyrobert11@gmail.com,besthomestallahassee.com,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Tiffany Hamilton,8507274743,,Tallahassee,FL,32311,tiffany@listandsoldteam.com,http://www.tiffanyhamilton.com,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+Joyce Gardner,8505442521,,Tallahassee,FL,32310,joyce@armorrealty.com,,Real Estate Agent,,Real Estate Agent,,Signature Realty Professionals,,,,,rentcast
+Carmin Nedley,8504912272,,Tallahassee,FL,32310,csnedley@hotmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Martin Chavez,8503203608,,Tallahassee,FL,32304,martinchavezrealtor@gmail.com,https://www.cbhartung.com/martin-chavez,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Hailey Farid,8506319971,,Tallahassee,FL,32312,haileyf.xr@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Amber Mckinney,7024032021,,Tallahassee,FL,32311,ambermckinneylv@gmail.com,,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+Deborah Rodriguez,2392655402,,Tallahassee,FL,32309,rod2013@centurylink.net,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Michelle Speisman,8502014663,,Tallahassee,FL,32311,michellespeisman@kw.com,https://michellespeisman.kw.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jay Young,4076970673,,Tallahassee,FL,32303,youcanwritetojay@gmail.com,http://www.bevisrealty.com/home,Real Estate Agent,,Real Estate Agent,,Bevis Realty,,,,,rentcast
+Stephen Kreider,8503668886,,Tallahassee,FL,32308,sskreider@gmail.com,http://proplayersrealtyusa.com/stephenskreider/,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+Brittany Williams,8505234000,,Tallahassee,FL,32310,realtorbrittanywilliams@gmail.com,,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Nancy Stedman,8505457074,,Tallahassee,FL,32311,nancystedman@gmail.com,http://www.coldwellbankertallahassee.com/agent/detail/nancy-stedman/2981,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Kenneth Ayers,8055085500,,Tallahassee,FL,32309,shrkbait@infionline.net,http://,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Scott Cowart,8506370867,,Tallahassee,FL,32309,contactcowart@gmail.com,www.contactcowart.com,Real Estate Agent,,Real Estate Agent,,The Brokerage,,,,,rentcast
+Jennifer R Ringvelski,7606225743,,Tallahassee,FL,32312,realtorjenniferr@gmail.com,https://www.cbhartung.com/jennifer-ringvelski,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Nancy Digisi,8502014663,,Tallahassee,FL,32308,nancydigisi@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+"Karen Green, Agent",8509330091,,Tallahassee,FL,32312,karen@kgreenrealtor.com,http://www.kgreenrealtor.com,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Colleen Phelps,8508793729,,Tallahassee,FL,32305,cphelps1961@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+"Amber Renaud, The Nova Group Realty",8505708242,,Tallahassee,FL,32312,amber@tngrealty.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Jennifer Botero,8508251797,,Tallahassee,FL,32303,jen@findyourhsh.com,www.findyourhsh.com,Real Estate Agent,,Real Estate Agent,,HomeSweetHome PM & Sales,,,,,rentcast
+Betty Perez,8505088208,,Tallahassee,FL,32303,betty@bettyperez.com,http://www.bettyperez.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Ziggy Dantzler,8503221649,,Tallahassee,FL,32303,ziggydantzler@icloud.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Bryce Carpenter,8505903880,,Tallahassee,FL,32309,brycecarpenter@ymail.com,,Real Estate Agent,,Real Estate Agent,,"Avenue Realty FL, LLC",,,,,rentcast
+Stacie Boone,8505568704,,Tallahassee,FL,32303,stacie.boone@evrealestate.com,https://stacieboone.evrealestate.com/,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Ann Shahawy,8503850695,,Tallahassee,FL,32303,mumjumbo@comcast.net,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Danya L Wilson,3059849904,,Tallahassee,FL,32301,danya@danyaw.com,https://www.soldbysrg.com/,Real Estate Agent,,Real Estate Agent,,Superior Realty Group Llc,,,,,rentcast
+Richard Innamorato,9043252595,,Tallahassee,FL,32303,richard.innamorato@yahoo.com,http://www.exprealty.com,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Tiffany Smith,8507665757,,Tallahassee,FL,32304,realtortiffanysmith@outlook.com,http://closingwithtiff.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Deanna M Green,8505248040,,Tallahassee,FL,32308,deannagreen.realtor@gmail.com,http://teamwills.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Nga Nguyen,8505103302,,Tallahassee,FL,32303,ngatherealtor@gmail.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Buddy Lee,8007429165,,Tallahassee,FL,32304,buddy@7hauctions.com,www.7hauctions.com,Real Estate Agent,,Real Estate Agent,,Seven Hills Auctions,,,,,rentcast
+Trina Searcy,8505080134,,Tallahassee,FL,32309,trina@trinasearcyrealtor.com,http://www.trinasearcyrealtor.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Eric Derose,8505664620,,Tallahassee,FL,32317,askderose@gmail.com,http://askderose.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Tonya Sanders,8506298892,,Tallahassee,FL,32301,tonya850realtor@gmail.com,www.tonya850realtor.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Sinan Zakaria,8009955879,,Tallahassee,FL,32303,,,Real Estate Agent,,Real Estate Agent,,LISTED SIMPLY,,,,,rentcast
+Pamela Jordan,8502122934,,Tallahassee,FL,32301,pamela@thewwtgroup.com,https://pamela.hamiltonsold.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Shannon Pararo,8505095241,,Tallahassee,FL,32301,info@shannonpararo.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Lee Snowden,8503391633,,Tallahassee,FL,32312,lsnowden64@comcast.net,www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Damian Costantino,8502511341,,Tallahassee,FL,32304,dcostantino.realtor@gmail.com,www.tallahasseerealestateweb.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Bonnie Scott-walls,8502949275,,Tallahassee,FL,32301,bonniescottwalls@comcast.net,http://coldwellbankertallahassee.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Crystal Bends,8502513969,,Tallahassee,FL,32317,crystalbends@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Home Hound Real Estate,,,,,rentcast
+Clint Bailey,8508792529,,Tallahassee,FL,32305,aaronclintbailey@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Amy Billingsley,8503457985,,Tallahassee,FL,32312,amyknowstally@gmail.com,https://www.facebook.com/amyknowstally,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Julie Cosper,8502519612,,Tallahassee,FL,32309,jbcosper919@gmail.com,,Real Estate Agent,,Real Estate Agent,,Pearson Realty Inc.,,,,,rentcast
+Judith A Bergantino,8502843016,,Tallahassee,FL,32309,jabergantino@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Bergantino Realty LLC,,,,,rentcast
+Brittany Lunt,8508932765,,Tallahassee,FL,32309,luntrunts@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Lunt Realty, Llc",,,,,rentcast
+Amber Maxwell,8505708242,,Tallahassee,FL,32312,ambermaxwellfl@gmail.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Lesa Hart,8504437919,,Tallahassee,FL,32304,lesa.hart@comcast.net,https://www.lesahart.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Joann Jacobs,8505562220,,Tallahassee,FL,32310,jacobsjoann@gmail.com,http://www.tallyopenhouses.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Jennifer Akins,8504052671,,Tallahassee,FL,32305,flrealtorjennifer@gmail.com,http://akinsrealtyservices.com,Real Estate Agent,,Real Estate Agent,,Akins Realty,,,,,rentcast
+Nicholas Mihalich,8505452866,,Tallahassee,FL,32309,nick@tapstally.com,http://www.tapstally.com,Real Estate Agent,,Real Estate Agent,,Thomas Acq & Prop Spec,,,,,rentcast
+Jeffry Wood,8503391561,,Tallahassee,FL,32317,jeff-wood@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Wilda Sigler,8508885832,,Tallahassee,FL,32312,wildasigler@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Erik Seise,9044038938,,Tallahassee,FL,32305,erikseise@gmail.com,http://erikseiserealtor.com,Real Estate Agent,,Real Estate Agent,,Bevis Realty,,,,,rentcast
+Peggy Owens,8509268344,,Tallahassee,FL,32308,owensplee@comcast.net,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Dustin Carruthers,8507274743,,Tallahassee,FL,32308,dustincarruthers@live.com,https://dustincarruthers.hillspooner.com/,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Raymond Seaman,8509990868,,Tallahassee,FL,32309,ray@rayseaman.com,www.daltonwade.com,Real Estate Agent,,Real Estate Agent,,"Dalton Wade, Inc",,,,,rentcast
+Damon Hutchison,8505706113,,Tallahassee,FL,32303,dzhakw@msn.com,https://www.capitalcityreg.com,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Morgan A Wood,8502949623,,Tallahassee,FL,32305,morganannwood@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Trecie Leachman,3216267257,,Tallahassee,FL,32305,trecie@hillspooner.com,https://hillspooner.com/agent/trecie-leachman,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Karen Gillispie,8505567740,,Tallahassee,FL,32310,karen@gillispiehomeadvisors.com,http://www.gillispiehomeadvisors.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jody Harbin,8503850094,,Tallahassee,FL,32301,mj8harbin@gmail.com,,Real Estate Agent,,Real Estate Agent,,Equity Realty and Management,,,,,rentcast
+Taylor Barnes,8509388335,,Tallahassee,FL,32305,taylor.rayanna.b@gmail.com,,Real Estate Agent,,Real Estate Agent,,Resilience Realty,,,,,rentcast
+Rennai Palmer,8505285843,,Tallahassee,FL,32308,rennai@myregalhome.com,http://www.myregalhome.com,Real Estate Agent,,Real Estate Agent,,"Regal Homes, LLC",,,,,rentcast
+Dulcie Renee Kane,8508786951,,Tallahassee,FL,32312,reneekane@comcast.net,,Real Estate Agent,,Real Estate Agent,,Alta Vista Realty,,,,,rentcast
+Deana Herndon,8505190599,,Tallahassee,FL,32312,deanaherndon@gmail.com,http://deanaherndon.exprealty.com,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Moshe Sheffi,3219452367,,Tallahassee,FL,32303,mosheffi1@gmail.com,,Real Estate Agent,,Real Estate Agent,,HPL REALTY INVESTMENTS,,,,,rentcast
+Edine F Landoure,8505610400,,Tallahassee,FL,32301,edinelandoure@outlook.com,,Real Estate Agent,,Real Estate Agent,,Empire Properties,,,,,rentcast
+Jonathan B Thomas,8505673455,,Tallahassee,FL,32301,850jthomas@gmail.com,www.elizabethekk.com,Real Estate Agent,,Real Estate Agent,,Ekk Realty Group,,,,,rentcast
+Carol Pressey Pa,8773662213,,Tallahassee,FL,32301,jennifer.draper@listed.com,http://www.lpt.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Jessica Lowe-minor,8502283646,,Tallahassee,FL,32309,jessica@thewilliamsgroupre.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Carrie Fraser,8505918584,,Tallahassee,FL,32309,carrie.fraser@kw.com,https://www.facebook.com/carriefraserrealtor/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Gina C Gardner-oliver,8502840878,,Tallahassee,FL,32311,oliverservicesllc@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Jessica Hooker,5613463228,,Tallahassee,FL,32309,jessica@hillspooner.com,http://www.jessicahookerhomes.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Joseph Serpico,8509420500,,Tallahassee,FL,32303,serpico@serpicorealty.com,,Real Estate Agent,,Real Estate Agent,,"Serpico Realty, Inc.",,,,,rentcast
+Tami Frankland,8503251681,,Tallahassee,FL,32301,tami@naumanngroup.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Johanna Dorsett,8506942680,,Tallahassee,FL,32317,jdorsett@homesbypremier.com,,Real Estate Agent,,Real Estate Agent,,Capital Property Consultants,,,,,rentcast
+Steve Wright,8507012300,,Tallahassee,FL,32303,investorsfl@gmail.com,,Real Estate Agent,,Real Estate Agent,,Investors Realty Of Tallahasse,,,,,rentcast
+Aisha Reeves,8504450474,,Tallahassee,FL,32305,countrylivingrealtoraisha@gmail.com,https://linktr.ee/countryliving.realtor,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Jeffery Beasley,8505105192,,Tallahassee,FL,32303,scheider13@yahoo.com,www.navigationrealty.com,Real Estate Agent,,Real Estate Agent,,"Navigation Realty, Inc.",,,,,rentcast
+Jim Butler,8509339005,,Tallahassee,FL,32312,jmb9005@gmail.com,http://www.coldwellbankertallahassee.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Shenika Mcnear,8502902927,,Tallahassee,FL,32304,shenika@shenikajmcnear.com,https://shenikajmcnear.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Daniela Farris,8507284076,,Tallahassee,FL,32312,danielafarris@kw.com,http://danielafarris.kw.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Adieren Mayfield,8507282217,,Tallahassee,FL,32308,adierenmarie@gmail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Sarah Tyler,8505093156,,Tallahassee,FL,32310,sarahtyler3156@gmail.com,www.proplayersrealty.com,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+Dennis L. Coxwell,8505190424,,Tallahassee,FL,32309,dennis@thecoxwellteam.com,http://www.thecoxwellteam.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Hassam Ameen,8504457233,,Tallahassee,FL,32312,hfameen@hotmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Ginger Mccomas,8507288070,,Tallahassee,FL,32308,gingermccomasrealtor@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Phillip Summers,8502225658,,Tallahassee,FL,32301,phil@summersrealty.com,,Real Estate Agent,,Real Estate Agent,,"Summers Realty Of Tallahassee,",,,,,rentcast
+Joana Villeneuve,8509072051,,Tallahassee,FL,32312,joanavrealty@gmail.com,www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Torris Bethea,8505706655,,Tallahassee,FL,32303,torrisbethea@gmail.com,,Real Estate Agent,,Real Estate Agent,,Blue Legacy Real Estate Group,,,,,rentcast
+Scott Williams,8502944702,,Tallahassee,FL,32303,scott@folsomenterprises.com,,Real Estate Agent,,Real Estate Agent,,"Folsom Real Estate, Llc",,,,,rentcast
+Jennifer Petrandis,8502519373,,Tallahassee,FL,32310,coastwisejennifer@yahoo.com,http://coastwiserealtygroup.com,Real Estate Agent,,Real Estate Agent,,Timber & Tides Real Estate,,,,,rentcast
+Reem Am,8505913073,,Tallahassee,FL,32312,reemwazani@yahoo.com,http://reemam.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Bill Poole,8504435808,,Tallahassee,FL,32309,cjohnson@cureton-johnson.com,http://billpooleproperties.com,Real Estate Agent,,Real Estate Agent,,"William ""Bill"" Poole",,,,,rentcast
+Haley West,8505591235,,Tallahassee,FL,32312,haleyjahn1@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Hollie Myers,5613103605,,Tallahassee,FL,32312,hmyers.realtor@gmail.com,http://ourtallahasseehome.com,Real Estate Agent,,Real Estate Agent,,Thomas Lynne Realty Group Llc,,,,,rentcast
+Sylvia Carver,2282343545,,Tallahassee,FL,32304,sylviacarver7@gmail.com,,Real Estate Agent,,Real Estate Agent,,Sylvia Carver Real Estate,,,,,rentcast
+R. Scott Tharpe,8506941410,,Tallahassee,FL,32303,rscotttharpe@gmail.com,,Real Estate Agent,,Real Estate Agent,,ELEV8 Realty Group,,,,,rentcast
+Rachel Sparling,8502649241,,Tallahassee,FL,32311,sparling.rach@gmail.com,,Real Estate Agent,,Real Estate Agent,,All Realty Services,,,,,rentcast
+Lucretia Thomas,8505459584,,Tallahassee,FL,32310,lucretia@tapstally.com,http://www.tapstally.com,Real Estate Agent,,Real Estate Agent,,Thomas Acq & Prop Spec,,,,,rentcast
+Paulette Mcfarlane,8502510327,,Tallahassee,FL,32305,paulette03@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Mac's Properties & Rental,,,,,rentcast
+Ian Willis,8503866160,,Tallahassee,FL,32309,ianwillis04@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Christopher Worth,8503453560,,Tallahassee,FL,32305,christopherworth@kw.com,christopherworth.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Rena R German,8505241450,,Tallahassee,FL,32311,renagermanrealestate@gmail.com,,Real Estate Agent,,Real Estate Agent,,Golden Key Real Estate Group,,,,,rentcast
+Wayne W Revell,8502948865,,Tallahassee,FL,32303,twrevell@aol.com,,Real Estate Agent,,Real Estate Agent,,850 Hometown Realty,,,,,rentcast
+Aneisha Whitfield,8508792213,,Tallahassee,FL,32310,aneisha.whitfield@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Fincher Smith,8505459070,,Tallahassee,FL,32303,fincher@finchtally.com,http://www.coldwellbankertallahassee.com/finchersmith,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Lasheriny Word,8502105884,,Tallahassee,FL,32309,lasherinyword@yahoo.com,www.wordandcompany.net,Real Estate Agent,,Real Estate Agent,,Word & Company Realty,,,,,rentcast
+Brailey Horne,8502014663,,Tallahassee,FL,32305,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+David Burks,8504911078,,Tallahassee,FL,32303,david@dmbproperty.com,,Real Estate Agent,,Real Estate Agent,,David M. Burks Property Mgmt.,,,,,rentcast
+Shehu Tagoe,8502014663,,Tallahassee,FL,32311,shehutagoe@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Grace Horowitz,8508791994,,Tallahassee,FL,32305,grace_horowitz@aol.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Mary Heather Webb,7034012065,,Tallahassee,FL,32305,mhhaus4u@gmail.com,https://www.zillow.com/profile/mary%20h%20webb,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Sarah Springer,8504458760,,Tallahassee,FL,32304,sarah@pathwaysrealtytlh.com,http://www.pathwaysrealtytlh.com,Real Estate Agent,,Real Estate Agent,,Pathways Realty,,,,,rentcast
+Dixie Russell,8505669285,,Tallahassee,FL,32309,dixielrussell@gmail.com,www.primesouthrealty.com,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Lindsey Begue,8508880888,,Tallahassee,FL,32312,lindsey.begue@manausa.com,,Real Estate Agent,,Real Estate Agent,,Capital Property Consultants,,,,,rentcast
+Greg Jones,8505560858,,Tallahassee,FL,32308,gsj316@gmail.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Victoria Sachs,3865892315,,Tallahassee,FL,32301,sachs.victoria@gmail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Stella Kathr Jones,8505566033,,Tallahassee,FL,32312,katiejonesrealtor@outlook.com,,Real Estate Agent,,Real Estate Agent,,Florida Homes Realty & Mortgag,,,,,rentcast
+Jag Mohan,5618053948,,Tallahassee,FL,32311,jagmohan@rogers.com,http://www.exitrealtyoceanside.com,Real Estate Agent,,Real Estate Agent,,EXIT REALTY OCEANSIDE,,,,,rentcast
+Omar Hajjar,8503399830,,Tallahassee,FL,32309,omar@naumanngroup.com,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Sonya Fowler Revell,8505447700,,Tallahassee,FL,32309,sonya@fowlerrevell.com,http://fowlerrevell.com,Real Estate Agent,,Real Estate Agent,,Fowler Revell Real Estate Co.,,,,,rentcast
+Kelli Walton,8503216326,,Tallahassee,FL,32312,kelliwalton@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Katherine Cave,4234940547,,Tallahassee,FL,32305,katielrcave@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Epique Realty, INC",,,,,rentcast
+Angela Wills,8502843629,,Tallahassee,FL,32309,angela@teamwills.com,http://teamwills.com,Real Estate Agent,,Real Estate Agent,,Team Wills Real Estate Group,,,,,rentcast
+Travis Sykes,8505704212,,Tallahassee,FL,32304,tsykesemail@gmail.com,https://www.uchometownrealty.com/,Real Estate Agent,,Real Estate Agent,,850 Hometown Realty,,,,,rentcast
+Stephanie Wise,8507273052,,Tallahassee,FL,32303,stephaniewiserealtor@gmail.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+"Kara V. Richetti, Agent",8505453039,,Tallahassee,FL,32305,karav@kw.com,redkeyhomesfl.com,Real Estate Agent,,Real Estate Agent,,Real Broker LLC,,,,,rentcast
+Jason Saphire,8772495478,,Tallahassee,FL,32312,entryonly.lead@gmail.com,http://www.entryonly.com/,Real Estate Agent,,Real Estate Agent,,"JASON SAPHIRE, BROKER",,,,,rentcast
+Margaret Atayants,8502014663,,Tallahassee,FL,32308,margaretatayants@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Jaquelynn Harrison-cofty,8505452302,,Tallahassee,FL,32303,key.cofty@gmail.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Donna Salters,8502843622,,Tallahassee,FL,32303,donnasalters@yahoo.com,www.proplayersrealty.com,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+Gay Steffen,8507270066,,Tallahassee,FL,32301,gaysteffen@gmail.com,https://www.floridalandlady.com,Real Estate Agent,,Real Estate Agent,,CENTURY 21 First Story Real Estate,,,,,rentcast
+Terri Doxsee,8509268777,,Tallahassee,FL,32309,bluewaterkyle@aol.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Andrea Fryk,8504594911,,Tallahassee,FL,32312,andrea@andreasellstally.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+John Brooks,8505918111,,Tallahassee,FL,32304,sellitbrooks@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Petra Myrick,8502518940,,Tallahassee,FL,32312,petemyrick55@gmail.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Bev Yates,8503862001,,Tallahassee,FL,32309,briancproctor1@gmail.com,http://talcor.com,Real Estate Agent,,Real Estate Agent,,Nai Talcor Commercial,,,,,rentcast
+Marylou Johnston,8507661726,,Tallahassee,FL,32309,marylou_johnston@yahoo.com,http://maryloujohnstonrealestate.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Anthony Laudadio,8509072051,,Tallahassee,FL,32312,anthony@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+June Wright,8505087447,,Tallahassee,FL,32309,junewright@ketchamrealty.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+"Terry Connors, Ii",7274526054,,Tallahassee,FL,32303,terry@crecfl.com,http://www.connorsconsultingre.com/,Real Estate Agent,,Real Estate Agent,,THE SHOP REAL ESTATE CO.,,,,,rentcast
+Jennifer Hebert,8505905254,,Tallahassee,FL,32304,yournewperch@gmail.com,http://www.yournewperch.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Michael Balanoff,8505664610,,Tallahassee,FL,32310,mrbalanoff@gmail.com,,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Ben Poston,8504081479,,Tallahassee,FL,32305,benjaminposton@gmail.com,http://www.viewtallahasseeproperties.com,Real Estate Agent,,Real Estate Agent,,"Canopy Road Realty, LLC",,,,,rentcast
+Stephanie Hopkins,8505197807,,Tallahassee,FL,32310,sddavis31@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jasmine Khrino,9545882328,,Tallahassee,FL,32312,dreamdevelopmentfl@gmail.com,,Real Estate Agent,,Real Estate Agent,,YASMINE KHRINO,,,,,rentcast
+Janet Gordon,9544012351,,Tallahassee,FL,32310,gordonhouserealty@yahoo.com,http://www.gordonhouserealty.com,Real Estate Agent,,Real Estate Agent,,Gordon House Realty Inc,,,,,rentcast
+Jared Parramore,8509268038,,Tallahassee,FL,32304,jared.parramore@gmail.com,,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Kayla Palmer,8505444655,,Tallahassee,FL,32303,kaylapalmer4891@gmail.com,http://www.timberandtidesre.com/,Real Estate Agent,,Real Estate Agent,,Timber & Tides Real Estate,,,,,rentcast
+Judy A. Wilson,8509333312,,Tallahassee,FL,32312,jwilson@jwilson-realtor.com,http://www.jwilson-realtor.com,Real Estate Agent,,Real Estate Agent,,Wilson Realty Of Tallahassee,,,,,rentcast
+Garret Heussner,8502738783,,Tallahassee,FL,32303,gtheussner@gmail.com,http://facebook.com/realtorgarret,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Terrance Barber,8502242622,,Tallahassee,FL,32301,terrancelbarber@gmail.com,,Real Estate Agent,,Real Estate Agent,,Cobb Realty & Investment Compa,,,,,rentcast
+Carol Cartee,8505995449,,Tallahassee,FL,32309,carolcartee@comcast.net,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Constance Buford,8503203537,,Tallahassee,FL,32312,constance@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Alisa Mcmahon,8505103961,,Tallahassee,FL,32303,bluewateralisa@gmail.com,http://bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Ryan Horton,8505701959,,Tallahassee,FL,32309,ryanhorton@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Debbie Kirkland,8502120440,,Tallahassee,FL,32312,debbie@firststory.co,http://www.firststory.co/,Real Estate Agent,,Real Estate Agent,,CENTURY 21 First Story Real Estate,,,,,rentcast
+Renee Glennon,8504455180,,Tallahassee,FL,32317,renee.glennon@comcast.net,http://reneeglennon.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Kathy Reardon,8505102511,,Tallahassee,FL,32309,kathy@tallahasseehomeseller.com,http://tallahasseehomeseller.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Taylor Warnke,8505088987,,Tallahassee,FL,32308,warnketaylor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Passage Real Estate,,,,,rentcast
+Kyle Kozloski,9046292262,,Tallahassee,FL,32312,kkozloski@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Kozloski Realty, LLC",,,,,rentcast
+Alex Nunez,8507660067,,Tallahassee,FL,32317,nunez.f.alex@gmail.com,http://twelvepoints.realestate,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+Dan Neall,8508079040,,Tallahassee,FL,32310,danneallbsr@yahoo.com,https://danneallrealtor.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Jonathan Minerick,8884002513,,Tallahassee,FL,32303,info@homecoin.com,homecoin.com,Real Estate Agent,,Real Estate Agent,,HOMECOIN.COM,,,,,rentcast
+Danielle Doughty,8502126359,,Tallahassee,FL,32317,danielled10193@gmail.com,,Real Estate Agent,,Real Estate Agent,,Hollifield Real Estate Group,,,,,rentcast
+Suzanne Latacz,8505455314,,Tallahassee,FL,32311,pketcham@ketchamgroup.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Charlotte White,2394050024,,Tallahassee,FL,32312,charlotte@abrokersconcierge.com,abrokersconcierge.com,Real Estate Agent,,Real Estate Agent,,A Broker's Concierge,,,,,rentcast
+Terence Hinson,8502244775,,Tallahassee,FL,32303,trhinson@aol.com,,Real Estate Agent,,Real Estate Agent,,Hinson Realty,,,,,rentcast
+Nan Greynolds,8503251681,,Tallahassee,FL,32301,nanbg@aol.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Courtney Napolitano,8632453532,,Tallahassee,FL,32317,tallyrenorealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Ric Hollifield,8505451970,,Tallahassee,FL,32303,richollifield@hotmail.com,http://www.rapidlistings.com/rhollifield,Real Estate Agent,,Real Estate Agent,,Hollifield Real Estate Group,,,,,rentcast
+Andy Rio,8505974382,,Tallahassee,FL,32304,yerandyr1022@gmail.com,,Real Estate Agent,,Real Estate Agent,,"TRINITY ROSE REALTY, INC",,,,,rentcast
+Susan Gay,8505095883,,Tallahassee,FL,32309,susangay75@gmail.com,http://seacrestre.com,Real Estate Agent,,Real Estate Agent,,"Sea Crest Real Estate, Inc.",,,,,rentcast
+Marcus Edenfield,8508880888,,Tallahassee,FL,32312,marcus.edenfield@manausa.com,,Real Estate Agent,,Real Estate Agent,,Capital Property Consultants,,,,,rentcast
+Dana Baus,8503391008,,Tallahassee,FL,32301,danabaus@gmail.com,http://www.danabaus.com,Real Estate Agent,,Real Estate Agent,,Signature Realty Professionals,,,,,rentcast
+Barbara Slaughter,8505995450,,Tallahassee,FL,32310,barbara32308@gmail.com,http://barbaraslaughter.remax.com/,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Karen Ann Ward,8505092996,,Tallahassee,FL,32311,karenward825@yahoo.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Carol Waugh,8505457366,,Tallahassee,FL,32309,carol@waugh.biz,http://www.waughrealestate.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Katsi Merritt,8508680204,,Tallahassee,FL,32303,katsimerritt@gmail.com,https://katsimerritt.exprealty.com/,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Nadia Nixon,8507566421,,Tallahassee,FL,32308,nadia@thewilliamsgroupre.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Minneth Chanco,9044607736,,Tallahassee,FL,32303,sg.minneth@gmail.com,,Real Estate Agent,,Real Estate Agent,,CENTURY 21 INTEGRA,,,,,rentcast
+Phillip Kelly,8505088987,,Tallahassee,FL,32301,phillipdgkelly@gmail.com,,Real Estate Agent,,Real Estate Agent,,Passage Real Estate,,,,,rentcast
+Nikky Manausa,8505677785,,Tallahassee,FL,32303,nikky@manausa.com,https://nikkymanausa.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Gena Smith,8502014663,,Tallahassee,FL,32312,genabsmith@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Landcorp, Inc.",,,,,rentcast
+Bert Pope,8509332378,,Tallahassee,FL,32304,bert@bertpope.com,http://bertpope.com,Real Estate Agent,,Real Estate Agent,,Bert Pope & Associates Llc,,,,,rentcast
+Matthew Dixon,8505198619,,Tallahassee,FL,32303,dixon.s.matthew@gmail.com,,Real Estate Agent,,Real Estate Agent,,Dixon Real Estate & Company,,,,,rentcast
+Dana Salley,8505451217,,Tallahassee,FL,32308,dana@jdsalley.com,,Real Estate Agent,,Real Estate Agent,,"J. D. Salley & Associates, Inc",,,,,rentcast
+Tia Smith,8503221649,,Tallahassee,FL,32304,tia@myregalhome.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Curlis Knowles,8502847205,,Tallahassee,FL,32301,knowlestally2@yahoo.com,www.brogerrealestateservices.com,Real Estate Agent,,Real Estate Agent,,Broger Real Estate Services,,,,,rentcast
+Kenley Stringer,8507782010,,Tallahassee,FL,32303,info@rentwithintegrity.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Lucia M Nepola,2292202704,,Tallahassee,FL,32304,rachelh@premiergrouprealty.com,www.eliteallianceteam.com,Real Estate Agent,,Real Estate Agent,,"Elite Alliance Realty, LLC",,,,,rentcast
+Joan H. Raley,8505459390,,Tallahassee,FL,32301,joan@joanraley.com,http://www.joanraley.com,Real Estate Agent,,Real Estate Agent,,"Joan H. Raley, Realtor",,,,,rentcast
+Christopher Poyner,8508880888,,Tallahassee,FL,32308,chris.poyner@manausa.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+John D Stehmeyer,8509427653,,Tallahassee,FL,32317,proplayersrealty@yahoo.com,www.proplayersrealty.com,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+Corry Edmondson,8503633744,,Tallahassee,FL,32303,corrysellstally@gmail.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Osvaldo Hernandez,8502014663,,Tallahassee,FL,32310,ohacie@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Core Property Management,8507029100,,Tallahassee,FL,32312,info@corerpm.com,http://www.corerpm.com,Real Estate Agent,,Real Estate Agent,,Core Residential Property Mana,,,,,rentcast
+Mandy O'callaghan,8503397639,,Tallahassee,FL,32311,mandyo@cloverkeyrealtor.com,http://cloverkeyrealty.com,Real Estate Agent,,Real Estate Agent,,Clover Key Realty,,,,,rentcast
+Brianna Curl,8507032516,,Tallahassee,FL,32304,brianna@rognextgeneration.com,https://www.realtor.com/realestateagents/61ddd8441752fd3f1aad1263,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Leah Chapin,8502127753,,Tallahassee,FL,32303,leah@ketchamrealty.com,http://www.tallahasseehousehunters.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Teiko Gooch,8505094549,,Tallahassee,FL,32305,mgoochuniversal@centurylink.net,http://,Real Estate Agent,,Real Estate Agent,,"Universal Realty, Llc",,,,,rentcast
+Dale Fuller,8503866160,,Tallahassee,FL,32301,dalefuller.coldwellbanker@gmail.com,dalefuller-realtor.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Thomas J Jacobs,8505562220,,Tallahassee,FL,32303,tjacobs4477@gmail.com,http://www.tallyopenhouses.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Gary Fogleman,8502228702,,Tallahassee,FL,32310,sleachs@comcast.net,,Real Estate Agent,,Real Estate Agent,,Midtown Meridian Realty & Mana,,,,,rentcast
+Megan Campbell,8503204022,,Tallahassee,FL,32304,megancampbellcps@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Michelle M Shaw,8505281979,,Tallahassee,FL,32310,michelle@empireproperties.com,http://empireproperties.com,Real Estate Agent,,Real Estate Agent,,Empire Properties,,,,,rentcast
+Edgardo Gonzalez,4073194113,,Tallahassee,FL,32308,edgarrealty@aol.com,http://www.realtyservicesofamerica.com,Real Estate Agent,,Real Estate Agent,,REALTY SERVICES OF AMERICA,,,,,rentcast
+Angela Allen,3212770900,,Tallahassee,FL,32304,helpfulangela123@gmail.com,http://flarealtyinvestements.com,Real Estate Agent,,Real Estate Agent,,FLORIDA REALTY INVESTMENTS,,,,,rentcast
+Chantel Hormuth,8502014663,,Tallahassee,FL,32308,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Eric Smallridge,8502014663,,Tallahassee,FL,32305,ericsmallridge@gmail.com,http://www.sellingtallahassee.com/,Real Estate Agent,,Real Estate Agent,,Proper Real Estate Advisors,,,,,rentcast
+Stan Derzypolski,8505704767,,Tallahassee,FL,32303,stan@3river.com,http://www.3river.com,Real Estate Agent,,Real Estate Agent,,"Three Rivers, Inc.",,,,,rentcast
+Melisa Smith,8505094870,,Tallahassee,FL,32317,realestatebylisa@yahoo.com,gtwoproperties.com,Real Estate Agent,,Real Estate Agent,,"Gtwo Property Services, Llc",,,,,rentcast
+Olivier Monod-ducimetiere,8509274000,,Tallahassee,FL,32305,olivier@anchorfl.com,,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Susan Gillespie,8502221196,,Tallahassee,FL,32312,susan.lordandstanley@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Lord & Stanley Realty, Inc.",,,,,rentcast
+Wanda Smith,8509333146,,Tallahassee,FL,32305,wandas0405@gmail.com,http://greyhavenrealestate.com,Real Estate Agent,,Real Estate Agent,,Grey Haven Real Estate LLC,,,,,rentcast
+John Brown,8505246720,,Tallahassee,FL,32312,jpbrown@bpfla.com,http://jpbrown.sgi.beachpropertiesfla.com,Real Estate Agent,,Real Estate Agent,,Beach Properties Of Florida,,,,,rentcast
+Candace Riley,8503228789,,Tallahassee,FL,32303,candaceriley@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Sarah Scott,8508387029,,Tallahassee,FL,32317,sarahscott.gbre@gmail.com,https://www.facebook.com/sarahscottrealtorgbre/,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+"Mariela Bartens, Realtor",8505453920,,Tallahassee,FL,32304,mariela@marielasellshomes.com,http://www.marielasellshomes.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Andy Elliott,8504438285,,Tallahassee,FL,32312,andy@xcellencerealty.org,http://xcellence.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Kaylen Nolan,8503220952,,Tallahassee,FL,32301,kaylennolan.realtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Allyson Foster,8508790927,,Tallahassee,FL,32311,allysonfoster@armorrealty.com,http://armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Beeta Rezazadeh,8504042588,,Tallahassee,FL,32303,jbreza22@icloud.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Michael Manuel,8504912061,,Tallahassee,FL,32303,michael@armorrealty.com,http://www.armorrealty.com/agents/michael-manuel/,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Steven Fireman,8502014663,,Tallahassee,FL,32301,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Peggy S. Dye,8503396995,,Tallahassee,FL,32311,peggysdye@gmail.com,http://www.peggydye.realtor,Real Estate Agent,,Real Estate Agent,,Tallahassee Real Estate Solu,,,,,rentcast
+Carlton Dean,8505242275,,Tallahassee,FL,32308,cdean@svn.com,http://www.southlandcommercial.com,Real Estate Agent,,Real Estate Agent,,Svn/Southland Co,,,,,rentcast
+Suzanne Humphrey,8505593402,,Tallahassee,FL,32304,suzkhump@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Mike Rucker,8509805551,,Tallahassee,FL,32309,realtormikerucker@gmail.com,http://www.lpt.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Darin Jacobs,8502014663,,Tallahassee,FL,32303,darinljacobs@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Milena Akopyan,8509331759,,Tallahassee,FL,32312,milenaakopyan@yahoo.com,,Real Estate Agent,,Real Estate Agent,,E2 Executives Llc,,,,,rentcast
+Carolyn Haley,8506316144,,Tallahassee,FL,32311,carolyn@kenneyandassociates.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Rachael Davis,8505567917,,Tallahassee,FL,32303,tallyopenhouses@gmail.com,https://www.cbhartung.com/rachaeldavis,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Jim Brockett,8504594585,,Tallahassee,FL,32311,jimbrockett@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Tiffany Hartsfield,8505666656,,Tallahassee,FL,32303,tiffanylhartsfield@gmail.com,,Real Estate Agent,,Real Estate Agent,,Golden Properties & Investment,,,,,rentcast
+Ellen Fokes,8505094924,,Tallahassee,FL,32309,ellen@armorrealty.com,http://www.ellenfokes.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Elena Akopyan,8502941414,,Tallahassee,FL,32309,akopyane@embarqmail.com,http://www.tallahassee-homes-land.com,Real Estate Agent,,Real Estate Agent,,E2 Executives Llc,,,,,rentcast
+Ross Kozloski,9046292262,,Tallahassee,FL,32303,ross@kozloskirealty.com,,Real Estate Agent,,Real Estate Agent,,"Kozloski Realty, LLC",,,,,rentcast
+Corey Gray,8502014663,,Tallahassee,FL,32311,corey-gray@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Devorah Donaldson,8508990895,,Tallahassee,FL,32305,devorah@bluewaterrealtygroup.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Cory Dozier,4029106745,,Tallahassee,FL,32310,cory.dozier@evrealestate.com,,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Kenneth S Nichols,8505285253,,Tallahassee,FL,32312,nicnole3@gmail.com,,Real Estate Agent,,Real Estate Agent,,Silo Hill Properties,,,,,rentcast
+Renee Dawkins,8505445824,,Tallahassee,FL,32309,renee@reneedawkins.com,http://www.thedawkinsteam.com,Real Estate Agent,,Real Estate Agent,,Renee Dawkins Realty LLC,,,,,rentcast
+Don E Bailey,8509333612,,Tallahassee,FL,32311,donbailey.realtor@gmail.com,https://www.cbhartung.com/don-bailey,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Morris Suber,8505676706,,Tallahassee,FL,32303,morrissuber@gmail.com,"https://www.coldwellbanker.com/coldwell-banker-hartung-and-noblin,-inc.-1747c/morris-suber-7434447a",Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Ken Scheider,8502014664,,Tallahassee,FL,32304,scheider13@yahoo.com,www.navigationrealty.com,Real Estate Agent,,Real Estate Agent,,"Navigation Realty, Inc.",,,,,rentcast
+Rachael Anglin,9545455583,,Tallahassee,FL,32304,broker@lokationre.com,http://www.lokationre.com,Real Estate Agent,,Real Estate Agent,,LoKation,,,,,rentcast
+Michael Reavis,8505097426,,Tallahassee,FL,32309,michaeljreavis@gmail.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Ricky Moulton,8505287221,,Tallahassee,FL,32312,ricky@armorrealty.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Dan And Deb Milchner,8502961236,,Tallahassee,FL,32309,dmilchner@gmail.com,http://www.dananddebrealestate.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Lee Taff,8509269100,,Tallahassee,FL,32305,leetaff@wptproperties.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Devin Odom,8502122673,,Tallahassee,FL,32301,devinodom.frog@gmail.com,https://frogtally.com/,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Ian Mcnally,4076206914,,Tallahassee,FL,32301,ian@selltally.com,http://selltally.com/ian-mcnally/,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+Betsy Henderson,8505453767,,Tallahassee,FL,32308,betsyhen@kingdomfirstrealty.com,http://www.kingdomfirstrealty.com,Real Estate Agent,,Real Estate Agent,,"Kingdom First Realty, Inc.",,,,,rentcast
+Emery Mayne,8505082999,,Tallahassee,FL,32309,emery@jonkohler.com,,Real Estate Agent,,Real Estate Agent,,KOHLER & ASSOCIATES,,,,,rentcast
+Daniel Robinson,4079075501,,Tallahassee,FL,32308,daniel.robinson@houwzer.com,https://houwzer.com,Real Estate Agent,,Real Estate Agent,,Houwzer Inc,,,,,rentcast
+Ellie Correa,8632219272,,Tallahassee,FL,32312,elliecorrea@yahoo.com,http://www.mydreamhomefl.kwrealty.com,Real Estate Agent,,Real Estate Agent,,DALTON WADE INC,,,,,rentcast
+Brian L Brockman,8008018003,,Tallahassee,FL,32305,brian.brockman@williamsauction.com,,Real Estate Agent,,Real Estate Agent,,Williams & Williams Real Estate Auctions,,,,,rentcast
+Michael Phillips,8508932525,,Tallahassee,FL,32304,mike@armorrealty.com,,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Justina Burt,8505246407,,Tallahassee,FL,32312,justinaburt99@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Nadia Spence,8503914226,,Tallahassee,FL,32311,nspence@myprovisionhomes.com,http://www.myprovisionhomes.com,Real Estate Agent,,Real Estate Agent,,"Provision Realty, Llc",,,,,rentcast
+Mike Ferrie,8505668373,,Tallahassee,FL,32309,mike@mikeferrie.com,http://www.mikeferrie.com,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Gabrielle Washington,8507666624,,Tallahassee,FL,32305,gabriellemccray4@gmail.com,,Real Estate Agent,,Real Estate Agent,,Faith Investment Group,,,,,rentcast
+Christine Napier,8505565487,,Tallahassee,FL,32311,christinenapierrealtor@gmail.com,www.allisonjamesinc.com,Real Estate Agent,,Real Estate Agent,,Allison James Estates And Home,,,,,rentcast
+Randy Kamenicky,8505769429,,Tallahassee,FL,32303,randykrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Mainstreet Realty Of Tallahass,,,,,rentcast
+Debbie Kosec,8505662039,,Tallahassee,FL,32305,real_lady123@yahoo.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Paige Farmer,2395954638,,Tallahassee,FL,32312,paigefarmer17@gmail.com,www.homesweettally.com,Real Estate Agent,,Real Estate Agent,,Roberts & Co. Real Estate Svcs,,,,,rentcast
+Robert Wolfe,8505621177,,Tallahassee,FL,32304,bobwolferealestate@comcast.net,http://www.bobwolferealestate.com,Real Estate Agent,,Real Estate Agent,,Bob Wolfe Real Estate,,,,,rentcast
+Cathy White,8504223833,,Tallahassee,FL,32305,cathy04crawford@gmail.com,,Real Estate Agent,,Real Estate Agent,,Infinity Realty Services Of N,,,,,rentcast
+Lucretia Battles,3055957355,,Tallahassee,FL,32305,lucretiabattles@gmail.com,,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Sarah Hundley,5409583958,,Tallahassee,FL,32312,sarah.hundley@kw.com,http://sarahhundley.cloverkey.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Kaci Hawes,8506284537,,Tallahassee,FL,32309,kacihawes.era@gmail.com,https://panamacityrealestate.com/,Real Estate Agent,,Real Estate Agent,,"Neubauer Real Estate, Tyndall Pkwy",,,,,rentcast
+Melissa Suber,8509072051,,Tallahassee,FL,32308,suberteam@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Libby L. Allen,8505623747,,Tallahassee,FL,32303,libbyallen@aol.com,http://www.libbyallen.com,Real Estate Agent,,Real Estate Agent,,"Libby Allen Realty, Inc.",,,,,rentcast
+"Yongquing ""Cathy"" Miller",8509268764,,Tallahassee,FL,32317,sonya@wakullarealty.com,wakullarealty.com,Real Estate Agent,,Real Estate Agent,,Wakulla Realty,,,,,rentcast
+Adam Reep,8505097437,,Tallahassee,FL,32303,adam@adamreep.com,adamreep.com,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Thomas Holland,8505091641,,Tallahassee,FL,32303,thom@pentwell.com,,Real Estate Agent,,Real Estate Agent,,Pentwell,,,,,rentcast
+Pete Lewis,8505454468,,Tallahassee,FL,32317,repeterpan@comcast.net,www.advancedrealtysouth.com,Real Estate Agent,,Real Estate Agent,,Advanced Realty Group II,,,,,rentcast
+Carmen Mansfield,8505191061,,Tallahassee,FL,32304,c_cmansfield@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Mcclellan Realty, Llc",,,,,rentcast
+Magnolia Greene,8509268008,,Tallahassee,FL,32317,maggie@oysterandoak.com,www.oysterandoak.com,Real Estate Agent,,Real Estate Agent,,Oyster & Oak,,,,,rentcast
+Nathan Newell,8502942701,,Tallahassee,FL,32301,nathan@nathannewell.com,http://www.nathannewell.com/,Real Estate Agent,,Real Estate Agent,,Amac Real Estate Co.,,,,,rentcast
+Angie K. Avery,8502944874,,Tallahassee,FL,32312,angieavery@kw.com,http://www.angieavery.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Barbara Davidson,8505670891,,Tallahassee,FL,32303,bdtally@comcast.net,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Jenea Butler,4436803230,,Tallahassee,FL,32303,jeneayourrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Infinity Realty Services LLC,,,,,rentcast
+Briana Holley,8505094409,,Tallahassee,FL,32305,bholley930@gmail.com,,Real Estate Agent,,Real Estate Agent,,Southern Oaks Real Estate,,,,,rentcast
+Jonathan Dobert,8502644955,,Tallahassee,FL,32308,jonathandobert@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Ameer Alexander,8502519463,,Tallahassee,FL,32312,samantha.depart@gmail.com,www.majesticrealtyhomes.com,Real Estate Agent,,Real Estate Agent,,Majestic Realty Homes LLC,,,,,rentcast
+Briana Salem,8504430519,,Tallahassee,FL,32310,brianaasalem@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Jacquelin Nunez,3058988522,,Tallahassee,FL,32311,jennifer.draper@listed.com,http://www.lpt.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Jennifer L Fountain,8502108879,,Tallahassee,FL,32305,jenniferf@cloverkeyrealty.com,http://jenniferfountain.cloverkeyrealty.com,Real Estate Agent,,Real Estate Agent,,Clover Key Realty,,,,,rentcast
+Teresa P Brannon,3868683366,,Tallahassee,FL,32310,teresapbrannon@gmail.com,,Real Estate Agent,,Real Estate Agent,,Sunny And Associates,,,,,rentcast
+"Montgomery, Ronald",8505454493,,Tallahassee,FL,32303,ron-montomery@outlook.com,http://www.montgomeryrealtyinc.com,Real Estate Agent,,Real Estate Agent,,"Montgomery Realty, Inc.",,,,,rentcast
+Paul Fenstermaker,8502014663,,Tallahassee,FL,32310,paul@realtydoneright.biz,,Real Estate Agent,,Real Estate Agent,,Fenstermaker & Associates Real,,,,,rentcast
+Lindsay Thompson,8503918152,,Tallahassee,FL,32301,lindsay.realtor850@gmail.com,http://www.tallydreamhome.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Nicholas Brown,8505731599,,Tallahassee,FL,32301,nickbrownfishing@gmail.com,,Real Estate Agent,,Real Estate Agent,,Torreya Realty Inc,,,,,rentcast
+Sandra Dallett,8503866160,,Tallahassee,FL,32303,sandy@iselltallahassee.net,http://iselltallahassee.net,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Amy E Herring,8502103325,,Tallahassee,FL,32311,realtoramyherring@gmail.com,http://amyherring.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Wynter Harvey,8504911237,,Tallahassee,FL,32301,wharvey@wptproperties.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Christina Rivers,8509268777,,Tallahassee,FL,32305,cristyrivers78@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Alicia G. Joyner,8505287189,,Tallahassee,FL,32309,aliciajoyner1@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Patrick Hurley,8503217489,,Tallahassee,FL,32303,patrick@sellingtallahassee.com,http://www.sellingtallahassee.com/,Real Estate Agent,,Real Estate Agent,,Proper Real Estate Advisors,,,,,rentcast
+Justin Samuells,8505661986,,Tallahassee,FL,32301,justinsamuells@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Robert Turner,8509339035,,Tallahassee,FL,32304,robbyturner@gmal.com,http://www.robbyturner.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Rebecca Mayhann,8506615386,,Tallahassee,FL,32317,rebecca.mayhann@gmail.com,http://www.welcomehometallahassee.com,Real Estate Agent,,Real Estate Agent,,Rebecca Mayhann Properties,,,,,rentcast
+Jessalyn Marks,8505105377,,Tallahassee,FL,32309,jessalynmarks@gmail.com,,Real Estate Agent,,Real Estate Agent,,The American Dream,,,,,rentcast
+Dana J Lapointe,8505242404,,Tallahassee,FL,32310,dana@tallyrealtypro.com,www.danalapointesells.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Alicia Murphy,8505440918,,Tallahassee,FL,32308,alicia@fireflytally.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Artenia Jones,8504595082,,Tallahassee,FL,32309,artenias@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Cristiana Holland,4482151317,,Tallahassee,FL,32305,cristianaholland@gmail.com,www.soldbycristiana.realtor,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Lucia Aufdembrink,8509268777,,Tallahassee,FL,32303,bluewaterkyle@aol.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Audrey Nedeau,8508491993,,Tallahassee,FL,32312,audrey@suite-realestate.com,http://www.suite-realestate.com,Real Estate Agent,,Real Estate Agent,,"Suite Real Estate, LLC",,,,,rentcast
+Richard Snow,8503865169,,Tallahassee,FL,32303,rsnow498@aol.com,,Real Estate Agent,,Real Estate Agent,,Hartsfield Realty,,,,,rentcast
+Casey Drake,8504454999,,Tallahassee,FL,32303,casey@midtownbrokers.net,http://www.midtownbrokers.net,Real Estate Agent,,Real Estate Agent,,"Midtown Brokers Realty, Inc",,,,,rentcast
+"Lori Mattice, Broker",8505440162,,Tallahassee,FL,32303,lori@matticerealestate.com,http://www.matticerealestate.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Dalton Arroyo,8134602324,,Tallahassee,FL,32303,info@vacantsolutions.com,arroyo.kw.com,Real Estate Agent,,Real Estate Agent,,Vacant Solutions LLC,,,,,rentcast
+Marsha Tucker,8505709214,,Tallahassee,FL,32310,mt@obrealty.com,http://www.obrealty,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Sage Lewis,8508651577,,Tallahassee,FL,32312,sage@soldbysrg.com,https://sagesoldit.com/,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Rebecca Taylor,8509991930,,Tallahassee,FL,32312,debmilrealtor@gmail.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Ron Salutsky,8507283227,,Tallahassee,FL,32311,ronsalutsky@yahoo.com,https://www.ronsalutsky.com/,Real Estate Agent,,Real Estate Agent,,Salutsky Realty LLC,,,,,rentcast
+Aaron Thompson,4234138387,,Tallahassee,FL,32304,aaronthompson@kw.com,,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Joe Brannon,8505103223,,Tallahassee,FL,32308,joe@kenneyandassociates.com,https://www.joebrannonrealestate.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Sharon Mears,8505560477,,Tallahassee,FL,32312,sharonmears1@aol.com,http://www.sharonmears.com,Real Estate Agent,,Real Estate Agent,,"Regents Realty Group, Inc.",,,,,rentcast
+Lorin Pratt,8505595022,,Tallahassee,FL,32311,lorinpratt@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Casey Caldwell,8507029100,,Tallahassee,FL,32304,casey@corerpm.com,www.foundit.homes,Real Estate Agent,,Real Estate Agent,,Core Residential Property Mana,,,,,rentcast
+Kandis M. May,8503295199,,Tallahassee,FL,32305,info@kandismaureenrealty.com,http://www.kandismaureenrealty.com,Real Estate Agent,,Real Estate Agent,,Blue Legacy Real Estate Group,,,,,rentcast
+Hunter Bowden,8507282172,,Tallahassee,FL,32311,hbowden01@hotmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Courtney Roberts,8502516975,,Tallahassee,FL,32305,courtney@robertscorealestate.com,http://homesweettallahassee.com,Real Estate Agent,,Real Estate Agent,,Roberts & Co. Real Estate Svcs,,,,,rentcast
+Kayana Gaines,8505663183,,Tallahassee,FL,32310,kayana.gaines@gmail.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+"Hobbs, Reagan, H",8504228946,,Tallahassee,FL,32312,twohobbs@aol.com,www.twinactionrealty.com,Real Estate Agent,,Real Estate Agent,,Twin Action Realty Inc.,,,,,rentcast
+Treva Mckenzie,8505090826,,Tallahassee,FL,32305,trevamckenzie@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Golden Properties & Investment,,,,,rentcast
+Craig Vollertsen,8506923872,,Tallahassee,FL,32312,hrybak@rybakrealty.us,www.rybakrealty.us,Real Estate Agent,,Real Estate Agent,,"Rybak Realty, Llc",,,,,rentcast
+Trevor Nicoll,8508772284,,Tallahassee,FL,32311,trevor@kentstraussmanagement.com,,Real Estate Agent,,Real Estate Agent,,Kent Strauss Mgt & Real Estate,,,,,rentcast
+Gray Nichols,8502518727,,Tallahassee,FL,32301,gray@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Andrea J Lee,8508772284,,Tallahassee,FL,32308,andrea@kentstraussmanagement.com,,Real Estate Agent,,Real Estate Agent,,Kent Strauss Mgt & Real Estate,,,,,rentcast
+Marilisa Hosford,8505088722,,Tallahassee,FL,32311,lisahosford@armorrealty.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Bradley Layland,9044618878,,Tallahassee,FL,32304,brad@endlesssummerrealty.com,,Real Estate Agent,,Real Estate Agent,,Endless Summer Realty,,,,,rentcast
+Ryan Kelly,8502014663,,Tallahassee,FL,32303,ryan@thebespokeagentfl.com,http://thebespokeagentfl.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Sherrie Cartee,8503251681,,Tallahassee,FL,32303,cartee11@msn.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Melissa O'brien,6082251038,,Tallahassee,FL,32309,obrien.melis13@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Carla Stephens,8505440207,,Tallahassee,FL,32311,carla@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Terrence Sellars,8507660067,,Tallahassee,FL,32309,ben@selltally.com,www.twelvepoints.realestate,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+Celeste Mcknight,3215784031,,Tallahassee,FL,32304,cmcknightrealestate@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Joshua Crow,8505088987,,Tallahassee,FL,32308,jrcrow2018@gmail.com,,Real Estate Agent,,Real Estate Agent,,Passage Real Estate,,,,,rentcast
+Nikkii Williamson,8502014663,,Tallahassee,FL,32305,nikkigwilliamson@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Summer Eades,8503399276,,Tallahassee,FL,32312,summer.eadesre@gmail.com,https://hillspooner.com/,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Regina Cox,8505449660,,Tallahassee,FL,32311,gcmhomes@comcast.net,,Real Estate Agent,,Real Estate Agent,,Hinson Realty,,,,,rentcast
+Christopher Foster,4076171866,,Tallahassee,FL,32309,christopherfoster@kw.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+R. Clark Smith,8508949966,,Tallahassee,FL,32312,csmith@tlgproperty.com,www.tlgproperty.com,Real Estate Agent,,Real Estate Agent,,"TLG REAL ESTATE SERVICES, PLLC",,,,,rentcast
+Rebekah Rivers,8502972255,,Tallahassee,FL,32309,teamleader@ringtherivers.com,http://www.ringtherivers.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Katesa Wood,8507599207,,Tallahassee,FL,32309,tessa.wood09@gmail.com,,Real Estate Agent,,Real Estate Agent,,Empire Properties,,,,,rentcast
+Robbie Parrish,8505108029,,Tallahassee,FL,32312,rob3434@comcast.net,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Elaine Gary,8505095409,,Tallahassee,FL,32310,elaine@wptproperties.com,http://www.wptproperties.com,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Jamie Grant,8505196505,,Tallahassee,FL,32301,jamie.grant@kw.com,http://www.compass.com,Real Estate Agent,,Real Estate Agent,,COMPASS,,,,,rentcast
+Charlotte Brown,8505758090,,Tallahassee,FL,32303,charlottebrown.realtor@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Shadrach Hines,8503289851,,Tallahassee,FL,32303,saintmarks1994@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Kelly Mcquary,8508932525,,Tallahassee,FL,32304,kmcquary122@gmail.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Tanisha Bryant,8502014663,,Tallahassee,FL,32301,tbryant1230@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Amanda Charron,8505660364,,Tallahassee,FL,32303,amanda@listandsoldteam.com,https://www.listandsoldteam.com/agents/amandacharron/,Real Estate Agent,,Real Estate Agent,,Pearson Realty Inc.,,,,,rentcast
+Davis Brown,8502014663,,Tallahassee,FL,32310,daviswaynebrown@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Morgan Eden Hicks,8505099993,,Tallahassee,FL,32312,morgan@edenandcompany.com,www.edenandcompany.com,Real Estate Agent,,Real Estate Agent,,Eden & Company,,,,,rentcast
+Claudia Caballero,8508880888,,Tallahassee,FL,32303,claudiacaballero626@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Logan Short,8502055201,,Tallahassee,FL,32304,lshort@teampcg.com,,Real Estate Agent,,Real Estate Agent,,"Premier Commercial Group, Llc",,,,,rentcast
+Kevin G Smith,8505445328,,Tallahassee,FL,32303,kevin@bluewaterrealtygroup.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Sean A Seward,9415258083,,Tallahassee,FL,32308,flrealtorsean@gmail.com,lifesabeach.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Island Life RE,,,,,rentcast
+Sandy Brown,8503868660,,Tallahassee,FL,32301,sandybrownmagnolia@comcast.net,http://www.magnoliapropertiesinc.com,Real Estate Agent,,Real Estate Agent,,"Magnolia Properties&Inv, Inc.",,,,,rentcast
+"Hector Delao, Real Estate",8504438310,,Tallahassee,FL,32301,hector@afsharmony.com,,Real Estate Agent,,Real Estate Agent,,Mainstreet Realty Of Tallahass,,,,,rentcast
+Shanisha Descally-sharp,7869736352,,Tallahassee,FL,32304,shanisha@thewwtgroup.com,https://soldbysrg.com/,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Adrian Welle,8508951256,,Tallahassee,FL,32304,adrian@wavesandwoodsrealty.com,,Real Estate Agent,,Real Estate Agent,,"Waves & Woods Realty, LLC",,,,,rentcast
+Dan Mcclellan,8503862001,,Tallahassee,FL,32304,danny@mcclellanrealty.net,www.mcclellanrealty.net,Real Estate Agent,,Real Estate Agent,,"Mcclellan Realty, Llc",,,,,rentcast
+Aimee Seay,8503635993,,Tallahassee,FL,32304,aimeeseay850@gmail.com,https://www.cbhartung.com/aimee-seay,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Libus Montgomery-bailey,8505569807,,Tallahassee,FL,32308,libus@elba-usa.com,,Real Estate Agent,,Real Estate Agent,,Libus Montgomery-Bailey,,,,,rentcast
+Home Run Real Estate,5614333836,,Tallahassee,FL,32311,brian.krutchik@yahoo.com,http://www.homerunrealestate.com,Real Estate Agent,,Real Estate Agent,,Team Wills Real Estate Group,,,,,rentcast
+Lewis Singletary,8507669662,,Tallahassee,FL,32311,lewissingletary1@gmail.com,tallahasseehomesrealty.com,Real Estate Agent,,Real Estate Agent,,Tallahassee Homes Realty Llc,,,,,rentcast
+Sara Robinson,8505565606,,Tallahassee,FL,32301,srobinson@wptproperties.com,http://www.wptproperties.com,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Crystal Brown,8505240377,,Tallahassee,FL,32308,crystal@listandsoldteam.com,https://crystalbrown.hamiltonsold.com/,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+Lena Seiler,8505594549,,Tallahassee,FL,32303,lenaseiler@gmail.com,http://www.seilerproperties.com,Real Estate Agent,,Real Estate Agent,,Advanced Realty Group II,,,,,rentcast
+Michael Carruthers,8504282003,,Tallahassee,FL,32304,michael@selectsells.com,,Real Estate Agent,,Real Estate Agent,,Joseph R. Bracciale Jr. Broker,,,,,rentcast
+Teresa Bowling,8502014663,,Tallahassee,FL,32308,intlxchange@aol.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Susan P. Gwynn,8505453906,,Tallahassee,FL,32312,spgwynn@comcast.net,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Brandi Van Leuven,8503396519,,Tallahassee,FL,32311,brandi@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Tim Kelly,8504451192,,Tallahassee,FL,32303,tim@timothykelly.com,timothykelly.com,Real Estate Agent,,Real Estate Agent,,Bob Hodges and Sons Realty,,,,,rentcast
+Penny Smith,8505084050,,Tallahassee,FL,32308,realtorpenny@comcast.net,,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+David Rossetti,8505916161,,Tallahassee,FL,32312,wakullahomes@gmail.com,www.exitrealtycafe.com,Real Estate Agent,,Real Estate Agent,,EXIT REALTY CAFE,,,,,rentcast
+Tammy Nguyen,8509992919,,Tallahassee,FL,32312,tn2490@gmail.com,www.nganguyenrealty.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Michael S Hutchison,8504433202,,Tallahassee,FL,32310,michaelhutchison.re@aol.com,https://www.realtor.com,Real Estate Agent,,Real Estate Agent,,Southern Oaks Real Estate,,,,,rentcast
+Elina Galoyan,8502941414,,Tallahassee,FL,32303,linagaloyan@yahoo.com,,Real Estate Agent,,Real Estate Agent,,E2 Executives Llc,,,,,rentcast
+Susan Byler,8505108583,,Tallahassee,FL,32317,susan@susanbyler.com,http://susanbyler.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Michael Jarmon,8506312703,,Tallahassee,FL,32303,mjarmon@wptproperties.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Catherine Novielli,8502283367,,Tallahassee,FL,32309,catherine.novielli@gmail.com,http://bettykellumrealty.com,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+"Lastowski, Steven, P",8505246336,,Tallahassee,FL,32308,slastowski@aol.com,http://lastowskire.com,Real Estate Agent,,Real Estate Agent,,Lastowski Realty & Prop. Ser.,,,,,rentcast
+Todd Bailey,8505084885,,Tallahassee,FL,32304,todd@soldbysrg.com,https://www.zillow.com/profile/realtor2121,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Ranie Thompson,8505080698,,Tallahassee,FL,32309,raniethompson@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Tyraneka Stokes,8502014663,,Tallahassee,FL,32312,tyranekastokes@kw.com,https://l.facebook.com/l.php,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Elizabeth Przybyla,8502014663,,Tallahassee,FL,32308,elprzybyla23@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Wayne Revell,8508939556,,Tallahassee,FL,32317,twrevell@aol.com,www.uchometownrealty.com,Real Estate Agent,,Real Estate Agent,,850 Hometown Realty,,,,,rentcast
+Sean Rady,8505595027,,Tallahassee,FL,32317,sean@radyrealty.com,,Real Estate Agent,,Real Estate Agent,,"Rady Realty, LLC",,,,,rentcast
+Cynthia Mcmillan,8507569223,,Tallahassee,FL,32303,cynthia@harborpointrealty.com,http://harborpointrealty.com,Real Estate Agent,,Real Estate Agent,,Harbor Point Realty,,,,,rentcast
+Quaramas Ross,8503917337,,Tallahassee,FL,32304,qross@rognextgeneration.com,,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Grachel Farrah,8502014663,,Tallahassee,FL,32312,grachelfarrah@gmail.com,http://www.lpt.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Jorge A Zea,8555500528,,Tallahassee,FL,32303,deals@bluelighthouserealty.com,,Real Estate Agent,,Real Estate Agent,,Blue Lighthouse Realty,,,,,rentcast
+Carolyn Hurst,8508006950,,Tallahassee,FL,32301,cara@mainstrealestategroup.com,,Real Estate Agent,,Real Estate Agent,,Main Street Real Estate Group,,,,,rentcast
+Patty Wilson,8506560009,,Tallahassee,FL,32308,thebrokerage.patty@gmail.com,https://brokeragefl.com/,Real Estate Agent,,Real Estate Agent,,The Brokerage,,,,,rentcast
+Cecilia Williams-crumitie,8509976288,,Tallahassee,FL,32303,cecilia_01_2000@yahoo.com,,Real Estate Agent,,Real Estate Agent,,1St Realty Appraisal Inc,,,,,rentcast
+Tiffany Chamel,8502014663,,Tallahassee,FL,32304,tiffanychamel@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Debora Mabry,8504916758,,Tallahassee,FL,32311,debbie@ekkrealty.com,https://www.ekkrealty.com,Real Estate Agent,,Real Estate Agent,,Ekk Realty Group,,,,,rentcast
+Renee Marujo,8502944147,,Tallahassee,FL,32308,reneemarujo@gmail.com,www.forsalebyrenee.com,Real Estate Agent,,Real Estate Agent,,"Gtwo Property Services, Llc",,,,,rentcast
+Sophia Callahan,8505903380,,Tallahassee,FL,32303,sophialcallahan@gmail.com,https://www.cbhartung.com/,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+John Henningsen,8505192473,,Tallahassee,FL,32303,henningsen@comcast.net,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Rick Shapley,8504228946,,Tallahassee,FL,32301,rick@sandhrestorations.com,www.callrocketrealty.com,Real Estate Agent,,Real Estate Agent,,Twin Action Realty Inc.,,,,,rentcast
+Deborah Milazzo,8505676764,,Tallahassee,FL,32309,debmilrealtor@gmail.com,www.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Scott Fader,8882271009,,Tallahassee,FL,32308,info@mittenrealtygroup.com,www.mittenrealtygroup.com,Real Estate Agent,,Real Estate Agent,,JOSEPH WALTER REALTY LLC,,,,,rentcast
+Nancy Treadway,8508945846,,Tallahassee,FL,32317,treadwayappraisal@comcast.net,http://,Real Estate Agent,,Real Estate Agent,,Treadway Appraisal & Realty,,,,,rentcast
+Jason Reese,8503296843,,Tallahassee,FL,32305,jreese523@aol.com,www.elizabethekk.com,Real Estate Agent,,Real Estate Agent,,Ekk Realty Group,,,,,rentcast
+Cynthia Henderson,8505590855,,Tallahassee,FL,32303,cyhenderson@me.com,,Real Estate Agent,,Real Estate Agent,,"Cynergy Real Estate Services,",,,,,rentcast
+Ashlyn Estes,8509072051,,Tallahassee,FL,32303,ashlyn@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Will Shepherd,8503212111,,Tallahassee,FL,32312,noplacelikehome@willlshepherd.com,http://ketchamrealty.com/agent-roster/will_shepherd,Real Estate Agent,,Real Estate Agent,,Thomas Acq & Prop Spec,,,,,rentcast
+Lisa Graganella,8502128500,,Tallahassee,FL,32303,lisa@candgappraisal.com,http://,Real Estate Agent,,Real Estate Agent,,Graganella & Co. Real Estate,,,,,rentcast
+Austin Jewell,8505567787,,Tallahassee,FL,32305,austinjewellrealtor@gmail.com,https://hometeamtallahassee.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Cori Hundt,8503221649,,Tallahassee,FL,32317,cori@soldbysrg.com,http://soldbysrg.com/15/our_team/129,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Patti Ketcham,8505455314,,Tallahassee,FL,32301,pketcham@ketchamgroup.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Darryl W Griswell,8503631988,,Tallahassee,FL,32305,darrylgriswell@gmail.com,https://yourhomekeysolution.com/,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Ashley Hall,8505560749,,Tallahassee,FL,32303,wildleyhome@gmail.com,wildleyhome.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+"Sue Criswell, Realtor",8509333952,,Tallahassee,FL,32305,suecriswell.realtor@gmail.com,http://bluewaterrealty.com/agents/sue-criswell,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Sherry Hobbs,8505918333,,Tallahassee,FL,32309,sgshobbs@msn.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+"Brady Cureton Thompson, Clg",8505284816,,Tallahassee,FL,32312,bradycureton@aol.com,http://curetonthompson.homesandland.com/,Real Estate Agent,,Real Estate Agent,,Cureton & Associates Real Esta,,,,,rentcast
+Adam Kaye,8503666232,,Tallahassee,FL,32310,adam@artdistrict.com,,Real Estate Agent,,Real Estate Agent,,Art District Real Estate,,,,,rentcast
+Elizabeth Handlewich,8505679399,,Tallahassee,FL,32312,imoveyourdreams@gmail.com,www;floridaluxury.com,Real Estate Agent,,Real Estate Agent,,Florida Luxury Realty,,,,,rentcast
+Melissa Chaires,8503850094,,Tallahassee,FL,32308,melissachaires71@gmail.com,,Real Estate Agent,,Real Estate Agent,,Equity Realty and Management,,,,,rentcast
+Debbie Lewis,8504453832,,Tallahassee,FL,32303,blackcreekrealty.com@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Black Creek Realty,,,,,rentcast
+Joy G. Blomeley,8504915093,,Tallahassee,FL,32308,146006.lead@leads.leadrouter.com,http://coldwellbankertallahassee.com/,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Lori Womack,8508791339,,Tallahassee,FL,32308,loriw78@me.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Elizabeth Strauss,8505099411,,Tallahassee,FL,32312,elizabeth@kentstraussmanagement.com,,Real Estate Agent,,Real Estate Agent,,Kent Strauss Mgt & Real Estate,,,,,rentcast
+Sharlot Snyder,8504081742,,Tallahassee,FL,32305,sharlotsnyder@gmail.com,https://www.snyderhomeandlandspecialist.com,Real Estate Agent,,Real Estate Agent,,The Brokerage,,,,,rentcast
+Jonathan Mostyn,8502649693,,Tallahassee,FL,32303,artisticflooringsystems@gmail.com,http://xcellencerealty.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Elena Thompson,8507283627,,Tallahassee,FL,32309,elenathompson850@gmail.com,,Real Estate Agent,,Real Estate Agent,,Thompson Real Estate Company,,,,,rentcast
+Ethan Conrad,8507663252,,Tallahassee,FL,32304,destinationrental@gmail.com,https://www.tallahasseedestination.com/,Real Estate Agent,,Real Estate Agent,,Destination Real Estate Corp,,,,,rentcast
+Andrea Humpherys,8503866160,,Tallahassee,FL,32312,ah.realestatetally@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Titus Nixon,8504459985,,Tallahassee,FL,32303,tnixon.realtor@gmail.com,https://www.teamwithtitus.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Lindsay  Calhoun,8508389880,,Tallahassee,FL,32310,lcalhounrealestate@gmail.com,https://www.focused4u.com,Real Estate Agent,,Real Estate Agent,,The American Dream,,,,,rentcast
+Kira Seay,8505099697,,Tallahassee,FL,32312,kira@robertscorealestate.com,www.homesweettally.com,Real Estate Agent,,Real Estate Agent,,Roberts & Co. Real Estate Svcs,,,,,rentcast
+Burhan Altin,6033697969,,Tallahassee,FL,32308,burhanaltin@kw.com,https://burhanaltin.kw.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Morcos Ikladious,2292339795,,Tallahassee,FL,32309,morcosikladious@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Yesenia Rivera,7864709415,,Tallahassee,FL,32303,yeseniarivera@keyes.com,,Real Estate Agent,,Real Estate Agent,,The Keyes Company,,,,,rentcast
+Savannah Stephens,8509072051,,Tallahassee,FL,32301,hettie@hillspooner.com,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Jeffrey Ragan,8502732520,,Tallahassee,FL,32311,jeff@friendlyrealestategroup.com,,Real Estate Agent,,Real Estate Agent,,Friendly Real Estate Group Llc,,,,,rentcast
+Stacy Hardenburg,8505708360,,Tallahassee,FL,32308,management.aerealty@gmail.com,,Real Estate Agent,,Real Estate Agent,,A&E Realty and Property Manage,,,,,rentcast
+William Messer,8504084992,,Tallahassee,FL,32311,wmesser5120@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Kevin Milligan,8508880888,,Tallahassee,FL,32312,kevin.milligan@manausa.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Laura Loy,8503393314,,Tallahassee,FL,32301,laura@roi-realtyhomes.com,www.roirealtyhomes.com,Real Estate Agent,,Real Estate Agent,,ROI Realty LLC,,,,,rentcast
+Katheryne Kessinger,8509800973,,Tallahassee,FL,32317,kkrealestate365@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+James Pham,8503457718,,Tallahassee,FL,32308,jamesphamrealtor02@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Geoffrey Sprague,8508932500,,Tallahassee,FL,32301,rentals@regionalpropertyservices.com,http://regionalpropertyservices.com,Real Estate Agent,,Real Estate Agent,,Regional Property Services,,,,,rentcast
+Lee Hall,8503226723,,Tallahassee,FL,32301,leehallrealestate@gmail.com,,Real Estate Agent,,Real Estate Agent,,Capital City Real Estate Group,,,,,rentcast
+Reandra Clayton,8502967322,,Tallahassee,FL,32309,keys@reandrarealtor.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Cynthia Livengood,8502128359,,Tallahassee,FL,32304,cindylivengoodrealtor@gmail.com,http://livengoodhomes.net,Real Estate Agent,,Real Estate Agent,,"Xcellence Realty, Inc",,,,,rentcast
+Matthew Smith,8505108601,,Tallahassee,FL,32311,matttherealtor850@gmail.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Lakesha Clark,8502645546,,Tallahassee,FL,32311,lclark@milleniarealty.net,https://www.milleniarealty.net,Real Estate Agent,,Real Estate Agent,,Millenia Realty of Florida,,,,,rentcast
+Amanda Lacerra,9543007029,,Tallahassee,FL,32303,alacerra@kw.com,http://amandalacerra.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Kristin Rising,8507277638,,Tallahassee,FL,32309,kristin.tpm@gmail.com,www.tpm01.com,Real Estate Agent,,Real Estate Agent,,"Tally Property Management, Llc",,,,,rentcast
+James Roberts,8505705074,,Tallahassee,FL,32304,jamesrealtor053@gmail.com,http://jamesroberts.kw.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jana Hernandez,8507927222,,Tallahassee,FL,32305,jana@humrealestate.com,https://humrealestate.com/agents/jana-hernandez,Real Estate Agent,,Real Estate Agent,,Hum Real Estate,,,,,rentcast
+Sandi Chason,8509427653,,Tallahassee,FL,32303,schason@gmail.com,www.justturnthekey.com,Real Estate Agent,,Real Estate Agent,,Eden & Company,,,,,rentcast
+William J Fair,8505284816,,Tallahassee,FL,32301,billyfair36@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Cureton & Associates Real Esta,,,,,rentcast
+Andrey Rossin,7869420502,,Tallahassee,FL,32308,247deal@gmail.com,,Real Estate Agent,,Real Estate Agent,,Cash Flow in Miami Realty,,,,,rentcast
+Sarah Goldie Mckinzie,8507928288,,Tallahassee,FL,32303,sarahgoldiemckinzie@gmail.com,http://humrealestate.com/sarah,Real Estate Agent,,Real Estate Agent,,Hum Real Estate,,,,,rentcast
+David Irwin,8506533333,,Tallahassee,FL,32310,david_irwin@comcast.net,,Real Estate Agent,,Real Estate Agent,,Fenstermaker & Associates Real,,,,,rentcast
+Kathy Chitty,8502643624,,Tallahassee,FL,32309,chittyk413@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Terry Kant,8505673033,,Tallahassee,FL,32301,terry@kanthomes.com,kanthomes.com,Real Estate Agent,,Real Estate Agent,,Kant Realty Of North Florida L,,,,,rentcast
+Meg Hilaman,8505562366,,Tallahassee,FL,32309,meg.hilaman@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Melissa Montalvo,8505563928,,Tallahassee,FL,32311,melissakmontalvo@gmail.com,,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Michael Ferrell,8502225777,,Tallahassee,FL,32317,ferrellrealty@ferrellrealtyplus.com,http://www.ferrellrealtyplus.com,Real Estate Agent,,Real Estate Agent,,Hinson Realty,,,,,rentcast
+Ivy Vonier,8505093290,,Tallahassee,FL,32308,geminig35@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Wanda Carter,8503217280,,Tallahassee,FL,32312,realestatepro2008@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Andrew Gerges,8505709805,,Tallahassee,FL,32303,realtorandrewgerges@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Joneen Lee-wolk,8505082490,,Tallahassee,FL,32301,jodideniselee@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Michael Lee,8503399346,,Tallahassee,FL,32312,michael@flamingorealty.net,http://www.flamingorealty.net/,Real Estate Agent,,Real Estate Agent,,Flamingo Realty Of Tallahassee,,,,,rentcast
+Robert Nahoom,8505670037,,Tallahassee,FL,32304,nahoom1171@yahoo.com,http://www.bobbynahoom.com,Real Estate Agent,,Real Estate Agent,,Amac Real Estate Co.,,,,,rentcast
+Jennifer Campbell,8503456147,,Tallahassee,FL,32309,jen@jencampbellhomes.com,https://jencampbellhomes.com,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Leanna Pearson,8505666269,,Tallahassee,FL,32309,leannakpearson@gmail.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Barbra Boutin,8505970080,,Tallahassee,FL,32309,barbra.boutin@evrealestate.com,https://barbraboutinrealtor.com,Real Estate Agent,,Real Estate Agent,,Engel & Volkers Tallahassee,,,,,rentcast
+Zach Meredith,2393577878,,Tallahassee,FL,32303,zach@realtydoneright.biz,http://www.realtydoneright.biz,Real Estate Agent,,Real Estate Agent,,Fenstermaker & Associates Real,,,,,rentcast
+Chance Rodgers,8507283937,,Tallahassee,FL,32303,chancerodgers1@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Nicholas Kent,,,,,rentcast
+Moe Mossa,8884901268,,Tallahassee,FL,32304,moe@remoe.com,,Real Estate Agent,,Real Estate Agent,,"Savvy Avenue, LLC",,,,,rentcast
+Laura Eddy,8507660067,,Tallahassee,FL,32304,lblaricum@gmail.com,www.twelvepoints.realestate,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+Joshua Young,8508932500,,Tallahassee,FL,32312,jbyoung.rps@gmail.com,,Real Estate Agent,,Real Estate Agent,,Regional Property Services,,,,,rentcast
+Rebekah Hanser,8509268777,,Tallahassee,FL,32312,rdropco@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Benjamin B Sadler,8508387932,,Tallahassee,FL,32303,bsadler@mossyoakproperties.com,,Real Estate Agent,,Real Estate Agent,,OaksFeather Realty,,,,,rentcast
+Patricia Bahmann,8505561718,,Tallahassee,FL,32301,patty_realty@nettally.com,http://,Real Estate Agent,,Real Estate Agent,,"Patty Realty, Inc.",,,,,rentcast
+Jackie Bennett,8505144838,,Tallahassee,FL,32301,jlbennett40@embarqmail.com,www.brogerrealestateservices.com,Real Estate Agent,,Real Estate Agent,,Broger Real Estate Services,,,,,rentcast
+Kinsey N Wynn,8505105192,,Tallahassee,FL,32311,kinsey1428@gmail.com,www.navigationrealty.com,Real Estate Agent,,Real Estate Agent,,"Navigation Realty, Inc.",,,,,rentcast
+Hines Boyd,8505708989,,Tallahassee,FL,32309,hinesboyd@gmail.com,https://www.flgarealty.com/,Real Estate Agent,,Real Estate Agent,,FL-GA Realty + Auction,,,,,rentcast
+Robert Pilkington,9014514785,,Tallahassee,FL,32311,robertpilkington@bellsouth.net,,Real Estate Agent,,Real Estate Agent,,"Coast & Country Realty, LLC",,,,,rentcast
+Sandra Purvis,8508797111,,Tallahassee,FL,32301,sandrapurvis@kw.com,http://sandrapurvis.yourkwagent.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Patrick L Hardy,8502941232,,Tallahassee,FL,32311,patricklhardy@gmail.com,http://www.patricklhardy.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Jules D. Straker,8508410097,,Tallahassee,FL,32312,146006.lead@leads.leadrouter.com,,Real Estate Agent,,Real Estate Agent,,"The Broker House, LLC",,,,,rentcast
+Kimberlie Thomas,9043154776,,Tallahassee,FL,32311,rthomas1997@gmail.com,www.usrealtyhub.com,Real Estate Agent,,Real Estate Agent,,Realty Hub,,,,,rentcast
+Sherri Parsons,8505192186,,Tallahassee,FL,32310,sherriparsons@gmail.com,,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Beycome,8046565007,,Tallahassee,FL,32304,contact@beycome.com,,Real Estate Agent,,Real Estate Agent,,BEYCOME OF FLORIDA LLC,,,,,rentcast
+Daryn Wiles,8505452955,,Tallahassee,FL,32303,daryn@theamericandream.house,,Real Estate Agent,,Real Estate Agent,,The American Dream,,,,,rentcast
+Lea Manifold,8504432649,,Tallahassee,FL,32309,leamanifold@aol.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Grace Diaz,5618703749,,Tallahassee,FL,32311,realtorgraced@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Jen Munn Munn,3524228201,,Tallahassee,FL,32303,jenmunnera@yahoo.com,http://www.eraamericanrealty.com,Real Estate Agent,,Real Estate Agent,,ERA AMERICAN REALTY,,,,,rentcast
+John Bilich,8503298848,,Tallahassee,FL,32303,johnbilich@gmail.com,,Real Estate Agent,,Real Estate Agent,,Sylvia Carver Real Estate,,,,,rentcast
+Lynn Cox,8509338949,,Tallahassee,FL,32301,lynncoxrealtor@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Jo Mcknight,8502286050,,Tallahassee,FL,32311,jonekamcknight@gmail.com,http://welovejo.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Rodney Daniels,8502014663,,Tallahassee,FL,32301,dnlsrodney13.ez@gmail.com,,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Caleb D Stephens,8502844391,,Tallahassee,FL,32317,caleb@wptproperties.com,,Real Estate Agent,,Real Estate Agent,,Silo Hill Properties,,,,,rentcast
+Ann Huskey,8502121982,,Tallahassee,FL,32303,ann.huskey.realtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jacob Crum,8502223075,,Tallahassee,FL,32311,sarah@edenandcompany.com,www.edenandcompany.com,Real Estate Agent,,Real Estate Agent,,Eden & Company,,,,,rentcast
+Amber Miller,8505090826,,Tallahassee,FL,32312,ambermiller0826@gmail.com,,Real Estate Agent,,Real Estate Agent,,Golden Properties & Investment,,,,,rentcast
+Elizabeth Fearington,8503251681,,Tallahassee,FL,32301,elizabeth@naumanngroup.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Stacy Bryan,2058373299,,Tallahassee,FL,32311,sbryan31@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Robyn Mcalister,8506943105,,Tallahassee,FL,32304,rmcalister223@gmail.com,http://www.lpt.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Lakechia Henry,8502014663,,Tallahassee,FL,32301,lakechia.henry@gmail.com,,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Brenna K. Ward,8505109687,,Tallahassee,FL,32309,brenna@kkpinc.com,https://www.kellyandkellyproperties.com/,Real Estate Agent,,Real Estate Agent,,"Kelly & Kelly Properties, Inc",,,,,rentcast
+Sara Patterson,8505917040,,Tallahassee,FL,32308,sara@sarapattersonrealtor.com,https://sarapattersonrealtor.com/,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Jd Bauserman,8502121335,,Tallahassee,FL,32309,jdnole@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Kris Dove,8507060010,,Tallahassee,FL,32303,kris@krisdove.com,www.krisdove.com,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Catherine Hope Sorensen,8509739990,,Tallahassee,FL,32301,catherinehope9@gmail.com,,Real Estate Agent,,Real Estate Agent,,All Realty Services,,,,,rentcast
+Michael J Criswell,8509336728,,Tallahassee,FL,32311,michael@naumanngroup.com,https://www.naumanngroup.com/agents/michael-criswell/,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Josiah Tripp,3865380973,,Tallahassee,FL,32301,jtrippinvestments@gmail.com,,Real Estate Agent,,Real Estate Agent,,NEXTHOME COAST2COAST,,,,,rentcast
+Tish R Hoskins,8502286728,,Tallahassee,FL,32305,cache407@aol.com,http://www.lokationre.com,Real Estate Agent,,Real Estate Agent,,LoKation,,,,,rentcast
+Kellianne Ryals,8506533333,,Tallahassee,FL,32301,olivier@anchorfl.com,,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Jason Glover,8502284224,,Tallahassee,FL,32305,jasonglover.realtor1@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Don Mclaughlin,8505674649,,Tallahassee,FL,32317,donmclaughlin@mac.com,www.mclaughlinre.com,Real Estate Agent,,Real Estate Agent,,Mclaughlin Real Estate Group,,,,,rentcast
+Barbara Dickson,8505453419,,Tallahassee,FL,32305,barbaradickson@remax.net,http://besttallahasseerealestate.com,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Candace Herring,8505670701,,Tallahassee,FL,32317,candaceherring@kw.com,http://buyorselltallahasseehomes.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Cecilia Smith,8502014663,,Tallahassee,FL,32304,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Alexandra Carroll,8502018880,,Tallahassee,FL,32308,info@sellingtallahassee.com,http://www.sellingtallahassee.com/,Real Estate Agent,,Real Estate Agent,,Proper Real Estate Advisors,,,,,rentcast
+James Durham,8507270066,,Tallahassee,FL,32304,james.durham.realtor@gmail.com,firststory.co,Real Estate Agent,,Real Estate Agent,,CENTURY 21 First Story Real Estate,,,,,rentcast
+Yamariz Banchs,8502640311,,Tallahassee,FL,32309,yamariz.banchs2@gmail.com,https://www.cbhartung.com/yamariz.realestate,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Rena' Coffield,8505100625,,Tallahassee,FL,32308,rena@armorrealty.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Alan Potts,8505102197,,Tallahassee,FL,32304,alanpotts@earthlink.net,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Menza Krause,8504439037,,Tallahassee,FL,32312,mkrause@manausa.com,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Marie Clewis,8508006259,,Tallahassee,FL,32305,marieclewis@kw.com,http://marieclewis.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Patrick A Mcguire,8509801430,,Tallahassee,FL,32309,patrick.mcguire@mcguiredata.com,,Real Estate Agent,,Real Estate Agent,,Aphelion Realty & Property Man,,,,,rentcast
+Jing Li,8502014663,,Tallahassee,FL,32303,jamie1127@ymail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jeff Elliott,8506682008,,Tallahassee,FL,32312,jeffelliott858@gmail.com,,Real Estate Agent,,Real Estate Agent,,Capital Group Realtors,,,,,rentcast
+David Hoover,8509268038,,Tallahassee,FL,32309,dhoover2@hotmail.com,,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Julia Shorter,9045447701,,Tallahassee,FL,32305,sellitjulia@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Dee Ann Maxfield,8505087989,,Tallahassee,FL,32309,deeannbdr@att.net,http://,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Rori Chambers,8506929031,,Tallahassee,FL,32312,rori@redkingrealestate.com,http://www.roritherealtor.com,Real Estate Agent,,Real Estate Agent,,Red King Real Estate Group LLC,,,,,rentcast
+Kelley Anne Waters,8509268777,,Tallahassee,FL,32310,kelley@bluewaterrealtygroup.com,,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Dequan Grignon,8507924060,,Tallahassee,FL,32304,dequan.grignon@gmail.com,https://www.yourfloridarealestategiant.com/,Real Estate Agent,,Real Estate Agent,,"Paul Lizet Realty Group, LLC",,,,,rentcast
+Audrey R Hall,8505088987,,Tallahassee,FL,32303,audreyhall.realestate@gmail.com,,Real Estate Agent,,Real Estate Agent,,Passage Real Estate,,,,,rentcast
+Jinbing Shang,8508888690,,Tallahassee,FL,32304,jss6772@yahoo.com,http://,Real Estate Agent,,Real Estate Agent,,Lighthouse Property Rental Svc,,,,,rentcast
+Brandie Mccabe,8503196736,,Tallahassee,FL,32303,brandie@roi-realtyhomes.com,www.roirealtyhomes.com,Real Estate Agent,,Real Estate Agent,,ROI Realty LLC,,,,,rentcast
+Jacquell Abrams,8507924351,,Tallahassee,FL,32304,jacquell@kw.com,http://jacquell.kw.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Shervin Ighani,8502014663,,Tallahassee,FL,32301,shervinighani@kw.com,,Real Estate Agent,,Real Estate Agent,,"Xcellence Realty Independent, Inc.",,,,,rentcast
+Maria Lentz,8502514598,,Tallahassee,FL,32303,mlentz23@comcast.net,wip.sale,Real Estate Agent,,Real Estate Agent,,WIP Realty,,,,,rentcast
+Sherry Dudley,8502511452,,Tallahassee,FL,32310,sherry.dudley@aol.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Susy Willis,8502842342,,Tallahassee,FL,32311,susy@ketchamrealty.com,http://susywillisrealtor.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Lee E Duggar,8503856685,,Tallahassee,FL,32317,leeduggar@remax.net,http://www.leeduggar.com,Real Estate Agent,,Real Estate Agent,,Re/Max Professionals Realty,,,,,rentcast
+Maria T Selman-jarrard,8506533333,,Tallahassee,FL,32309,olivier@anchorfl.com,,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Jeffrey Wilson,8505099393,,Tallahassee,FL,32317,jeffmw1212@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bay Point Real Estate Group,",,,,,rentcast
+Teresa Hatler,8503663477,,Tallahassee,FL,32301,hatler77@gmail.com,http://www.hatlerrealty.com,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Robert Leparulo,8502949994,,Tallahassee,FL,32308,robert@leparuloproperties.com,http://www.leparuloproperties.com,Real Estate Agent,,Real Estate Agent,,Main Street Real Estate Group,,,,,rentcast
+Fariba Baniahmad,8505094007,,Tallahassee,FL,32303,fbani3@yahoo.com,http://www.yourrealtorfariba.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Patricia Riter,5616225000,,Tallahassee,FL,32303,patricia.riter@cbrealty.com,http://www.patriciariterrealestate.com/,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Realty,,,,,rentcast
+Barbara Moody,8509644277,,Tallahassee,FL,32303,moodyrealtors@gmail.com,https://www.coldwellbanker.com/fl/tallahassee/agents/barbara-k-moody-team/tid-p01700000gc2p99lm6k487uzymxfezcbgwlikz7e,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Alyssa Terry,8507554226,,Tallahassee,FL,32303,alyssa@thewwtgroup.com,,Real Estate Agent,,Real Estate Agent,,Park Way Real Estate & Invest,,,,,rentcast
+Joshua  Brown,8505286385,,Tallahassee,FL,32311,jbrown@wptproperties.com,http://www.wptproperties.com,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Marilyn Yeager,8506943689,,Tallahassee,FL,32304,marilyngyeager@gmail.com,http://tallahasseerealestateproperties.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Hannah Loughmiller,8502014663,,Tallahassee,FL,32312,hannahloughmiller@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Alan Ballas,3057354322,,Tallahassee,FL,32312,alanabsa@gmail.com,www.americanrealty.online,Real Estate Agent,,Real Estate Agent,,American Realty of Bay County,,,,,rentcast
+William Mack Lane,8505977050,,Tallahassee,FL,32301,realtor@macklane.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Paige Hails,5615416023,,Tallahassee,FL,32301,mrshailsrealtor@gmail.com,https://paigehails.com/,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Kristen Fondren,8508964877,,Tallahassee,FL,32311,kristen.fondren@whenyouthink.com,,Real Estate Agent,,Real Estate Agent,,LPT Realty LLC,,,,,rentcast
+Jason H Caddell,8504715000,,Tallahassee,FL,32312,jhcaddell0987@gmail.com,http://jason.viewemeraldcoasthomes.com,Real Estate Agent,,Real Estate Agent,,Hurd Real Estate & Company LLC,,,,,rentcast
+Jackson E Allen,8507274750,,Tallahassee,FL,32303,jacksonallenrealestate@gmail.com,www.4renttallahassee.com,Real Estate Agent,,Real Estate Agent,,Tallahassee Management & Leasi,,,,,rentcast
+William Durham,8505456736,,Tallahassee,FL,32303,gtheussner@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Trenton Fewox,8509334465,,Tallahassee,FL,32312,trentonfewox@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jazmin Floyd,8504913992,,Tallahassee,FL,32310,ilovemybabiesjd@gmail.com,https://www.soldbysrg.com/,Real Estate Agent,,Real Estate Agent,,Superior Realty Group Llc,,,,,rentcast
+Shawn O'neill,9043703500,,Tallahassee,FL,32303,office@jparfl.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Shelley Poppell,9045884136,,Tallahassee,FL,32311,shelleyp@cloverkeyrealty.com,,Real Estate Agent,,Real Estate Agent,,Clover Key Realty,,,,,rentcast
+Brian Messer,8509336587,,Tallahassee,FL,32301,messer@ccim.net,http://www.naumanngroup.com,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Debra Barrett,8503917337,,Tallahassee,FL,32303,danprice94@gmail.com,,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+William B Witmer,8509974061,,Tallahassee,FL,32309,stevewalkerrealty@embarqmail.com,,Real Estate Agent,,Real Estate Agent,,"Steve C. Walker Realty, Llc",,,,,rentcast
+Esther Warrendorf,8502014663,,Tallahassee,FL,32311,ewhomefinder@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Canopy Road Realty, LLC",,,,,rentcast
+Erica Hailee Cochran,8506943489,,Tallahassee,FL,32310,ehaileecochran@gmail.com,https://www.facebook.com/profile.php,Real Estate Agent,,Real Estate Agent,,Southern Oaks Real Estate,,,,,rentcast
+Sherel Sparks,8502647407,,Tallahassee,FL,32301,sherel@listandsoldteam.com,http://www.dsherelsparks.com,Real Estate Agent,,Real Estate Agent,,Hamilton Realty Advisors Llc,,,,,rentcast
+John Holgan,8504437872,,Tallahassee,FL,32303,jholgan@comcast.net,http://www.johnholgan.com,Real Estate Agent,,Real Estate Agent,,Capital Appraisal & Realty,,,,,rentcast
+Ralph Harvey,8554564945,,Tallahassee,FL,32305,ralph@listwithfreedom.com,http://www.listwithfreedom.com,Real Estate Agent,,Real Estate Agent,,"Listwithfreedom.Com, Inc.",,,,,rentcast
+Daniel Gilfeather,8454305640,,Tallahassee,FL,32310,gilfeatherd1@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Brad L Johnson,8505092138,,Tallahassee,FL,32312,realtorbradjohnson@gmail.com,https://www.realtor.com/realestateagents/5c61cde992d0da0012cab5b2,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Brian Moser,8506037080,,Tallahassee,FL,32303,brianmoser.realtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Bulldog Properties, LLC",,,,,rentcast
+Joketra Hall,8505105115,,Tallahassee,FL,32317,joketra@hotmail.com,,Real Estate Agent,,Real Estate Agent,,Florida Homes Realty & Mortgag,,,,,rentcast
+Marcus Clark,3055957355,,Tallahassee,FL,32310,mclark289@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Rod Moeller,8503867400,,Tallahassee,FL,32312,kavik96@msn.com,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Elizabeth Moody,8502014663,,Tallahassee,FL,32305,moody.ej@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+David Sandberg,8505141000,,Tallahassee,FL,32312,dsandberg77@yahoo.com,,Real Estate Agent,,Real Estate Agent,,Capital Property Consultants,,,,,rentcast
+Tannye Rogers,8505569966,,Tallahassee,FL,32304,tanowens@earthlink.net,,Real Estate Agent,,Real Estate Agent,,"Landcorp, Inc.",,,,,rentcast
+Angela E Novoa P.a.,7864411889,,Tallahassee,FL,32303,realtyexpertbrady@gmail.com,,Real Estate Agent,,Real Estate Agent,,Florida Realty Experts,,,,,rentcast
+Na'im Majeed,8505456597,,Tallahassee,FL,32301,na-im@comcast.net,,Real Estate Agent,,Real Estate Agent,,Cobb Realty & Investment Compa,,,,,rentcast
+Britney Desir,8503221649,,Tallahassee,FL,32303,starlapenela@mchsi.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Tanza Thompson,8503397404,,Tallahassee,FL,32311,tee.thomp7@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Deborah Williams,8505564640,,Tallahassee,FL,32317,debbiewilliamsrealty@comcast.net,http://www.debbiehwilliams.com,Real Estate Agent,,Real Estate Agent,,"Debbie Williams Realty, Inc.",,,,,rentcast
+Rebecca Ann Mueller,8504595189,,Tallahassee,FL,32308,rebmueller@yahoo.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Sara Wagner,8502014663,,Tallahassee,FL,32305,saraewagner1@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+John Charles Harnett,8505667220,,Tallahassee,FL,32304,realtorjch@yahoo.com,http://hillspooner.com,Real Estate Agent,,Real Estate Agent,,Harnett Realty,,,,,rentcast
+Rent With Integrity,8507782010,,Tallahassee,FL,32303,info@rentwithintegrity.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Steve Hourigan,8505097838,,Tallahassee,FL,32311,steve@changingtimesrealty.com,http://www.changingtimesrealty.com,Real Estate Agent,,Real Estate Agent,,Changing Times Realty,,,,,rentcast
+Kevin Clark,9547030353,,Tallahassee,FL,32303,kevin32309@gmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Zenghai Yang,8503915760,,Tallahassee,FL,32312,zyrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Thomas Perkins,8503851166,,Tallahassee,FL,32301,tomperkins51@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Landcorp, Inc.",,,,,rentcast
+Erika Robinson,3039054195,,Tallahassee,FL,32303,erika@roi-realtyhomes.com,https://roirealtyhomes.com,Real Estate Agent,,Real Estate Agent,,ROI Realty LLC,,,,,rentcast
+"Jones, David",8502014663,,Tallahassee,FL,32301,davidjones362@yahoo.com,,Real Estate Agent,,Real Estate Agent,,"Barrett Group Realty, LLC",,,,,rentcast
+Jaysen Larrieux,9545455583,,Tallahassee,FL,32310,livingthedreamjaysen@gmail.com,http://www.lokationre.com,Real Estate Agent,,Real Estate Agent,,LoKation® Real Estate,,,,,rentcast
+Debbie W Vincent,8504915007,,Tallahassee,FL,32309,debbie13vincent@gmail.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Mary Hansen,8504454549,,Tallahassee,FL,32301,maryhansenrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Frog Real Estate Company, LLC",,,,,rentcast
+Hunter Brown,8505104092,,Tallahassee,FL,32304,hunter.l.brown@exprealty.com,https://hunterlbrown.exprealty.com/,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Jennifer Beaty,8505090548,,Tallahassee,FL,32301,jenniferblu82@gmail.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Virginia Ann Weaver,3055957355,,Tallahassee,FL,32312,ginnyweaver@me.com,,Real Estate Agent,,Real Estate Agent,,"Xcellence Realty Independent, Inc.",,,,,rentcast
+Jay Caballer,8134445777,,Tallahassee,FL,32310,jay@hometrustrealtygroup.com,http://www.hometrustrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Hometrust Realty Group,,,,,rentcast
+Silvia Quiros,8133887644,,Tallahassee,FL,32304,squiros@solarisrealtygroup.com,www.signaturefl.com,Real Estate Agent,,Real Estate Agent,,Signature Realty Associates,,,,,rentcast
+Stacey Reinstein,8505241519,,Tallahassee,FL,32301,rainajr@yahoo.com,,Real Estate Agent,,Real Estate Agent,,1st Choice Real Estate Service,,,,,rentcast
+Jessica Huebner,8509269100,,Tallahassee,FL,32301,jessicah@wptproperties.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Breanna Priest,8503221649,,Tallahassee,FL,32303,bpriest@mossyoakproperties.com,,Real Estate Agent,,Real Estate Agent,,Southern Land & Homes,,,,,rentcast
+Jameel Jackson,9044468062,,Tallahassee,FL,32303,jameel@listandsoldteam.com,https://jameel.hamiltonsold.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Kay Myers,8508946004,,Tallahassee,FL,32309,kaymyers@comcast.net,http://www.hillspooner.com,Real Estate Agent,,Real Estate Agent,,"Hill Spooner & Elliott, Inc.",,,,,rentcast
+Jessica Johnson,8509269090,,Tallahassee,FL,32305,jessica@wip.sale,wip.sale,Real Estate Agent,,Real Estate Agent,,Oyster & Oak,,,,,rentcast
+William Hugh Munroe,8502948500,,Tallahassee,FL,32303,wmlossmit@comcast.net,,Real Estate Agent,,Real Estate Agent,,The Naumann Group Real Estate,,,,,rentcast
+Delaney Henderson,9042426740,,Tallahassee,FL,32305,delaneysellsjax@gmail.com,,Real Estate Agent,,Real Estate Agent,,MOMENTUM REALTY,,,,,rentcast
+Janelle Thomas Hall,8505706655,,Tallahassee,FL,32301,janellethomashall@gmail.com,,Real Estate Agent,,Real Estate Agent,,Blue Legacy Real Estate Group,,,,,rentcast
+Gabrielle Harvey,8508932525,,Tallahassee,FL,32311,gabrielleharveyrealtor@gmail.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Jillyann Mcgowan,8503321600,,Tallahassee,FL,32309,jillyannmcgowan.realtor@gmail.com,https://tallahassee.yourkwoffice.com,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Beth Odom,9049669115,,Tallahassee,FL,32312,beth.odom@comcast.net,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Ashley Woodham Bentley,8508791090,,Tallahassee,FL,32317,woodham.ashley@gmail.com,http://www.coldwellbankertallahassee.com/agent/ashley-woodham/11240/,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+Beth Mcgrotha,8508939800,,Tallahassee,FL,32312,bethmcgrotha@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Chandra Mullangi,8508951415,,Tallahassee,FL,32303,chandra@realtormullangi.com,www.realtormullangi.com,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Shanna D'attile,8502640611,,Tallahassee,FL,32309,shannadattile@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Camilo De La Cruz Perez,8337002782,,Tallahassee,FL,32308,homesoldrealty@gmail.com,https://floridaflatfeehomes.com/,Real Estate Agent,,Real Estate Agent,,Home Sold Realty LLC,,,,,rentcast
+Robert F Janis,8505249531,,Tallahassee,FL,32303,robert.janis@exprealty.com,http://robertjanis.exprealty.com,Real Estate Agent,,Real Estate Agent,,EXP REALTY LLC,,,,,rentcast
+Kris Mckenzie,8505700821,,Tallahassee,FL,32303,krm7926@gmail.com,mydrakerealestate.com,Real Estate Agent,,Real Estate Agent,,Drake Real Estate Inc.,,,,,rentcast
+Sean Cain,8503399276,,Tallahassee,FL,32317,sean@sean-cain.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Constance Mayo,8502281624,,Tallahassee,FL,32317,mayoconstance@gmail.com,https://www.facebook.com/profile.php,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Donald Gormly,8503862001,,Tallahassee,FL,32304,donaldgormly@gmail.com,www.advancedrealtysouth.com,Real Estate Agent,,Real Estate Agent,,Advanced Realty Group II,,,,,rentcast
+Audrey Frazier,8502287719,,Tallahassee,FL,32308,audrey@ketchamrealty.com,http://www.myrealtoraudrey.com,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+David E Boulter,8508951408,,Tallahassee,FL,32301,boulter.realty@gmail.com,wwww.propertyfindersrealestate.com,Real Estate Agent,,Real Estate Agent,,Property Finders Nguyen Realty,,,,,rentcast
+Jim Marsh,8508780009,,Tallahassee,FL,32303,jimmarsh13@gmail.com,,Real Estate Agent,,Real Estate Agent,,Marsh Appraisal Service,,,,,rentcast
+Rebecca Bachtel,8509269991,,Tallahassee,FL,32303,beckyb@proplayersrealty.com,www.proplayersrealty.com,Real Estate Agent,,Real Estate Agent,,Pro Players Realty Usa,,,,,rentcast
+Scott Gerrell,8509268777,,Tallahassee,FL,32308,scott@bluewaterrealtygroup.com,bluewaterrealtygroup.com,Real Estate Agent,,Real Estate Agent,,Bluewater Realty Group,,,,,rentcast
+Lyndon Dallas,8502960713,,Tallahassee,FL,32304,lyndon.dallas@kw.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Gregory Sullivan,8002969637,,Tallahassee,FL,32310,greg@byowner.com,https://www.byowner.com,Real Estate Agent,,Real Estate Agent,,ByOwner.com,,,,,rentcast
+Jessica Groover,8509732200,,Tallahassee,FL,32311,jgroover@mossyoakproperties.com,,Real Estate Agent,,Real Estate Agent,,Southern Land & Homes,,,,,rentcast
+Derek Eisenberg,,,Tallahassee,FL,32304,propertyinquiry@continentalrealestate.com,,Real Estate Agent,,Real Estate Agent,,"Continental Real Estate Group,",,,,,rentcast
+Silvia Stamenova,3219464392,,Tallahassee,FL,32303,omiem16@msn.com,http://www.floridamoves.com/silvia.stamenova,Real Estate Agent,,Real Estate Agent,,CHARLES RUTENBERG RLTY ORLANDO,,,,,rentcast
+"Nadia Scheffers, Crs",8502649005,,Tallahassee,FL,32312,nadiascheffers@gmail.com,http://www.scheffersrealestate.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Christine Boulos,8502288444,,Tallahassee,FL,32312,boulosrealtor@gmail.com,,Real Estate Agent,,Real Estate Agent,,850 Real Estate Group Llc,,,,,rentcast
+Patricia Bush,8503191884,,Tallahassee,FL,32309,trishabush@kw.com,,Real Estate Agent,,Real Estate Agent,,Elite Realty Group,,,,,rentcast
+E. Bradley Vollertsen,8504594864,,Tallahassee,FL,32305,advanced.edwardbradley@gmail.com,,Real Estate Agent,,Real Estate Agent,,Advanced Real Estate Sales,,,,,rentcast
+Rick Shays,8283715423,,Tallahassee,FL,32311,rick@landmarkrealestateco.com,http://liveincrawfordville.com,Real Estate Agent,,Real Estate Agent,,Landmark Real Estate Company,,,,,rentcast
+Lyndsey Palmer,8508539933,,Tallahassee,FL,32309,lyndseyo@msn.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Karen Ward And Jane Robinson,8502733003,,Tallahassee,FL,32310,kwardcoastwise@outlook.com,facebook.com/kward850,Real Estate Agent,,Real Estate Agent,,Coastwise Realty,,,,,rentcast
+Kathleen Bouchelle,8505568707,,Tallahassee,FL,32303,kat.coastalrealty@gmail.com,https://kathleen.myanchorfl.com/,Real Estate Agent,,Real Estate Agent,,Anchor Realty Of Florida,,,,,rentcast
+Aniseh Abou Saeb,8502014663,,Tallahassee,FL,32312,anisehabousaeb@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Laura Graham,9045092947,,Tallahassee,FL,32303,laura@explorerealtyinc.com,,Real Estate Agent,,Real Estate Agent,,EXPLORE REALTY INC.,,,,,rentcast
+Brittany N Johnson,9548548818,,Tallahassee,FL,32303,brittnicole861@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Elaine Fuentes,8503866160,,Tallahassee,FL,32317,info@cbhnmail.com,http://www.cbhartung.com,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Steve Mattox,8503831966,,Tallahassee,FL,32312,smattox@mattoxrealty.com,http://www.mattoxrealty.com,Real Estate Agent,,Real Estate Agent,,"Mattox Realty, Inc",,,,,rentcast
+Carlos Guillen,9543252577,,Tallahassee,FL,32303,escorp15@bellsouth.net,,Real Estate Agent,,Real Estate Agent,,United Realty Group Inc,,,,,rentcast
+Joseph Kikta,8507783003,,Tallahassee,FL,32312,jfkikta@aaronjosephllc.com,www.aaronjosephllc.com,Real Estate Agent,,Real Estate Agent,,Aaron Joseph,,,,,rentcast
+Kyle Geoghagan,8502014663,,Tallahassee,FL,32305,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Anthony Gifford,8505284472,,Tallahassee,FL,32304,realtoradg@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Brett Miller,8505083312,,Tallahassee,FL,32311,brett@tlhbeardedrealtor.com,,Real Estate Agent,,Real Estate Agent,,Hollifield Real Estate Group,,,,,rentcast
+Doug Hayes,8505450765,,Tallahassee,FL,32308,cdouglashayes@gmail.com,www.brogerrealestateservices.com,Real Estate Agent,,Real Estate Agent,,Broger Real Estate Services,,,,,rentcast
+Caroline Boccaccio,8505210306,,Tallahassee,FL,32309,caroline@hollandpicht.com,,Real Estate Agent,,Real Estate Agent,,Picht & Sons Real Estate,,,,,rentcast
+Melanie Gilbert,8502747736,,Tallahassee,FL,32312,melaniergilbert@yahoo.com,gtwoproperties.com,Real Estate Agent,,Real Estate Agent,,"Gtwo Property Services, Llc",,,,,rentcast
+Tai Nunez,8503918139,,Tallahassee,FL,32301,tainunez.realtor@gmail.com,www.twelvepoints.realestate,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+James Hodges,8509330361,,Tallahassee,FL,32312,james@tally-realty.com,http://www.armorrealty.com,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast
+Mark Branson,8502280139,,Tallahassee,FL,32303,markabranson@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Pamela Jones-smith,8502946089,,Tallahassee,FL,32305,pamelajones.smith@gmail.com,,Real Estate Agent,,Real Estate Agent,,Florida Homes Realty & Mortgag,,,,,rentcast
+Leesa Hampton,8505662824,,Tallahassee,FL,32308,leesahampton25@gmail.com,www.coldwellbankertallahassee.com/agent/detail/leesa-hampton/11145,Real Estate Agent,,Real Estate Agent,,Coldwell Banker Hartung,,,,,rentcast
+Thaddeus Drake,8503866611,,Tallahassee,FL,32303,tvbdrake@aol.com,,Real Estate Agent,,Real Estate Agent,,"Drake Realty, Inc.",,,,,rentcast
+Danielle Runtschke,8502014663,,Tallahassee,FL,32301,danielleruntschke@kw.com,,Real Estate Agent,,Real Estate Agent,,"Xcellence Realty Independent, Inc.",,,,,rentcast
+Rimma Sigal,5519991342,,Tallahassee,FL,32311,rimmamr8@gmail.com,http://www.floridagreathomes.com,Real Estate Agent,,Real Estate Agent,,GREAT HOMES REALTY,,,,,rentcast
+Angela Brooke,8507663675,,Tallahassee,FL,32305,abrooke76@gmail.com,http://angie.theamericandream.house,Real Estate Agent,,Real Estate Agent,,The American Dream,,,,,rentcast
+Danae A Carter,8503221649,,Tallahassee,FL,32305,carterdanae11@gmail.com,www.soldbysrg.com,Real Estate Agent,,Real Estate Agent,,Superior Realty Group LLC,,,,,rentcast
+Sherika Collins,8503540070,,Tallahassee,FL,32303,sherika@rognextgeneration.com,https://sherikacollins.myrealtyonegroup.com/,Real Estate Agent,,Real Estate Agent,,Realty One Group Next Gen,,,,,rentcast
+Jeffery Randall,8134778870,,Tallahassee,FL,32317,jeff@mainhouserealtyassociates.com,http://mainhouserealtyassociates.com,Real Estate Agent,,Real Estate Agent,,MAINHOUSE REALTY ASSOCIATES,,,,,rentcast
+Ahmed Ismail,8508518402,,Tallahassee,FL,32312,alex@sand-seeker.com,,Real Estate Agent,,Real Estate Agent,,Sand Seekers Realty LLC,,,,,rentcast
+Michael Esser,8508937221,,Tallahassee,FL,32304,messer2123@gmail.com,,Real Estate Agent,,Real Estate Agent,,1st Choice Real Estate Service,,,,,rentcast
+Donnie Martinez,4079084765,,Tallahassee,FL,32304,donnie@mybluewaterrealty.com,http://www.mybluewaterrealty.com,Real Estate Agent,,Real Estate Agent,,BLUE WATER REALTY OF CENTRAL FLORIDA LLC,,,,,rentcast
+Krysta Mclaughlin,8504081479,,Tallahassee,FL,32309,krysta@canopyroadrealty.com,,Real Estate Agent,,Real Estate Agent,,"Canopy Road Realty, LLC",,,,,rentcast
+Lee Vass,8505453439,,Tallahassee,FL,32303,elvass@elvass.com,http://elvass.com,Real Estate Agent,,Real Estate Agent,,Lee Vass Realty of Tallahassee,,,,,rentcast
+Mary Applegate,8503214170,,Tallahassee,FL,32304,mary@maryapplegate.net,http://www.maryapplegate.realtor,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Christic Henry,8508779937,,Tallahassee,FL,32304,christic@kingdomfirstrealty.com,www.kingdomfirstrealty.com,Real Estate Agent,,Real Estate Agent,,"Kingdom First Realty, Inc.",,,,,rentcast
+Casey Lauer,8509422980,,Tallahassee,FL,32304,casey@lauerrealestategroup.com,www.lauerrealestategroup.com,Real Estate Agent,,Real Estate Agent,,Lauer Real Estate Group Llc,,,,,rentcast
+Kolby Lee Demott,8503399276,,Tallahassee,FL,32303,tallyrealtorgirl@gmail.com,,Real Estate Agent,,Real Estate Agent,,Big Fish Real Estate Services,,,,,rentcast
+Jamie Blankenship,3528171627,,Tallahassee,FL,32312,jamie@invictusfl.com,invictusfl.com,Real Estate Agent,,Real Estate Agent,,INVICTUS REAL ESTATE LLC,,,,,rentcast
+Ashley Williams,8502014663,,Tallahassee,FL,32301,compliance185@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Anthanette Ford-paul,8503219009,,Tallahassee,FL,32305,afordpaulrealty@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Ford-Paul Realty, Llc",,,,,rentcast
+Melissa Sheppard,8502642886,,Tallahassee,FL,32301,melissa@shepsellsflorida.com,http://www.shepsheppard.com,Real Estate Agent,,Real Estate Agent,,LPT REALTY,,,,,rentcast
+Brandon Ryals,8503459689,,Tallahassee,FL,32310,dbl_florida@yahoo.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Joshua Bassett,8505672129,,Tallahassee,FL,32309,jbassett@wptproperties.com,https://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Jennifer Atwell Holm,8504020612,,Tallahassee,FL,32308,jenniferatwellrealtor@gmail.com,"https://www.coldwellbanker.com/coldwell-banker-hartung-and-noblin,-inc.-1747c/jenny-holm-5076875a",Real Estate Agent,,Real Estate Agent,,"Ketcham Realty Group, Inc.",,,,,rentcast
+Susan Wilhelm,8509268120,,Tallahassee,FL,32305,swilhelm15@comcast.net,shellpointrealty.info,Real Estate Agent,,Real Estate Agent,,Shell Point Realty,,,,,rentcast
+Torree Selders-lein,9046358617,,Tallahassee,FL,32303,torreelein22@gmail.com,,Real Estate Agent,,Real Estate Agent,,HOUSE & HAVEN,,,,,rentcast
+Linnea Privette,3056191107,,Tallahassee,FL,32301,linneaprivette@icloud.com,fowlerrevell.com,Real Estate Agent,,Real Estate Agent,,Fowler Revell Real Estate Co.,,,,,rentcast
+Gunter Brantley,8505098189,,Tallahassee,FL,32312,gbrantley1007@gmail.com,,Real Estate Agent,,Real Estate Agent,,Keller Williams Town & Country,,,,,rentcast
+Adam Lassiter,8505107014,,Tallahassee,FL,32308,alassiter07@gmail.com,http://wptproperties.com/,Real Estate Agent,,Real Estate Agent,,Waypoint Properties,,,,,rentcast
+Ronald Brafford,8508939537,,Tallahassee,FL,32303,ron.brafford@summitgroupcommercial.com,http://www.tallahasseeland.com,Real Estate Agent,,Real Estate Agent,,Summit Group Commercial Proper,,,,,rentcast
+Tiffany Quach,4482006502,,Tallahassee,FL,32301,thelifeofluxerealtor@gmail.com,https://xcellencerealty.com/agents/tiffany-tran-quach/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+Eva Armstrong,8505919501,,Tallahassee,FL,32312,evabarmstrong@comcast.net,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Mark Paugh,6105439648,,Tallahassee,FL,32310,paw_md@zohomail.com,,Real Estate Agent,,Real Estate Agent,,"BEST HOMES, LLC",,,,,rentcast
+Mike Phillips,8505569352,,Tallahassee,FL,32308,mike@armorrealty.com,http://www.armorrealty.com/,Real Estate Agent,,Real Estate Agent,,All Realty Services,,,,,rentcast
+The Daniels Team,8502490313,,Tallahassee,FL,32308,elliestafford@kw.com,www.kwsuccessrealty.com,Real Estate Agent,,Real Estate Agent,,KELLER WILLIAMS SUCCESS REALTY,,,,,rentcast
+Chrissy Shorter-arnold,3524460423,,Tallahassee,FL,32305,shorterarnoldproperties@chrissyshorterarnold.com,,Real Estate Agent,,Real Estate Agent,,Blue Legacy Real Estate Group,,,,,rentcast
+Samuel Frazier,8509269757,,Tallahassee,FL,32303,sambonium@yahoo.com,http://,Real Estate Agent,,Real Estate Agent,,"TLG REAL ESTATE SERVICES, PLLC",,,,,rentcast
+Dana Panichella,8502098870,,Tallahassee,FL,32310,danapanichella@gmail.com,http://www.americangoldrealty.com,Real Estate Agent,,Real Estate Agent,,American Gold Realty,,,,,rentcast
+Staci Pigott,8505708242,,Tallahassee,FL,32317,staci@tngrealty.com,http://www.tngrealty.com,Real Estate Agent,,Real Estate Agent,,The Nova Group Realty,,,,,rentcast
+S. Chase Link,8503631313,,Tallahassee,FL,32303,chase@primesouthrealty.com,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Sedita Cayson,8509336973,,Tallahassee,FL,32312,thelandman2@gmail.com,,Real Estate Agent,,Real Estate Agent,,"Primesouth Fezler, Russell and",,,,,rentcast
+Era Cooper,8504599256,,Tallahassee,FL,32310,eracooper71@gmail.com,,Real Estate Agent,,Real Estate Agent,,The American Dream,,,,,rentcast
+Anna Smith,8507456047,,Tallahassee,FL,32303,anna@agpbeach.com,www.rybakrealty.us,Real Estate Agent,,Real Estate Agent,,"Rybak Realty, Llc",,,,,rentcast
+Charles Baughn,8502014663,,Tallahassee,FL,32301,cbaughn2020@gmail.com,https://xcellencerealty.com/region/tallahassee/,Real Estate Agent,,Real Estate Agent,,Xcellence Realty,,,,,rentcast
+"Johnson, Lisa, P",8502128300,,Tallahassee,FL,32309,lisaj8300@gmail.com,,Real Estate Agent,,Real Estate Agent,,Lisa Johnson Real Estate Servi,,,,,rentcast
+David Pointon,8507864114,,Tallahassee,FL,32303,david.pointon@robertslack.com,http://robertslackflorida.com/davidpointon,Real Estate Agent,,Real Estate Agent,,Robert Slack LLC,,,,,rentcast
+Raphaelle Lazarre,4076222122,,Tallahassee,FL,32303,info@crrmove.com,http://crrmove.com,Real Estate Agent,,Real Estate Agent,,CHARLES RUTENBERG RLTY ORLANDO,,,,,rentcast
+R. Norris Bishop,2298901186,,Tallahassee,FL,32303,norris@norrisbishoprealty.com,http://www.norrisbishoprealty.com,Real Estate Agent,,Real Estate Agent,,"Norris Bishop Realty, Llc",,,,,rentcast
+Dylan Boyle,7723808856,,Tallahassee,FL,32303,dmboyle12@gmail.com,www.twelvepoints.realestate,Real Estate Agent,,Real Estate Agent,,"Twelve Points Real Estate, LLC",,,,,rentcast
+Jane Clemons,3525385762,,Tallahassee,FL,32308,jane@janeclemons.com,http://www.mainandfield.com,Real Estate Agent,,Real Estate Agent,,"Main & Field Real Estate, Llc",,,,,rentcast
+Kimberly Miller,8502102325,,Tallahassee,FL,32301,kimgmiller1@gmail.com,https://www.armorrealty.com/,Real Estate Agent,,Real Estate Agent,,"Armor Realty Of Tallahassee, Inc",,,,,rentcast

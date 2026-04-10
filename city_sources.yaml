@@ -1,0 +1,145 @@
+# city_sources.yaml
+# ─────────────────────────────────────────────────────────────
+# Per-city contractor data sources configuration.
+#
+# Each entry defines where to find contractor data for a specific city
+# beyond the standard BBB scraping. These are automatically picked up
+# by scrape_contractors.py via the hook registry.
+#
+# Source types:
+#   arcgis    — ArcGIS feature service (REST API, paginated)
+#   aspnet    — ASP.NET postback grid (e.g. Baltimore DPW)
+#   pdf       — Downloadable PDF with pdftotext parsing
+#   aspnet_sa — San Antonio BILS portal (special form)
+#   csv_url   — Direct CSV download URL
+#   api       — Generic JSON REST API
+#
+# To add a new city portal:
+#   1. Add an entry here
+#   2. Implement the scraper function in scrape_contractors.py
+#   3. Register it: register_city_hook("City", "ST", your_function)
+# ─────────────────────────────────────────────────────────────
+
+cities:
+  - city: San Antonio
+    state: TX
+    sources:
+      - type: aspnet_sa
+        name: San Antonio BILS ContractorConnect
+        url: https://webapp9.sanantonio.gov/BILS/IndexContractorConnect.aspx
+        notes: ASP.NET form; submits all license checkboxes; exports Excel (UTF-16)
+
+  - city: Philadelphia
+    state: PA
+    sources:
+      - type: arcgis
+        name: Philadelphia Contractor/Permit Lookup (ArcGIS)
+        url: https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/AGO_Lyr_Contractor_Lookup_Application_Eclipse/FeatureServer/0/query
+        fields: CONTRACTORNAME,ADDRESS,PERMITNUMBER,PERMITTYPE,TYPEOFWORK,WORKDESCRIPTION,STATUS,ISSUEDATE
+        page_size: 2000
+
+  - city: Baltimore
+    state: MD
+    sources:
+      - type: aspnet
+        name: Baltimore City DPW Prequalified Contractor Directory
+        url: https://dpwpublic.baltimorecity.gov/contractormobile/ShowDetail.aspx
+        notes: DevExpress ASP.NET grid; 91 pages; postback pagination via ASPxGridView5
+      - type: bbb
+        notes: Also covered by standard BBB scraping
+
+  - city: Brighton
+    state: CO
+    sources:
+      - type: pdf
+        name: Thornton City Licensed Contractors PDF
+        url: https://www.thorntonco.gov/media/file/all-licensed-contractors-2
+        notes: Shared across Brighton/Thornton/Commerce City/Westminster/Northglenn CO
+
+  - city: Thornton
+    state: CO
+    sources:
+      - type: pdf
+        name: Thornton City Licensed Contractors PDF
+        url: https://www.thorntonco.gov/media/file/all-licensed-contractors-2
+
+  - city: Anchorage
+    state: AK
+    sources:
+      - type: union_directory
+        name: UA Local 367 Contractor Directory
+        url: https://ualocal367.org/contractors/
+        notes: Anchorage plumbers & pipefitters union — signatory HVAC/mechanical contractors
+      - type: chamber
+        name: Anchorage Chamber of Commerce — General Contractors
+        url: https://business.anchoragechamber.org/list/category/contractors-general-and-commercial-133713
+        notes: Member directory; paginated list; category ID 133713
+      - type: yelp
+        notes: Yelp public HTML search — hvac, contractors, electricians, roofing, plumbing
+      - type: angi
+        notes: Angi/HomeAdvisor public pro directory — hvac-repair, general-contractors, electricians, roofing, plumbers
+      - type: pdf
+        name: Alaska NECA Contractor Brochure (Dec 2024)
+        url: https://www.alaskaneca.org/wp-content/uploads/12.20.24-Contractor-Brochure.pdf
+        notes: Alaska NECA (National Electrical Contractors Association) member list — electrical contractors statewide, relevant for Anchorage
+
+  # ── Future cities to add ──────────────────────────────────
+
+  - city: Seaford
+    state: DE
+    sources:
+      - type: bbb
+        notes: BBB only — no known city portal
+      # TODO: Check Delaware contractor license lookup:
+      # https://delpros.delaware.gov/OH_Services
+
+  - city: Kempner
+    state: TX
+    sources:
+      - type: bbb
+        notes: Small city; BBB only
+
+  - city: Mansfield
+    state: TX
+    sources:
+      - type: bbb
+        notes: BBB + nearby city coverage (Fort Worth, Arlington, etc.)
+      # TODO: Tarrant County permit records
+
+  - city: Sapulpa
+    state: OK
+    sources:
+      - type: bbb
+        notes: BBB only
+      # TODO: Oklahoma Construction Industries Board:
+      # https://cib.ok.gov/contractor-license-lookup
+
+  - city: Borger
+    state: TX
+    sources:
+      - type: bbb
+        notes: Small Panhandle city; BBB only
+
+  - city: Edinburg
+    state: TX
+    sources:
+      - type: bbb
+        notes: BBB + nearby Rio Grande Valley coverage
+
+  - city: Tallahassee
+    state: FL
+    sources:
+      - type: bbb
+        notes: BBB only
+      # TODO: Florida DBPR license lookup:
+      # https://www.myfloridalicense.com/wl11.asp
+
+  - city: Winter Haven
+    state: FL
+    sources:
+      - type: bbb
+
+  - city: Okeechobee
+    state: FL
+    sources:
+      - type: bbb

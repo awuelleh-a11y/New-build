@@ -1,0 +1,683 @@
+name,phone,email,office,city,state,target_city,target_state,is_neighbor,source
+Kevin Sigafoos,9075626464,ksigafoos@gci.net,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Richelle Killian,9075758872,richellekillian@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Margie Hudok,9077483656,margie.hudok@gmail.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Shawna Calt,9072420211,shawna@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Travis Mcgrann,9074060191,travis@theareteam.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Yvan Corbin,9073010875,yvan@alaskatopshelfrealty.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Moriah Kearse,9072010901,907abodes@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Allison Houston,9072585800,ahoustonrealtor@outlook.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Sharon Shaw,9073716521,sharon.shaw@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Joe Bell,9073504047,joebell@kw.com,Notch Realty Co.,Anchorage,AK,Anchorage,AK,False,RentCast
+George Lamoureaux,9078654700,george@montecristoent.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Brian M Roit,9078654700,brnroit@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Bernard T. Powell,9072762761,bernardp@remax.net,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Melissa Worrell,9078656500,worrell.melissa@gmail.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Dar Walden,9078305106,info@darwalden.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Sarah Nunes,9078654700,jackiedanner@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Justin Bell,9073439838,justin@jbellproperties.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Mj Motta,6237603006,mj@keyrealty.group,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Justin Mcghee,9078656500,justinmcghee@kw.com,Leasing Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Pristine Christie,9075312583,pristine@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Zimmerman,9074402175,jzimmerman@homebuyingalaska.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Jessica Horwatt,9074418196,jessica@ravenrealestateak.com,"Raven Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Tina Steenmeyer,9075626464,tina@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jared Bjerkestrand,9078658855,jared@reedmooregroup.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tami Taylor,9072443504,tamitaylor@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Taylor,9072570434,kevint@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Justin Milette,9073069436,justinmilette@aspirerealtygroup.com,Real Broker B Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Keira Dreher,9075294660,keira@keiradrehergroup.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Randall T Black,9078654700,randyblackrealtor@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Peter Carpenter,9078656500,carpenterrealtyak@gmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Hilary Lockhart,9072740000,hilary@mlsak.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Wendy Wiltfong,9074418200,whereswendy907@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Elena Cedano,9072302508,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Jamie Harvey,9075626464,jkharvey@gci.net,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tiffanie Bird,9077646666,tiffanie@corealaska.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Belinda Burchell,9078549667,belindaburchell@hotmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Matt Dimmick,9078656520,matt@teamdimmick.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Shawn Babbitt,9074412500,babbitt@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kimberly Apland,9077757194,kimapland@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Bethany Weiser,9072231632,bethany.weiser@theagencyre.com,The Agency Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Todd O'banion,9072617600,obanionrelocation@gmail.com,"O'banion Real Estate And Relocation Services, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Kristan Cole,9073733575,kristan@kristancole.com,The Kristan Cole Team Branch Office Keller Williams Realty - Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Lonnie Logan,9079031221,lonnie@bestanchoragehomes.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Travis Smith,9079030440,trav@nosev.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Erica Koitzsch,9072639333,ericahomesales@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Miche Petersen,9072617600,miche@merithomesak.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Ranna Fekrat,9074415815,akrannahomes@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sam Steele,9072409489,samsteele@ak.net,Jack White Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Aurora Courtney,9073062046,aurora@tagalaska.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Jamie Rose,9072327183,jamesdrose@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Ken Hagler,9073067230,ken@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Drew Jones,9073309477,drew@homesberry.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+Larry J. Imm,9075626464,limm@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Webb,9072617582,michellewebb@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Brett Hull,9073518047,bretthull036@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Zach Menzel,8554500442,talkeetnasun@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lindsay Holland,9078855960,lindsay@akpropertysearch.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Charles A. Scherbaum,9075627653,chuckakrealtor@gmail.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+John M Wakefield,9077174426,john@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Laura Halverson,9072304891,laurah@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Kelsea A Doucakis,6038310911,kelsea@corealaska.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Vanna Siackhasone,9072972922,alaskahomesbyvanna@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Patricia O'neil,9076717744,patriciaoneilak@pm.me,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Valeria Hartley,9078841227,valeria@rmgrealestate.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Desiree Baxter,9073987289,desiree@gprealaska.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Gary Cox,9077274279,admin@alaskarealestateking.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sandra Nunes,9072420863,sandranunes@ak.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Alisa Parrent,9072503154,alisashomes@yahoo.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lorrie Seward,9076323661,lsgroupak@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Tim Chi,4259859071,timchirealty@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Ken Speegle,9076943434,kenspeegleak@gmail.com,United Country Real Estate Alaskan Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Stephanie Rogers,9078654700,yourakrealtor@gmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Jeremy P Tompkins,9078658855,jeremy@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Elizabeth Hooper,9072276794,hoopers907properties@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Silvia Brugger,9077179300,silviabrugger@akrealestate.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+"Heather Maidl, Agent",9074339898,heather@akhomesale.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Heather Estabrook,9072762761,heather@homealaska.net,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Shari Boyd,9077625863,shari@shariboyd.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Svetlana Drews,9074407045,drewssvetlana@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Manuel Rodriguez,9077484793,ak.regencyplace@gmail.com,Jack White Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Ralphie Morel,9072233595,ralphie@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Adrian Jaime,9077276989,adrian@anchoragealaskarealestate.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Nicole Lee,9072237597,nicole@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Shane E. Blattler,9072400034,alaskarealtors@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Douglas John,9078656500,doug@darwalden.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jonathan D Harvey,9075626464,jharveyinak@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Katrina Benton,9073010189,katrinabenton@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Rodger Cinkota,9073151974,rodgercinkota@gmail.com,Denali Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Jubilee L Underwood,9073733575,jubilee@thekristancoleteam.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Daniel Benton,9077275279,info@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+"Amy Bacon Gri, Crs",9079471401,amybaconhomes@gmail.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Theresa Stimac,9073061882,theresastimac@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Lew Ulmer,9075626464,lewulmer@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Cher Shaw,9078302211,chershaw@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Debra L. Addessi,8084924257,debraa@cbpacific.com,Redfin,Anchorage,AK,Anchorage,AK,False,RentCast
+Dane Black,9074400983,dane@herorealtygroup.com,Chambers Real Estate Services,Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Sanford,9072500337,michellesellsakhomes@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Paul Lee Callaway,9075701110,paul@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Carl Wiltfong,9073507159,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Dustin Rennor,9072684200,dustin@synergyhometeam.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Vivian Wilson,9076944994,vivian@partnersre.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Brett Baker,9079310101,brett@boldlydifferent.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Sean A Whitener,9079032141,sean@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Cortney L Foos,3604715409,cfoos_19@yahoo.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Bethany Stamper,9075627653,bethanystamper@reals8.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Robert Bassett,9078656545,robert@darwalden.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Nani Palmer,9076941234,nani@lesbaileyandassociates.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Nathan Baer,9076221345,natebaerhomes@gmail.com,LPT Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Allana Lumbard,9073607448,james@herorealtygroup.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Brett Renfro,9072322358,renfro.brett@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Cody Morey,9315619483,cody@realestateproak.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+James W. Black Iii,9075752258,jimblack.realtor@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Roger E. Briley Jr,9072400369,rogerbrileyhomes@gmail.com,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sherilynn Bare,9072309336,sherilynnbare@mac.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Greg Hobson,9078854455,glhobson@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Joslyn Blanchard,9072307760,alaskahousehunting@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Logan Upchurch,9079178325,loganupchurch@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Schwartz,9076221345,jenny.schwartz@exprealty.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Amanda Tittle,9072639333,lisah@pobox.alaska.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Ayla L Rogers,9075612227,ayla.buyersre@gmail.com,"Buyers Real Estate, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Peter Gribbin,9078654700,gribbin6@gci.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Billy Hughes,8088660935,billyhughes@bhincubatorllc.com,Real Broker B Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin B. Cross,9075292289,kecross@gci.net,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Porter,8554500442,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Brian Broderick,9072737261,bbroderick@gci.net,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Brittany Burke,9072585800,brittanyburkec21@gmail.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Brandy Pennington,9072276682,brandy@brandypennington.com,Brandy Pennington Anchorage Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Laurence J Mooney,9076221345,larmooney@yahoo.com,Denali Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Kassandra M Higgins,9078656500,kassandramhiggins@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Richard Davids,9072426446,rickakestate@gmail.com,"Sun Properties, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Nelson,9072400570,michellenelson@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Suzanne C Cool,9076896474,jenrjones@kw.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Carla Allen,9079532643,carla@kenairealty.com,"Alaska 1st Realty, Inc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Deborah Jordan,4073144723,deb.neue@gmail.com,ENRG Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Kimberly Ketchum,9072290052,kimakrealtor@gmail.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Savanna A Wiita,9078654700,savanna@wolfhomes.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Matthew M Lindsay,9073021011,matthew@precisionhomegroup.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Wendy Stevens,9072404029,realtorwendy@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Stephanie Richardson,9075291844,steph@stephrichardson.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Gregory Dunlap,9073304260,greggd@searchyouralaskahome.com,"Hayden Outdoors, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christian Yambao,9072306301,christianmyambao@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Ralph Matukonis,9073506446,ralph.matukonis@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Janis Tolbert,9072501981,janis@tolbertrealestategroup.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jonathon Wagner,9073604884,jonathon.wagner@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Karen Dannenbring,9075620298,dannenbringkaren@gmail.com,"O'banion Real Estate And Relocation Services, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Terry Beal,9072617545,terrybeal@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Scott,9072447622,callalaskahome@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Mark Mandigo,9072238422,mandigomanor@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Lane Rau,9079528120,lane.alaska@gmail.com,Real Results Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+O C Madden Iii,9078306107,oc@kwrealty.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+Dorian D. Traylor,9072303611,dorian.traylor@gmail.com,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jacob Woods,9072272238,jacob@figure9realestate.com,Figure 9 Real Estate LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Crystal Goeth,9073065462,ccgoeth@gmail.com,Real Broker B Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Ryan E Schwalbe,9072301523,ryan.spire.commercial@gmail.com,Spire Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Sara J Gee,9075626464,homesofalaska@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Winthrop Faulkner,9072448906,winthropf@gmail.com,Faulkner Real Estate LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Sharon Gratrix,9072293048,gratrix.sharon@yahoo.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Noria Anne Clark,9072010017,noriaclarkre@gmail.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Barb Huntley,9072275228,barb@searchyouralaskahome.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Cody Superman,9075195582,codysuperman@hotmail.com,ENRG Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Questa Locke,9073502322,qandj@mtaonline.net,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Julie Marshall,9075613726,juliemarshall@fsbosystemak.com,Fsbo System Llc,Anchorage,AK,Anchorage,AK,False,RentCast
+"Rowena & Associates, Llc.",9072238897,rowena_pediangco@yahoo.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Mary Cox,9072570112,marycox@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Julie Erickson,9072429282,julieakrealtor@aol.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Mackie Derrick,9072501674,mackierides@gmail.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Bohannon,9075210839,jennifer@bohannongrouprealty.com,LPT Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Karen Johnson,9078306107,karenalaskcan@gmail.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Bernard,9075626577,jenniferwb@alaskan.com,"Next Level Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Richard W Ellis,9075701110,richard@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Amy Neuharth,9072322807,amy@amyneuharth.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Sabra Gilliland,9077207404,sabra@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Hutton Brown Ii,9075626464,huttonbrown@hotmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Heidi Sagen,4068905878,heidi.sagen@akreba.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Fuller,9072306301,soldbyfuller2@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Troy Phillips,9073438900,troy@akadventurelodge.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Shannon Ingram,9077487861,paul@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Daniel Potts,9078656500,pottsdaniel07@gmail.com,Realty Simple,Anchorage,AK,Anchorage,AK,False,RentCast
+Kelleigh Shea,9073015873,kelleigh@darwalden.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Vallee B D'eustachio,8016992022,vallee.deustachio@homegenius.com,"Homegenius Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Connor Rall,9078541651,connor@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Ambrosia Romig,9072306091,adbowlus@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Katherine De Hoop,9072308522,signaturealaska@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Null Buyers Real Estate Team,9075612227,ayla.buyersre@gmail.com,"Buyers Real Estate, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Dylan Griffith,9078308627,akdylangriffith@gmail.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Debbie Moore,9072443486,debbiem@ak.net,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Claudette Burden,9072659100,claudette.burdenre@gmail.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Paige Gibson,9072402610,paige@liveloveak.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Melissa Boyd,9077265811,melissaboydc21@gmail.com,Century 21 Realty Solutions Greatland Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Nicole Wedel,9072447883,nicolewedel@selling-alaska.com,Eagle River Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Polly B Reutov,9075210865,pollysperfecthomes@gmail.com,ENRG Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Heather Brinley,9078656500,heather@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Kim Khamleu,9072679396,kimksemail@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Tara Vanorsdal,9073012289,tvanorsdal@acsalaska.net,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Legorreta,9079525358,jennifer@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Morgan B Michelsohn,9078654700,morganmichelsohn@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Daniel George,9075294211,daniel@bhhsalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Elsa Sargento,9073438900,elsams@ak.net,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Lara Mcginnis,9073984468,laramcginnis@kw.com,Redoubt Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Scott Kirk,9077832131,scott@girdwoodrealty.com,"Girdwood Realty & Property Management, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Tae Yoon,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Keenan Fitzpatrick,9073517812,kw.fitz49@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lisa Yi,9072311454,lisa@bhhsalaska.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Crismore,9077504893,michelle.crismore@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Daniel Munoz,9075626464,danielmunoz@jackwhite.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Cherise Fowler,9072909464,cherise@unityhomegroup.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Valesa V. Linnean,9078656440,homes@valesa.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Edward Vinsang,9077959626,evinsang.jr22@yahoo.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Brittany N Moses,9078656500,moses.brittany@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Taylor Holfeld,9078656500,tholfeld@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Julie Briles,9078654700,juliebriles@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Ryan Kowal,9072585800,ryankowal.c21@gmail.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Tarra Quisenberry,9079031103,tarraquisenberry@kw.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Mary Jo Cunniff,9073173187,mjcunniff@gci.net,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+"Kazmierski,kelly",9078646500,kelly.ramirez@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Julia Skelley,9072317734,julia@beaconrealtyhomes.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Nicholas Bobo,9078646500,mellamobobo@hotmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Theodis Talbert,9076321213,theodis_talbert@yahoo.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+John Macmullen,9073764515,mac1995@mtaonline.net,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Becky Brewer,9075626464,aroundthecorner@gci.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Monique Manley,9078879103,moniquemanleyak@gmail.com,Real Broker B Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Teresa Bell,9078656500,tbell@gci.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Erik M Taylor,9075614010,etaylor@ptpmanagement.com,"Ptp Management, Inc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Carla Scott,9078305354,callalaskahome@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Angie Ferris,9072235609,907ferris@gmail.com,Ferris Group LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Jonathon Rodriguez,9078656500,kwrealtorjon@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sam Lightle,9074418220,samlightle@yahoo.com,"Premier Properties, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lou Crandall,9073518820,louie@upcyclerealestate.com,"All Star Realty, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Casey Campbell-boyer,9075612111,don@bensonrealtyllc.com,"Benson Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jeri Rodriguez,9074417194,crossadmin09@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+John O'hara,9072570183,johno@remax.net,"John O'Hara Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Laurra J Davis,8338036673,laurra@mmre.com,MMRE(r),Anchorage,AK,Anchorage,AK,False,RentCast
+Mark Tuovinen,9072407081,mark@bhhsalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Alison Lane,9073517832,alisonlane@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Wendy Bringhurst,9078541236,wendy@wendybringhurst.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Lyndsey Wilson,9073609655,lyndsey.wilson@primeakrealestate.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Lisa Herrington,9072296822,lisah@pobox.alaska.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Eric Dye,9072441970,dyeman@gci.net,"Globe Real Estate, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Jessica Hennings,9073763600,homesbyhennings@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Erin Eker,9072307266,erineker@gmail.com,Ski To Sea Properties Llc,Anchorage,AK,Anchorage,AK,False,RentCast
+Gail Dossman-tolliver,9072304575,christine.hale@realtor.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+July S Leslie,9078301291,julysarahleslie@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Scott Guyer,9076027881,scott.guyer@yahoo.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Emma Shibe,9072500908,emmashibe@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Carla Nice,9075626464,nicecarla@gci.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Connie Yoshimura,9072292703,connie@bhhsalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Elfrink,9073454535,kevinelfrink@gmail.com,"Globe Real Estate, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Helen Bridier,9076966500,ed@alaskahomes-properties.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Viki L. Kaas,9077275555,viki@gci.net,Homes Unlimited,Anchorage,AK,Anchorage,AK,False,RentCast
+Shaylee Dorsten,9075218671,shaylee@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Kasia Giron,9072901445,kasiagiron@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Darren W. Donald,9078654700,darrendonald@ak.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Ganiyu Shittu,9077274090,ganis@prodigy.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jeremy J Burke,9075213444,jeremy@veteransofthevalley.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Mark Soquet,9075611616,mark@soquet.com,"Soquet Realty, Inc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Shelly Vogel,9073502459,vogelshelly@gmail.com,"Vogel Realty Group, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Amanda Bacher,,,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Carmen E Robles Perea,9075706757,ecarmenrobles@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Casey Knight,9073438900,knight.casey@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+"Jennifer Seymour, Realtor ®",5024759347,jenniferseymour@bayrealtyalaska.com,Bay Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Joseph D. Miller,9072570149,alaskainvestments@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Nathan Switzer,9076023798,akrealestatenate@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Audrey Mason,9066223344,sold007@yahoo.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Tammy Stewart,9073601116,tammy@arolik.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Karen Cismoski,9072421761,kcismoski@jackwhite.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Won Zong,9072272327,wonzong@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Sally Goodrich,9072270506,sally.a.goodrich@gmail.com,Realty ONE Group Aurora Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Heather Denton,9077076141,hdenton@kw.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Mark Yonkovich,3603253365,mark@corealaska.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Michael K Linn,9075612227,mlinn.buyersre@gmail.com,"Buyers Real Estate, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Jason Fawcett,9073507077,jason@cralaska.com,Leasing Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Joline J Millon,9072011962,joline.millon@exprealty.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Grein,9076717283,kbgrein@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Tanya Lieberman,9074060960,tanyaalieberman@gmail.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+Yvette Belisle,9078682811,yvette.belisle@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Miyun Reid,9078656500,miyun@unityhomegroup.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Tracey L Thomas,9078658855,tracey@rmgrealestate.com,RMG Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Curtis Nading,9075612220,realtyex@alaska.net,"Commercial Real Estate Alaska, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Sean Mulhern,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Elisabeth Childress,9078654700,beth.sell@kw.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Unity Home Group,9078656500,sabra@akhomeshow.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Reagan Peterson,9073438900,reagan.peterson@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Marc Jong,9072402015,marc@jongrealty.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Lynn Anderson,9073068816,michelle@mlsak.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Tate Rogers,9073026262,tate@fsbosystem.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Todd Lindfors,9073364653,toddlindfors@msn.com,Gold Key Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Olga Persinger,9073100641,olga.persinger@exprealty.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Bethany M Mitchell,9073158231,bmitchell@truenorthsds.com,True North Real Estate Solutions LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Cheri Marston,9075626464,cheri@marstonak.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Mr. James Detweiler,9073309632,mkdrealestateteam@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Matt Duke,8554500442,matt@homesbyduke.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Brian Reishus,9078879898,brian@alaskahomepro.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Toni J Salazar Draper,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Alexis Black,9077178757,alexisblack3315@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jacob Sebring,9072277370,jacobsebring@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Larry W. Dykes,9072271022,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Roy Briley,9079476600,roybrileyrealestategroup@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Ileana Batista,9073068238,ileana_batista@kw.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Jared English,8888814118,english@congressrealty.com,Congress Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Thea Paschall,9073172949,thea.paschall@exprealty.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Heidi Stephan,9077270816,heidishomes@gmail.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+D'ette Owen,9078656586,detteowen@gmail.com,Realty ONE Group Aurora Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Alma Garcia-tuia,9079475970,legacypropertiesak@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Britta Sonerholm,9078304996,britta.sonerholm@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Carl Hines,9072273534,carl.hines@kw.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Rene' Kennicott,9075626464,rene@renekennicott.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lisa R. Conner,9072442013,lisa@lisaconner.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christina Edenshaw,9074447172,christina@eaglefeatherrealty.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Michael Schwartz,9073514228,milkman@kw.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Ron Alleva,9072749269,ronalleva@yahoo.com,Grubstake Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+John Diamond,8774102037,diamond3dmarketing@gmail.com,Lawrence Realty Group Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Anita Bates,9076463600,anita@anitabatesrealtor.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Cassandra Raun,9072231463,cassandraraun@gmail.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Carmen Mclean,9073020024,carmen@camaihome.org,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Rachel Butler,9072639333,iloveslippers@outlook.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Johnnette Obillo,9073129435,jnnette@ymail.com,Northern Trust Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Joshua Harris,9072501428,josh@unityhomegroup.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tim A Kelly,9076326205,tim@takelly.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jordan Savage,9072308537,jordan.savage@exprealty.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Lori Aughe,9075296641,lori@unityhomegroup.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Barth,9079528958,chrisbarthhomes@gmail.com,"O'banion Real Estate And Relocation Services, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Brad W Wilson,9074417178,brad@bradwwilson.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Mylise M Bennett,9073176621,mylise@wolfhomes.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Elizabeth Percy,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Cory Stanley,9072449600,corystanley907@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Michael Liebner,9075627653,michaelliebner@live.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Ilirjana Nazifi,9076026022,ilirjananazifi@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jay Griffith,9072230891,jay.griffith@exprealty.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Adam Holzer,9073444825,adam@adamholzer.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Nathaniel Stogsdill,3602249031,natestogsdill@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+David Matthys,9072807979,david@matthysrealestate.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+"Hunter Burton, Crs",9073604682,hunter.burton.ak@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jim Murphy,9075626464,jimandrebecca2004@yahoo.com,LPT Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Mark W. Rowley,9072790541,mrowley@ptpinc.us,"Pacific Tower Properties, Inc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Steve Karcz,9072774433,skkarcz@gmail.com,"North Country Investments, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Devon Doran,9073542685,devonthomasak@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Robert Rink,9092274650,bobrink@gci.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Barrett,9072507509,kbarrett@gci.net,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Gregg Dunlap,9706741990,greggdunlap@haydenoutdoors.com,Hayden Outdoors Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Laurie Miller,9077156104,lmiller@jackwhite.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Mark Masley,9077277653,markmasley@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Ava Anderson,9076222400,ava@andersongroupak.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Rod Stone,9077279379,rod@homes3030.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Uzzil Christian,9072509196,uzzil@uzzilandassociates.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Zachary Boyer,9074827368,zboyer49@gmail.com,Rent in The Valley,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher A. Rose,6784010475,christopher.rose@rhss.com,"Realhome Services & Solutions, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Zhijin Chen,9073490055,jinchen.mba@outlook.com,"E C Realty, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Brandi F Laurin,9078656500,brandilaurinhomes@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jesse Tanner,9072321695,jessetanner00@gmail.com,Tanner Group Premier Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Craig Channer,9073127600,craig@craigchanner.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Kristen Buchta,9073504429,kristendb907@gmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Gordon Sloane,9072443381,gordon@adhomegroup.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Edwin Osowski,9072586111,edwinosowski@gmail.com,Susitna Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Andy Zywot,9073525100,andyz@alaska.com,360 N. Realty LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Tyler Cobb,9073438900,tylercobb08@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Chris Moore,9074069200,chrismoore@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+James Cash,9073607448,jamesfcash@gmail.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Lily Bosshart,9073138496,lily@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Kerry Perkins,9078630502,kerryperkinsrealtor@gmail.com,Better Homes and Gardens Real Estate Dream Makers,Anchorage,AK,Anchorage,AK,False,RentCast
+Tsali Janek,9072585800,tsali@skookumproperties.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Frederick N Sta Maria,9078654700,fsantamaria907@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Athena Fulton,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kelsey Mcleod,9072523298,kbrewer@jackwhite.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Matthew St John,9072321367,streetjohn@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Lora Nordstrom,9073608540,lora@loranordstrom.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Dominique Park,9074143601,dominique@parkrealtyalaska.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Stephanie Olendorff,9072296099,olendorff@mac.com,Olendorff Real Estate LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Lacy Mckeown,9077444899,acerealestatealaska@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Bryan M Cable,9077467890,bryanmcable@gmail.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Null Petersen Realty Team,9077276424,miche.merithomesak@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christina Gamez,9079521496,christina@cgamezhomes.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Danielle Grigg,9078548319,danielle@griggrealty.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Mike Rasmussen,9079801948,mike@exitrealtyalaska.com,Signature Real Estate Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Stuart F Greene,9077832010,stu@chugachproperties.com,Chugach Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Trevor Howe,9079470680,howehomesak@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Teri Hensel,9072762761,teresa.hensel@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kelley S Mills,9076313033,kmills@jackwhite.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Frank Zellers,9075625592,frontier.properties@hotmail.com,ENRG Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Tyler Hughes,9077457773,tylerhughes90@gmail.com,Alaska Realty & Investments,Anchorage,AK,Anchorage,AK,False,RentCast
+Terrie Pisa,9072449900,tpisa@jackwhite.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sheila Monson,9078410840,sheila.monson@outlook.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Margaret Nelson,9076324594,mnelsonrealestate@gmail.com,Denali Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Gary Becker,9079523012,gary@kloudrealty.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Deborah Plessinger-robbins,9072762761,drobbins@remax.net,"Anchortown Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Cody M Keim,9075620298,cody.keim@gmail.com,"O'banion Real Estate And Relocation Services, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+J. Michael James,9072277520,jmjames@acsalaska.net,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+John Wilson,9077483787,907johnwilson@gmail.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Jessica Anderson,9076966500,jessicaanderson68@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Steven Bergin,9078542588,steve.pinnaclerealty@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Andrew Ingram,9078307319,andrewingram@ak.net,Jack White Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Craig Lightle,9079297806,clightle@gci.net,"Premier Properties, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Debbie Mumma,9072420241,debbiemumma@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Paul Schilling,9075617326,pls@alaska.net,Schilling Commercial R.E. Llc,Anchorage,AK,Anchorage,AK,False,RentCast
+Jeannine Jouflas,9073138805,jeanninejouflas@gmail.com,Real Broker B Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Eric Sobolik,9075655665,ericsobolik@gmail.com,Jack White Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+David Windsor,9072570129,windsor@alaska.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Emilie Cullison,9073554265,emcalaska15@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Deborah Bennett,9075626464,debbi@calldebbi.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+"Alexia ""Ally"" Sandys",9072306889,alexiatsandys@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+John Burger,9074419030,jburgerak@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Blake Elder,9073548307,blake@rmgrealestate.com,RMG Real Estate Valley Office,Anchorage,AK,Anchorage,AK,False,RentCast
+Savannah Counts,9079529965,savannahcounts.homes@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Evermae Downey,9075701110,evermae@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Jamin Goecker,9076966500,ed@alaskahomes-properties.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Cuevas,9078656500,c_cuevas86@hotmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Racheal Jones,9072978859,jonesak.r@gmail.com,"Hedge Properties, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jeri Ann Strand,9072423442,strands@gci.net,Ward & Associates Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Tommi Galipeau,9078020791,tommigalipeau@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Stephanie Gamble,9073540277,stephaniegamble@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Claire Tatum,9073013128,claireinalaska@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Channen O'malley,9076021408,channen@unityhomegroup.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Garrett Moore,9079521112,garrett@akrealestateconnection.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jack Williamson,9073762414,jcwilliamson98@hotmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Laura Friesen,9076222400,laurafriesen907@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Paul Lambert,9077274688,bestalaskarealtor@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lucinda Cindy Ziegler,9073764515,cindyziegler@gci.net,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Paul Oehlerts,9076719882,pauloehlerts@gmail.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Kibe Lucas,9073574663,admin1@kibelucas.com,The Kibe Lucas Team Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Becky Baird,9072444052,bbairdak@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Sawna Paquin,9075626464,shawnapaquin@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+- Simpson Sizemore Real Estate,9078656500,lisah@pobox.alaska.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Caryn Giliam,9072022818,cari@fastmail.com,CAMALASKA Real Estate Services,Anchorage,AK,Anchorage,AK,False,RentCast
+Jacob Scott,9079523242,jacobscott.ak@gmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Nyeem Johnson,9077446604,akrealestatepi@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Blake Meyhoff,9075633345,blakem@prpalaska.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Dawn Storm,9078656500,dawnstorm@alaskan.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Sydney Roth-peterson,9076023952,sydneyrroth@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Samantha Grubbs,9072972922,srgrubbs4@gmail.com,Alaska Statewide Realty Co,Anchorage,AK,Anchorage,AK,False,RentCast
+John Schlegel,9072306159,schlegeljt@outlook.com,Coldwell Banker Endeavor Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Darrow,9073069616,kevinwinnett@hotmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Kim Johnson,9073491200,kim@paragonpropak.com,Paragon Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Nory White,9072639333,nory@bhhsalaska.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Cole Whitaker,9078646500,colewhitaker97@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Charles Blalock,9072737288,charlesblalock77@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sylvia U Brugger,9077179300,silvia@kloudrealtygroup.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Klint Branum,9076946400,klintbranum@gmail.com,Century 21 Realty Solutions Greatland Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Mike Mclane,9072271533,mike@mmclane.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Patti Higgins,9073602561,info@keytoalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Amy S Raiche,9075298623,ameliaraiche@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Matthew Maxon,9073065088,maxonapartments@gmail.com,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Audry Mach,9078301242,audry.mach@yahoo.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Allisha Sena,9078418574,allisha.sena@gmail.com,Tanner Group Premier Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Janice Lobaugh,9072326451,jlobaughak@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Jake Fiorelli,9073607448,jake@herorealtygroup.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Patrick Wolgemuth,9072273735,wolgemuthrealty@gmail.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Joseph E Lumpkin,9072766784,joe@regal-north.com,Regal North Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Alyssa Hartmann,9073026262,alyssahartmann@hotmail.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kari Disbrow,9074416563,karidisbrow@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tamara Garner,9073417022,tamara.ak.realtor@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Shannon Evans,9073066467,shannon@unityhomegroup.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Beau Disbrow,9072312773,beaudisbrow@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+John Bowen,9073516549,johnbowen3500@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Elise Ell Buchholz,9072420442,eliseb@jackwhite.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+James Huffman,9073069988,jameshuffman.alaska@gmail.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Hugh J. Wade,9072301523,hughjwade@gmail.com,Spire Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
+Sarah Langford,9074415347,akrealestate49@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Jo Mariz Baluyut,9079031677,jomariz.baluyut@exprealty.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Yana Tatarinova,9073438900,info@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Lisa Wiseman,9075626464,lwiseman.jw@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Melissa Flint,9076946400,melissaflintc21@gmail.com,Century 21 Realty Solutions Greatland Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Nick Bruckner,9076251645,nbruckner@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Laurie Lyons,9072299774,llyons@gci.net,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Amanda Adams,9073066250,amanda@synergyhometeam.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Janan Palmer,9076944994,janan@partnersre.com,United Country Real Estate Alaskan Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Anthony Blue Charoensook,9075194143,blue.charoensook@exprealty.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Timothy Whitney,9072809005,tim@partnersre.com,United Country Real Estate Alaskan Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Leslie Lj Jennings,9075383987,ljennings@gci.net,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Reginald Carney,9073558226,reginaldcarneyjr@gmail.com,Ark Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Cindy Lindblom,9076946400,cindy.lindblom@century21.com,Great Land Property Management,Anchorage,AK,Anchorage,AK,False,RentCast
+Joseph O Sirard,9075612227,jsirard.buyersre@gmail.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Derek Livengood,9078656500,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Andrea Senn,9076463600,asenn@remax.net,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Kathy J. Fernandez,9075626464,info@kathyjfernandez.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Luke Steele,9073103822,luke@teamdimmick.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Zhanna Thomas,9072309405,zhanna@thomashomegroup.com,Thomas Home Group LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Jerry Ward,9072423442,alaskajerry907@gmail.com,Ward & Associates Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Melanie Calderon Ladislao,9074862000,melaniec@gci.net,Associated Island Brokers,Anchorage,AK,Anchorage,AK,False,RentCast
+Myong H Yi,9075626464,yimh83@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Jovana Jankovic,9075626464,jovana.realtor@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Tamara Erickson,9076313033,bonnieleonard907@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Willie Brown,9075626464,wbrown@gci.net,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Alison Bucy,9075627653,alison.bucy@gmail.com,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Valerie Whitmore,9072231125,valeriewhitmore@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Jim Standiford,9072617303,jimstandiford@yahoo.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Alyssa Bartlett,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Mckenzie Zipperian,9078656500,m.zipperian@kw.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Janet Stuckart,9072807257,janet.stuckart@exprealty.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Suki Romero,9078656500,suki.romero@icloud.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Anthony Cernadas,9077641674,anthony@my907realtor.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Scott Myers,9072808010,scott.myers@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Heidi Tidler,9072509775,aktidler@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Brenda Quinn,9073013100,brenda@theareteam.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Beth Simpson,9077272384,callbeth@gci.net,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Vanessa Sayer,9074408016,vanessa@unityhomegroup.com.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+James M Tatum,9076221345,jamestatum@gci.net,Denali Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Glenn Hughton,9072761033,ghughton@gci.net,"Dall Realty, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Panhia Yang,9075626464,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Derek Hert,9072424968,derek@corealaska.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Brittainy Bolding,9073063936,cozyinalaska@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Brent E. Seibert,9075626464,bseibertrlist8@gmail.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Anna Perova,9072585800,annaperova.ak@gmail.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Bianca S. Temple,9073414024,bianca@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Jean Santiago,9074140179,jeansantiago.ak@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Amrie Kleinlein,3852459259,amriekleinlein@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Renae Werner,9073659105,homewithrenae@gmail.com,Somers Sotheby's International Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Teresa L Burnett,9078654700,teresalburnett@yahoo.com,Teresa Burnett Real Estate LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Stephanie Wright,9075701110,steph@unityhomegroup.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Colin Roth,9077271191,colinroth@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Saletia Hall,9072585800,saletiahall@gmail.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Kyla Dinkel,9073513392,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Anvalina Faltz,9078309761,anvyanchoragehomes@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Danielle Anders,9072306301,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Eric Hinrichs,9077203407,eric.pinnaclerealty@gmail.com,ENRG Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Diane Stefan,9072292250,dstefan@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Marquita George,9076444663,marq@theareteam.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Gary Kutil,9077272717,gary.kutil@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Kameron Draper Group,9073010208,kameron@907realty.com,Redfin,Anchorage,AK,Anchorage,AK,False,RentCast
+Jillian Shafsky,9073510998,jillian@jillianshafsky.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Shelby Emmert,9078646500,shelby@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Cedric Burden,9074408123,cedricburden@acsalaska.net,Pacrim Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Peter And Helen Jarratt,9072406059,peterandhelen@gci.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christina Hunter,9078543024,christinahunter@bhhsalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+April Slama,9073422482,aprilslama33@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kao Lee Lee,4254207505,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Maureen Operana,9073012492,maureenoperana@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+April Karper,9075312579,april@unityhomegroup.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Gregory Schaaf,9076315100,gschaaf87@gmail.com,Realty ONE Group Aurora Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Laura Cantrell,9072772484,laura@wbcak.com,Cantrell Real Estate & Property Management Inc,Anchorage,AK,Anchorage,AK,False,RentCast
+Cody Fenton,9078646400,codyfenton84@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Patrick Wolverton,9077457773,paoletti.john@gmail.com,Alaska Realty & Investments,Anchorage,AK,Anchorage,AK,False,RentCast
+Larry Lindstam,9072972922,larry@lindstam.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Kay England,9072481457,homes4u@alaska.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Danielle Kiser,9072448796,danielle.kiser@exprealty.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Sarah Weller,8015161086,sarahsellsut@gmail.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Hunter Aubertine,9072236250,hunter@edtrealty.com,Urealty LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Konstantin Gaskov,9072585800,gaskov@me.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Isaiah Goward,9074068348,isaiah@genesis-real-estate.com,Genesis Real Estate LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Carl Reimann,9073026262,reimann.carl@gmail.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Emily Dixon,9072141323,emily@alaskan-homes.com,"Found It, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Don Beattie,9075612111,dbeattie@alaskan.com,"Benson Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Hanna Choi,9072639333,lisah@pobox.alaska.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Amanda Ribons,8054102308,amandaribons@mlsak.com,Real Broker LLC - A Street,Anchorage,AK,Anchorage,AK,False,RentCast
+Jayden Conner,9075194657,connerjayden123@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Katherine Vaught,,katherine@fsbosystem.com,"Firebird Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+William Richardson,9076021553,kevinwinnett@hotmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Lorna Cochran,9072639333,lcochran@gci.net,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Phyllis Kruger,9075633345,phylliskruger8@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Jamison Peters,9077467202,jlpeters@mtaonline.net,Valley Market Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Kathy Geraci,9076941221,kathy@greatlandpm.com,Great Land Property Management,Anchorage,AK,Anchorage,AK,False,RentCast
+"Alfie Oyao, Agent",9073019887,trinityalfie@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Treasure Wren,7023323003,treasurewren@gmail.com,LPT Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Emily Seidler,9072307244,emily-seidler@hotmail.com,Gtk Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tina C. Cole,9072422280,tcole220@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Janet Daley,9072617627,jdaley@alaska.net,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Sean Williams,9073188714,sean@theprincegroup.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Jayme Harris,9076222400,jaymeharrisco@gmail.com,Somers Sotheby's International Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Sara Sturgeon,9073170685,sara.sturgeon@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Lottie Michael,9072427603,lottie@lottiemichael.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Nikki L Hohnadel,9075215199,nikki@unityhomegroup.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Kristina R Gibson,9075626464,kgrealty.jackwhite@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Debraly Gamache,9078654700,debraly@gamachegroupak.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Michael Gailey,9078654700,mikegailey@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Malia Texeira,9073438900,info@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Mary Anne Wivholm,9072502766,wivholm@yahoo.com,Homes Unlimited,Anchorage,AK,Anchorage,AK,False,RentCast
+Rachel Wilson,9079034516,wrachael51@gmail.com,"Anchortown Realty, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Brooke Mclaughlin,9072029500,brooke@aksummitgroup.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Shanda Rice,9073439659,riceshanda@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Albert Circosta,9075612220,albert@alaskabrokerage.com,Infinity Commercial Real Estate Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Ariel Boehringer,8504096673,ariel@mmre.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Eue Ro,9076463600,larry.burke@realtysolutionsak.com,CENTURY 21 Realty Solutions,Anchorage,AK,Anchorage,AK,False,RentCast
+Krystal Holmes,9073519644,krystal@907alpenglow.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Susan L Bruckner,9079822719,sue@valleymarket.com,Valley Market Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Elliott Larsen,9076321949,elarsen386@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Erica Thynes,9079829676,erica@ericathynes.com,Keller Williams Realty Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Danielle Jensen,9077467890,madrockdd@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Amanda Benton,9075395994,amandakae75@outlook.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Darrell R Friess,9072409225,darrell@area907.net,Alaska Real Estate Alliance,Anchorage,AK,Anchorage,AK,False,RentCast
+Rachel Wright,9078656500,reginald@arkrealtyak.com,Ark Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Benjamin Lyons,9075614010,ben@fairweatherak.com,"Fairweather Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Karen Moutry Pelham,9072762761,kmpelham@mail.com,61 North Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Connie Giddings,9072570419,connie@conniegiddings.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Bryan Trombley,9079525861,bryantrombley@remax.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Carole A Marvel,9078848912,cmarvel907@gmail.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Philip Alderfer,9073122832,philip@kloudrealtygroup.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Brande Mcgovern,9072302509,brande.mcgovern@gmail.com,"O'banion Real Estate And Relocation Services, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Stewart Smith,9073447063,stewart@stusell.com,Sss Commercial Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Sally Betz,9072423868,stbetz@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Hina Kalugin,9073996815,hina@bhhsalaska.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Jennifer Linnell,9073511400,jennifer@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Steve Sharp,9078913454,sharphomesak@gmail.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Alexia Sandys,9072306889,alexiatsandys@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Nadina Morris,9073175127,nadina.morris@coldwellbanker.com,EXP Realty LLC- Midtown Anchorage,Anchorage,AK,Anchorage,AK,False,RentCast
+Brooklyn Chaka,9073179973,brooklyn.chaka@coldwellbankerak.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Tyler Bobo,9077278106,tylerboboak@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Brian Sherburne,9077274715,steelhead@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Domonic Harper,9074144663,domzane12@yahoo.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Brandi Cush,9075701110,brandi@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Joy Vedros,9076221345,joy.vedros@exprealty.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Sayla Mcconnell,9073550280,saylamc907@gmail.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Melanee Pattie,9072279107,mdpattie@yahoo.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Curtis Haddox,9078656500,curtis@searchyouralaskahome.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Arthur Clark,9073732950,artclark8@gmail.com,"Alaska Real Estate Associates, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Greg W Shepard,9075613726,gregoryshepard@akfsbo.com,Better Homes and Gardens Real Estate Dream Makers,Anchorage,AK,Anchorage,AK,False,RentCast
+Vickie L Ayala,9072305929,askvickieayala@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Nell Godfrey Wall,9072761033,nellwall@att.net,"Dall Realty, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+Carla Fielding,9075627653,carlaterrazas@gci.net,Sleeper Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Christina Barron,9077993979,christina@wesmadden.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jessica Lowe,9075197026,jessica@zimmermanteamak.com,Discover Alaska Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Staci Beauvais,9073152282,stacibeauvais@gmail.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Martha Brookbank,9077458673,martha@valleymarket.com,Valley Market Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Cori Bryan,9077599338,cbryan@ptpmanagement.com,"Ptp Management, Inc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Womack,9073067664,info@modernrealtysolutions.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kathleen Kowalczuk,9073601176,kathleenkowalczuk@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Matt Lemons,9078656500,matt.d.lemons@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Caylee A Koontz,9076328870,caylee.alaskarealestate@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Christina Brown,9072679647,akchristinabrown@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Lauri Bannon,9078646500,akbannon@gmail.com,Signature Real Estate Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Larry Ficek,9072326711,larry@bhgdreammakers.com,Better Homes and Gardens Real Estate Dream Makers,Anchorage,AK,Anchorage,AK,False,RentCast
+Meggie Chisholm,9073422009,megalewrealestate@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Evanjelina Gonzalez,9077879178,evanjelina.gonzalez@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Rhonda Richie,9072509098,rhonda@akrealtor.net,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Dave Johnson,9078637289,davesalaskahomes@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Steve Larosa,9074416207,steve_larosa@hotmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Briana Pediangco,9075701885,buyingwbri@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kristen Abegg,9072425287,kris@paragonpropak.com,Paragon Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+George Stadnicky,9073452322,george.firstchoicerealty@gmail.com,First Choice Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Donna Cote,9072426957,donnacoterealtor@gmail.com,Jack White Real Estate Mat Su,Anchorage,AK,Anchorage,AK,False,RentCast
+Sarah Hawkins,9075701110,sarah@unityhomegroup.com,"EXP Realty, LLC Anchorage",Anchorage,AK,Anchorage,AK,False,RentCast
+Joleen H Brooks,9073998208,joleen.brooks@myleads.io,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Carrie Schliesing,9072506199,carrie.schliesing@gmail.com,"Service Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Jeduthun C Carpenter,8172964757,jed@carpenterrealtyak.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Donald E Koontz,9073171587,fiddler52@bellsouth.net,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Amy Mackey-hornak,9078301294,sellingalaska@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Steven Bohannan,9076463600,steve@veteransrealtyak.com,LPT Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Robin Hollis,9072452285,robinsaknests@gmail.com,"John O'Hara Real Estate, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Kloud Realty Group,9078656500,info@kloudrealtygroup.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Tristan Smith,9077079464,tristansellshomesak@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Troy Michael Smith,4126362648,troymichaelsmith@gmail.com,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Wilfred Fernandez Iii,9072321205,wil@mrealaska.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Kevin Hennigan,9077925555,kevin@zelenergroup.com,"Bond Filipenko Commercial Properties, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Zack Chico,9072441729,zackchico.ak@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Paige Henry,9072570163,paigehenryrealestate@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Beau R Bodnar,9072778800,beaubodnar@gmail.com,Home Group Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+David Johnson,9075752916,davojohnson81@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Heather Lemmons,8646162059,heather.m.lemmons@gmail.com,"Herrington and Company, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Sabrina S Swanson,9072798040,sswanson@jlproperties.com,Jl Office Leasing,Anchorage,AK,Anchorage,AK,False,RentCast
+Forrest Mcdonald,9076021823,forrest.j.mcdonald@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Myrtle Lewis-mosby,9077646819,myrtle.lewis-mosby@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Joshua Nieblas,9072639333,josh@vipalaskahomes.com,Berkshire Hathaway HomeServices Alaska Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Cora Carleson,9079825700,corasproperties@gmail.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Loretta Ortiz-daniel,9072274142,lorettadaniel@glaciercityrealty.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Sam Daniel,9072274626,sam@glaciercityelite.com,Elite Real Estate Anchorage Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Jerrett Chambers,9075655665,jerrett@chambersalaska.com,Chambers Real Estate Services,Anchorage,AK,Anchorage,AK,False,RentCast
+Johanna M Schmitz,9078646400,johanna.buyersrep@gmail.com,Elite Real Estate Group Palmer,Anchorage,AK,Anchorage,AK,False,RentCast
+Mardi Tursich,9073019894,mardi770@aol.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Tony Maldonado,9075702135,tonymaldonadotnl@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Sonia Cornejo,9073601023,soniacornejo@kw.com,Keller Williams Realty Alaska Group,Anchorage,AK,Anchorage,AK,False,RentCast
+Joseph Gugel,9075216562,joseph@rmgrealestate.com,RMG Real Estate Valley Office,Anchorage,AK,Anchorage,AK,False,RentCast
+Warren Rowe,9075626464,upperlefthomes@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Amy M. Peltier,9072401798,amypeltier@kw.com,Hometown Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Hongbo Bi,2819283710,hongbo.bi@gmail.com,"E C Realty, Inc",Anchorage,AK,Anchorage,AK,False,RentCast
+James Mosley,9076946400,alaskagemhomes@gmail.com,Century 21 Realty Solutions Greatland Branch,Anchorage,AK,Anchorage,AK,False,RentCast
+Jo Ellen Smith,9072405367,jesmith@jemsrealestate.com,Jems Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Dave C Weir,9072762761,daveweir63@gmail.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Andrew Ellis,9078311866,andrewellis23@yahoo.com,360 N. Realty LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Roman G Stephan,9072425315,rgstephan25@gmail.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Sabina Clark,9072274578,sabina@rmgrealestate.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Christopher Lawrence,8774102037,reo@trilrealty.com,Lawrence Realty Group Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Michael Tavoliero,9072301992,exithomeak@gmail.com,"Core Real Estate Group, Llc.",Anchorage,AK,Anchorage,AK,False,RentCast
+Olga Ptak,9074401077,info@akreba.com,Real Estate Brokers Of Alaska,Anchorage,AK,Anchorage,AK,False,RentCast
+Michael Jenks,9072502376,jenksml@gmail.com,Tayal Brokerage,Anchorage,AK,Anchorage,AK,False,RentCast
+Peggy Kelly,9072617625,pckelly@alaska.net,RE MAX Dynamic Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Cindy Wolfe,9073556556,8cindywolfe@gmail.com,"Exp Realty, Llc",Anchorage,AK,Anchorage,AK,False,RentCast
+Edward J. Davison,9075626464,edavison@kw.com,Urealty LLC,Anchorage,AK,Anchorage,AK,False,RentCast
+Matthew Vincent,9075626464,naomilouvier@prualaska.com,Jack White Real Estate,Anchorage,AK,Anchorage,AK,False,RentCast
+Paiton Kelly,9074415375,propertyineagleriver@gmail.com,Eagle River Realty,Anchorage,AK,Anchorage,AK,False,RentCast
+Michelle Coffman,9073012388,kmcoffman@hotmail.com,Homes Unlimited,Anchorage,AK,Anchorage,AK,False,RentCast
+Anna Schulman,9075626464,alaskaanna@gmail.com,"Real Broker, LLC",Anchorage,AK,Anchorage,AK,False,RentCast
+Lauren Hala,9076944994,deand@prpalaska.com,Pacrim Properties,Anchorage,AK,Anchorage,AK,False,RentCast
+Heidi M Whitworth,9073607448,heidi@alaskabestrealty.com,Real Broker Wasilla,Anchorage,AK,Anchorage,AK,False,RentCast
+Holly Shirk,9073127663,hollyshirkrealtor@gmail.com,Realty ONE Group Aurora,Anchorage,AK,Anchorage,AK,False,RentCast
+Marc Dunne,9072295525,mwdunne@alaska.net,Jack White Commercial,Anchorage,AK,Anchorage,AK,False,RentCast
